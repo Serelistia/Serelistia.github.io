@@ -1,0 +1,78 @@
+/* horizontal containers default setting */
+.h-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+/* indented horizontal containers default setting */
+.h-container-indented {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+/* vertical containers default setting */
+.v-container {
+    display: flex;
+    flex-direction: column;
+}
+/* styling for flex containers */
+div {
+    color: #f5a9b8;
+    font-family:courier, fixed, monospace;
+    font-size: 21px;
+    font-size: 21px;
+    margin: 0 2em 0 1em;
+    text-align: right;
+}
+/* hyperlinks formatting */
+a {
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+}
+/* body formatting */
+body {
+    background-color: #ffffff;
+}
+/* main header formatting */
+h1 {
+    color: #5bceff;
+    font-family: courier, fixed, monospace;
+    font-size: 35px;
+    margin-left: 1em;
+    text-align: left;
+    text-decoration: none;
+}
+/* secondary header formatting */
+h2 {
+    color: #5bcefa;
+    font-family: courier, fixed, monospace;
+    font-size: 28px;
+    margin-left: 1em;
+    text-align: left;
+    text-decoration: none;
+}
+/* header bar line formatting */
+hr {
+    color: #5bcefa
+}
+
+p1 {
+    color: #f5a9b8;
+    font-family: courier, fixed, monospace;
+    font-size: 21px;
+    margin-left: 2em;
+    text-align: left;
+    text-decoration: none;
+}
+
+ul {
+    color: #f5a9b8;
+    font-family: courier, fixed, monospace;
+    font-size: 21px;
+    margin-left: 3em;
+    text-align: left;
+    text-decoration: none;
+}
