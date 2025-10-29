@@ -1,12 +1,21 @@
-/* horizontal containers default setting */
-.h-container {
+/* indented horizontal containers default setting */
+.h-container-indented {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: left;
+}
+/* horizontal split containers default setting */
+.hs-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-/* indented horizontal containers default setting */
-.h-container-indented {
+/* indented horizontal split containers default setting */
+.hs-container-indented {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
