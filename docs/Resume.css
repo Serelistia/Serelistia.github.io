@@ -2,12 +2,14 @@
 .h-container {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 /* indented horizontal containers default setting */
 .h-container-indented {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-between;
     margin-left: 2em;
     margin-right: 2em;
@@ -16,10 +18,12 @@
 .v-container {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 /* styling for flex containers */
 div {
-    color: #f5a9b8;
+    color: #E6D8D0;
+    flex-wrap: wrap;
     font-family:courier, fixed, monospace;
     font-size: 21px;
     font-size: 21px;
@@ -34,11 +38,11 @@ a {
 }
 /* body formatting */
 body {
-    background-color: #ffffff;
+    background-color: #443361;
 }
 /* main header formatting */
 h1 {
-    color: #5bceff;
+    color: #76B78E;
     font-family: courier, fixed, monospace;
     font-size: 35px;
     margin-left: 1em;
@@ -47,7 +51,7 @@ h1 {
 }
 /* secondary header formatting */
 h2 {
-    color: #5bcefa;
+    color: #76B78E;
     font-family: courier, fixed, monospace;
     font-size: 28px;
     margin-left: 1em;
@@ -56,11 +60,11 @@ h2 {
 }
 /* header bar line formatting */
 hr {
-    color: #5bcefa
+    color: #76B78E
 }
 
 p1 {
-    color: #f5a9b8;
+    color: #E6D8D0;
     font-family: courier, fixed, monospace;
     font-size: 21px;
     margin-left: 2em;
@@ -69,7 +73,7 @@ p1 {
 }
 
 ul {
-    color: #f5a9b8;
+    color: #E6D8D0;
     font-family: courier, fixed, monospace;
     font-size: 21px;
     margin-left: 3em;
