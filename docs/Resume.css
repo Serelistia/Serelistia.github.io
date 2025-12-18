@@ -1,3 +1,4 @@
+
 /* indented horizontal containers default setting */
 .h-container-indented {
     display: flex;
@@ -88,4 +89,32 @@ ul {
     margin-left: 3em;
     text-align: left;
     text-decoration: none;
+}
+
+.nav {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+
+.nav-links {
+     list-style: none;
+     display: flex;
+     gap: 1.5rem;
+}
+
+.nav-links a {
+     color: #76B78E;
+     text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .nav-links {
+        gap: 1rem;
+        font-size: 0.9rem;
+  }
+
+  .hero h2 {
+    font-size: 2rem;
+  }
 }
