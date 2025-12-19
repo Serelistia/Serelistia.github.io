@@ -48,23 +48,25 @@ a {
 }
 /* body formatting */
 body {
-    background-color: #443361;
+    background-color: #1a1a1a;
 }
 /* main header formatting */
 h1 {
+    background: #2d282d;
     color: #76B78E;
     font-family: courier, fixed, monospace;
-    font-size: 35px;
-    margin-left: 1em;
+    font-size: 1.5rem;
+    padding: 1rem;
     text-align: left;
     text-decoration: none;
 }
 /* secondary header formatting */
 h2 {
+    background: #2d282d;
     color: #76B78E;
     font-family: courier, fixed, monospace;
     font-size: 28px;
-    margin-left: 1em;
+    padding: 1rem;
     text-align: left;
     text-decoration: none;
 }
@@ -74,7 +76,7 @@ hr {
 }
 
 p1 {
-    color: #E6D8D0;
+    color: #feffe5;
     font-family: courier, fixed, monospace;
     font-size: 21px;
     margin-left: 2em;
@@ -83,12 +85,16 @@ p1 {
 }
 
 ul {
-    color: #E6D8D0;
+    color: #feffe5;
     font-family: courier, fixed, monospace;
     font-size: 21px;
     margin-left: 3em;
     text-align: left;
     text-decoration: none;
+}
+
+.logo {
+    background: none;
 }
 
 .nav {

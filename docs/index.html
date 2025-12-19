@@ -18,27 +18,39 @@
           <li><a href="resume.html">Resume</a></li>
           <li><a href="portfolio.html">Portfolio</a></li>
           <li><a href="contact.html">Contact</a></li>
+          <li><a href="essay.html">Essay</a></li>
+          <li><a href="https://sites.psu.edu/bobfolio/">My PSU Sites page</a>
         </ul>
       </nav>
-      
     </header>
   
     <main>
       <section class="hero">
-        <h2>Welcome to bob's website!</h2>
-        <p>Majoring in Digital Arts, Media, and Technology (DIGIT) at Penn State Erie, the Behrend College.</p>
+        <div class="hero-images">
+          <img src="images/milano.jpg" class="active" alt="big orange and white cat" />
+          <img src="images/ginger.jpg" alt="small orange and white cat" />
+        </div>
+        
+        <div class="hero-content">
+          <h2>Welcome to bob's website!</h2>
+          <p>Majoring in Digital Arts, Media, and Technology (DIGIT) at Penn State Erie, the Behrend College.</p>
+        </div>
       </section>
-  
-      <section id="about" class="section">
-        <h3>About</h3>
-        <p>
-          Website for my DIGIT100 class.
-        </p>
-      </section>
-  
-      <footer class="site-footer">
-        <p>© 2025 MySite. All rights reserved.</p>
-      </footer>
+      
+      <script>
+          const images = document.querySelectorAll(".hero-images img");
+          let index = 0;
+        
+          setInterval(() => {
+            images[index].classList.remove("active");
+            index = (index + 1) % images.length;
+            images[index].classList.add("active");
+          }, 5000);
+      </script>
     </main>
+    
+    <footer class="site-footer">
+      <p>© 2025 bobSite. All rights reserved.</p>
+    </footer>
   </body>
 </html>
