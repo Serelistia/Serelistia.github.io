@@ -15,7 +15,7 @@
             <!-- pre-hardmode -->
             <rawmat xml:id="Vine">
                <amount> 3 </amount>
-                  <material> Vines </material>
+                  <material> Vine </material>
                     <stage> pre-hardmode </stage>
                     <from> mob </from>
                     <type> crafting material </type>

@@ -1,0 +1,28 @@
+pattern used: &lt;(rawmat|promat|compsword)\s+xml:id=&quot;[^&quot;]+&quot;&gt;[\s\S]*?&lt;material&gt;\s*([^&lt;]+)\s*&lt;/material&gt;[\s\S]*?&lt;stage&gt;\s*([^&lt;]+)\s*&lt;/stage&gt;[\s\S]*?&lt;/\1&gt;
+
+the stuff it did/found:
+1. <(rawmat|promat|compsword)
+        this matches the opening tag of each element, and the parentheses are for backreference later with (\1)
+2. \s+xml:id="[^"]+"
+        this matches the xml:id that i added to each opening tag
+3. >
+        this matches the closing angled brackets for the opening tags
+4. [\s\S]*?
+        non-greedy match for whitespaces and newlines so that each element can be read regardless of indentations and spaces
+5. <material>\s*([^<]+)\s*</material>
+        captures the material name inside each material tag
+6. [\s\S]*?
+        same as number 4
+7. <stage>\s*([^<]+)\s*</stage>
+        captures the stage name inside each stage tag
+8. [\s\S]*?
+        same as number 4
+9. </\1>
+        backreferences the thing in number 1 so that it closes the correct element
+        
+example retrievals:
+Material: Vine
+Stage: pre-hardmode
+
+Material: Stinger
+Stage: pre-hardmode

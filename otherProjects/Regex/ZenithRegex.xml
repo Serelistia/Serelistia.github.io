@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FindReplacePresets version="1.0">
+    <Preset name="ZenithRegex" type="find" description="material and stage from ZenithXML">
+        <Find>
+            &lt;(rawmat|promat|compsword)\s+xml:id=&quot;[^&quot;]+&quot;&gt;[\s\S]*?&lt;material&gt;\s*([^&lt;]+)\s*&lt;/material&gt;[\s\S]*?&lt;stage&gt;\s*([^&lt;]+)\s*&lt;/stage&gt;[\s\S]*?&lt;/\1&gt;
+        </Find>
+        <Replace></Replace>
+        <Options regex="true" caseSensitive="false" />
+    </Preset>
+</FindReplacePresets>
