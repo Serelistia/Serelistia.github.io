@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<item name="Zenith"> <title> Zenith Crafting Tree </title>
+    
+    <about>
+        About this item:
+        The Zenith has the most complex crafting tree of all items in vanilla Terraria.
+        It involves 22 different base items, surpassing a distant second: the Shellphone at 16 base items.
+    </about>
+    
+    <credit> Exact crafting tree from the Official Terraria Wiki </credit>
+    
+    <list type="raw materials">
+        <label> Raw Materials </label>
+        
+        <rawmat type="crafting material" stage="pre-hardmode"
+                amount="3" from="mob" xml:id="Vine"> 3 Vines </rawmat>
+        <rawmat type="crafting material" stage="pre-hardmode"
+                amount="12" from="mob" xml:id="Stinger"> 12 Stinger </rawmat>
+        <rawmat type="crafting material" stage="pre-hardmode"
+                amount="15" from="world" xml:id="JungleSpore"> 15 Jungle Spore </rawmat>
+        <rawmat type="ore" stage="pre-hardmode"
+                amount="15" from="world" xml:id="CuOre"> 15 Copper Ore (world-dependent) </rawmat>
+        <rawmat type="ore" stage="pre-hardmode"
+                amount="20" from="world" xml:id="Obsidian"> 20 Obsidian </rawmat>
+        <rawmat type="ore" stage="pre-hardmode"
+                amount="30" from="world" xml:id="DemonOre"> 30 Demonite Ore (world-dependent) </rawmat>
+        <rawmat type="ore" stage="pre-hardmode"
+                amount="30" from="world" xml:id="CrimOre"> 30 Crimtane Ore (world-dependent) </rawmat>
+        <rawmat type="ore" stage="pre-hardmode"
+                amount="60" from="world" xml:id="Hellstone"> 60 Hellstone </rawmat>
+        
+        <rawmat type="bar" stage="hardmode"
+                amount="12" from="boss" xml:id="HallowBar"> 12 Hallowed Bar </rawmat>
+        <rawmat type="crafting material" stage="hardmode"
+                amount="1" from="boss" xml:id="BHS"> 1 Broken Hero Sword </rawmat>
+        <rawmat type="crafting material" stage="hardmode"
+                amount="20" from="boss" xml:id="SightSoul"> 20 Soul of Sight </rawmat>
+        <rawmat type="crafting material" stage="hardmode"
+                amount="20" from="boss" xml:id="MightSoul"> 20 Soul of Might </rawmat>
+        <rawmat type="crafting material" stage="hardmode"
+                amount="20" from="boss" xml:id="FrightSoul"> 20 Soul of Fright </rawmat>
+        <rawmat type="ore" stage="hardmode"
+                amount="120" from="world" xml:id="ChloroOre"> 120 Chlorophyte Ore </rawmat>
+    </list>
+    
+    <list type="processed materials">
+        <label> Processed Materials </label>
+        
+        <promat type="bar" stage="pre-hardmode"
+                amount="5" by="furnace" xml:id="CuBar"> 5 Copper Bar (world-dependent) </promat>
+        <promat type="bar" stage="pre-hardmode"
+                amount="10" by="furnace" xml:id="DemonBar"> 10 Demonite Bar (world-dependent) </promat>
+        <promat type="bar" stage="pre-hardmode"
+                amount="10" by="furnace" xml:id="CrimBar"> 10 Crimtane Bar (world-dependent) </promat>
+        <promat type="bar" stage="pre-hardmode"
+                amount="20" by="hellforge" xml:id="HellBar"> 20 Hellstone Bar </promat>
+        <promat type="bar" stage="hardmode"
+                amount="24" by="HMforge" xml:id="ChloroBar"> 24 Chlorophyte Bar </promat>
+    </list>
+    
+    
+
+</item>
