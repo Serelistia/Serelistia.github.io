@@ -1,94 +1,112 @@
 import requests
 from bs4 import BeautifulSoup
+import time
+import random
+import cloudscraper
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
-def extractURL(url):
-    """Grabbing the lore of characters in Dead by Daylight"""
+def extractURL(scraper, url):
     results = []
-
     try:
-        response = requests.get(url)
-        response.raiseStatus()  # will raise an error if bad request
-
+        time.sleep(random.uniform(1, 2))
+        response = scraper.get(url, timeout=10)
+        response.raise_for_status()
+        
         soup = BeautifulSoup(response.text, "html.parser")
+        
+        content = soup.select_one("div.mw-parser-output")
 
-        for p in soup.findAll("p"):
-            iTag = p.find("i")
-            if iTag and iTag.parent == p:
-                text = iTag.getText(strip=True)
-                if text:
-                    results.append(text)
+        if not content:
+            print("No content block found")
+            return []
+            
+        paragraphs = []
 
+        for p in content.find_all("p"):
+            text = p.get_text(" ", strip=True)
+            
+            if text and len(text) >30:
+                paragraphs.append(text)
+        
+        return paragraphs
+        
     except Exception as e:
         print(f"Error fetching {url}: {e}")
-
-    return results
-
-
-def saveResults(url, results, outputFile):
-    """Saving the lore to a separate text file"""
+        return []
+    
+def saveResults(url, data, outputFile):
     with open(outputFile, "a", encoding="utf-8") as f:
-        f.write(f"URL: {url}\n")
-        f.write("-" * 50 + "\n")
+        f.write(f"\n\n--- {url} ---\n\n")
+        for line in data:
+            f.write(line + "\n")
 
-        for item in results:
-            f.write(f"- {item}\n")
-
-        f.write("\n\n")
-
-
-if __name__ == "__main__":
-    outputFile = "output.txt"
-
-    # selection of links to be grabbed
+def main():
     urls = [
-        "https://deadbydaylight.wiki.gg/wiki/Evan_MacMillan",
-        "https://deadbydaylight.wiki.gg/wiki/Philip_Ojomo",
-		"https://deadbydaylight.wiki.gg/wiki/Max_Thompson_Jr.",
-		"https://deadbydaylight.wiki.gg/wiki/Sally_Smithson",
-		"https://deadbydaylight.wiki.gg/wiki/Michael_Myers",
-		"https://deadbydaylight.wiki.gg/wiki/Lisa_Sherwood",
-		"https://deadbydaylight.wiki.gg/wiki/Herman_Carter",
-		"https://deadbydaylight.wiki.gg/wiki/Anna",
-		"https://deadbydaylight.wiki.gg/wiki/Bubba_Sawyer",
-		"https://deadbydaylight.wiki.gg/wiki/Freddy_Krueger",
-		"https://deadbydaylight.wiki.gg/wiki/Amanda_Young",
-		"https://deadbydaylight.wiki.gg/wiki/Kenneth_Chase_alias_Jeffrey_Hawk",
-		"https://deadbydaylight.wiki.gg/wiki/Rin_Yamaoka",
-		"https://deadbydaylight.wiki.gg/wiki/Frank,_Julie,_Susie_,Joey",
-		"https://deadbydaylight.wiki.gg/wiki/Adiris",
-		"https://deadbydaylight.wiki.gg/wiki/Danny_Johnson_alias_Jed_Olsen",
-		"https://deadbydaylight.wiki.gg/wiki/The_Demogorgon",
-		"https://deadbydaylight.wiki.gg/wiki/Kazan_Yamaoka",
-		"https://deadbydaylight.wiki.gg/wiki/Caleb_Quinn",
-		"https://deadbydaylight.wiki.gg/wiki/Pyramid_Head",
-		"https://deadbydaylight.wiki.gg/wiki/Talbot_Grimes",
-		"https://deadbydaylight.wiki.gg/wiki/Charlotte_%26_Victor_Deshayes",
-		"https://deadbydaylight.wiki.gg/wiki/Hak_Ji-woon",
-		"https://deadbydaylight.wiki.gg/wiki/Nemesis_T-Type",
-		"https://deadbydaylight.wiki.gg/wiki/Elliot_Spencer",
-		"https://deadbydaylight.wiki.gg/wiki/Carmina_Mora",
-		"https://deadbydaylight.wiki.gg/wiki/Sadako_Yamamura",
-		"https://deadbydaylight.wiki.gg/wiki/The_Dredge",
-		"https://deadbydaylight.wiki.gg/wiki/Albert_Wesker",
-		"https://deadbydaylight.wiki.gg/wiki/Tarhos_Kovács",
-		"https://deadbydaylight.wiki.gg/wiki/Adriana_Imai",
-		"https://deadbydaylight.wiki.gg/wiki/HUX-A7-13",
-		"https://deadbydaylight.wiki.gg/wiki/The_Xenomorph",
-		"https://deadbydaylight.wiki.gg/wiki/Charles_Lee_Ray",
-		"https://deadbydaylight.wiki.gg/wiki/The_Unknown",
-		"https://deadbydaylight.wiki.gg/wiki/Vecna",
-		"https://deadbydaylight.wiki.gg/wiki/Dracula",
-		"https://deadbydaylight.wiki.gg/wiki/Portia_Maye",
-		"https://deadbydaylight.wiki.gg/wiki/Ken_Kaneki",
-		"https://deadbydaylight.wiki.gg/wiki/William_Afton",
-		"https://deadbydaylight.wiki.gg/wiki/Burong_Sukapat",
-		"https://deadbydaylight.wiki.gg/wiki/Henry_Creel",
+    "https://deadbydaylight.wiki.gg/wiki/Henry_Creel",
+	"https://deadbydaylight.wiki.gg/wiki/Burong_Sukapat",
+	"https://deadbydaylight.wiki.gg/wiki/Animatronic",
+    "https://deadbydaylight.wiki.gg/wiki/Ghoul",
+    "https://deadbydaylight.wiki.gg/wiki/Houndmaster",
+    "https://deadbydaylight.wiki.gg/wiki/Dark_Lord",
+    "https://deadbydaylight.wiki.gg/wiki/Lich",
+    "https://deadbydaylight.wiki.gg/wiki/Unknown",
+    "https://deadbydaylight.wiki.gg/wiki/Good_Guy",
+    "https://deadbydaylight.wiki.gg/wiki/Xenomorph",
+    "https://deadbydaylight.wiki.gg/wiki/Singularity",
+    "https://deadbydaylight.wiki.gg/wiki/Skull_Merchant",
+    "https://deadbydaylight.wiki.gg/wiki/Knight",
+    "https://deadbydaylight.wiki.gg/wiki/Mastermind",
+    "https://deadbydaylight.wiki.gg/wiki/Dredge",
+    "https://deadbydaylight.wiki.gg/wiki/Onryō",
+    "https://deadbydaylight.wiki.gg/wiki/Artist",
+    "https://deadbydaylight.wiki.gg/wiki/Cenobite",
+    "https://deadbydaylight.wiki.gg/wiki/The_Nemesis",
+    "https://deadbydaylight.wiki.gg/wiki/Trickster",
+    "https://deadbydaylight.wiki.gg/wiki/Twins",
+    "https://deadbydaylight.wiki.gg/wiki/Blight",
+    "https://deadbydaylight.wiki.gg/wiki/Executioner",
+    "https://deadbydaylight.wiki.gg/wiki/Deathslinger",
+    "https://deadbydaylight.wiki.gg/wiki/Oni",
+    "https://deadbydaylight.wiki.gg/wiki/Demogorgon",
+    "https://deadbydaylight.wiki.gg/wiki/Ghost_Face",
+    "https://deadbydaylight.wiki.gg/wiki/Plague",
+    "https://deadbydaylight.wiki.gg/wiki/Legion",
+    "https://deadbydaylight.wiki.gg/wiki/Spirit",
+    "https://deadbydaylight.wiki.gg/wiki/Clown",
+    "https://deadbydaylight.wiki.gg/wiki/Pig",
+    "https://deadbydaylight.wiki.gg/wiki/Nightmare",
+    "https://deadbydaylight.wiki.gg/wiki/Cannibal",
+    "https://deadbydaylight.wiki.gg/wiki/Huntress",
+    "https://deadbydaylight.wiki.gg/wiki/Doctor",
+    "https://deadbydaylight.wiki.gg/wiki/Hag",
+    "https://deadbydaylight.wiki.gg/wiki/Shape",
+    "https://deadbydaylight.wiki.gg/wiki/Nurse",
+    "https://deadbydaylight.wiki.gg/wiki/Hillbilly",
+    "https://deadbydaylight.wiki.gg/wiki/Wraith",
+    "https://deadbydaylight.wiki.gg/wiki/Trapper"
     ]
 
-    for url in urls:
-        extracted = extractURL(url)
+    outputFile = "lore.txt"
+
+    scraper = cloudscraper.create_scraper()
+    scraper.headers.update(HEADERS)
+    
+    for i, url in enumerate(urls):
+        print(f"Fetching ({i+1}/{len(urls)}): {url}")
+        
+        extracted = extractURL(scraper, url)
+        print("EXTRACTED:", len(extracted))
+        
         if extracted:
             saveResults(url, extracted, outputFile)
-
+                
+        time.sleep(random.uniform(2, 4))
+    
     print("Lore has been compiled in", outputFile)
+    
+if __name__ == "__main__":
+    main()
