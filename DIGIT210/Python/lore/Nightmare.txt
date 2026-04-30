@@ -1,0 +1,55 @@
+--- https://deadbydaylight.wiki.gg/wiki/Nightmare ---
+
+Freddy Krueger or "The Nightmare" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 6: A Nightmare on Elm Street™ , a Chapter DLC released on 26 October 2017.
+He originates from the Supernatural Slasher film franchise, A Nightmare on Elm Street , specifically from its 2010 remake of the same name.
+The Nightmare is a nightmare Killer, passively pulling Survivors into his Dream World where Survivors are vulnerable to his Dream Abilities . His Dream Projection ability allows him to quickly appear across the map and put pressure onto Survivors.
+His personal Perks, Fire Up , Remember Me , and Blood Warden , improve his abilities over time and make him stronger as the trial reaches its climax.
+His Perks revolve around stopping Survivors from fleeing. They will make surviving a real pain for all, and managing to escape the Hunting Ground won't be easy.
+Difficulty Rating: Moderate ( These Killers require the Player to be comfortable with the basics of the role, though they share common mechanics with easier ones )
+Even while he lived, Freddy Krueger was a creature of nightmares for those who truly knew him. Hiding behind a mask of warmth and friendliness, Freddy's actual temperament was known only to his victims. When those victims were finally heard, the parents of Springwood tracked Freddy down and took the law into their own hands. They thought that fire had rid them of a monster that night, that their children were finally safe, but evil as strong as his has a way of surviving.
+Years passed, the horror was buried, the victims mercifully forgot. Then, somehow, Freddy returned, and dreams became nightmares once again.
+Freddy focused his anger on those he felt had wronged him, building up to his one true obsession, Nancy Holbrook . But he underestimated her strength and resourcefulness. Together with her friend Quentin Smith , she managed to weaken Freddy, mutilating him and leaving him for dead once more.
+Death didn't want Freddy the first time he encountered it, why did they think it would take him now? He emerged once more, consumed with vengeance. Then he turned his sights on the boy who had blocked his path to Nancy, his number one.
+Freddy invaded Quentin's dreams, terrorising him night after night, until his strength and defences would be at their lowest. When the time was right, he forced the boy to return to the dark reflection of Badham Preschool. Here he would have his final revenge.
+Freddy stalked the boy through the school's halls. He took his time, savouring every moment of the hunt. This was what he enjoyed the most, the smell of their sweat in the air, the ragged gasps of their terrified breath. They were his to toy with.
+There was the boy, at the end of a long corridor. Too tired and scared to run anymore? Resigned to his fate? Freddy closed in, arms wide, claws raking the wall. Their tips traced along a pipe, the metallic shrieking only adding to the boy’s apprehension.
+A shower of sparks rained on the ground, and into the liquid that covered the tiled floor. A blue flame blossomed and quickly engulfed the room.
+The boy took flight as Freddy burst from the flames in a fury. Rooms and walls raced past in a blur until they were in Freddy's basement. There would be no escape from here.
+Slowly Freddy closed in on the boy. His fear was so strong now that Freddy could almost taste it, but his eyes burned with a defiant hatred that was almost admirable.
+Then Freddy felt another presence with him; something old, powerful and dark. A miasma enveloped him and the only sensation was a sound like wooden beams flexing and creaking in the distance. The echoing groan of metal crushed against metal. Something arcane and unknowable, half-way between language and pure terror.
+A moment of falling and spinning and then Freddy was back in the school. But not his school. It looked the same, but it felt different. His powers were tempered in some ways and focused in others. The boy had gone for now, but another prey walked the hallways. Some would be inconsequential; others would become his new favourites. All would fall before his claws.
+The Nightmare comes with 3 Perks that are unique to him:
+Once per Trial, hooking a Survivor while Blood Warden is active calls upon The Entity to trigger the following effect:
+"This is my world. And you can't ever leave." — Freddy Krueger
+For each completed Generator , Fire Up gains +1 Token , up to a maximum of 5 Tokens :
+Remember Me does not apply its penalty to the Obsession , allowing them to open both Exit Gates in the default time of 20 seconds .
+You can only be obsessed with one Survivor at a time.
+"You don't remember? You must. You're my number one, and you'll never wake up again." — Freddy Krueger
+Prestiging The Nightmare will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Nightmare twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Clawed Glove is the Primary Weapon of The Nightmare . A homemade device, crafted to torture and kill.
+"Death won't accept him and thus he remains, a calamity, indisputable master of his victims' nightmares." SPECIAL ABILITY: DREAM DEMON The Nightmare is cloaked from awake Survivors. While they can hear his Terror Radius , he is not always visible to them:
+SPECIAL STATE: MICROSLEEP The mere presence of The Nightmare induces Microsleep in awake Survivors, causing them to passively fall asleep over 60 seconds . Survivors who woke up with an Alarm Clock are protected from Microsleep for 30 seconds . SPECIAL STATE: ASLEEP Survivors who fall asleep automatically enter the Dream World and suffer from the following effects while inside it:
+Hitting Survivors with a Basic Attack immediately pulls them into the Dream World , unless they are protected by the temporary Sleep Immunity granted by an Alarm Clock . SPECIAL INTERACTION: WAKING UP Survivors have several ways to wake up and leave the Dream World :
+SPECIAL ABILITIES: DREAM TRAPS The Nightmare has access to 2 types of Dream Traps : Dream Snares and Dream Pallets . Press the Secondary Power button to switch between the two. SPECIAL TRAP: DREAM SNARES Press and hold the Power button to charge a Dream Snare over 0.35 seconds . While charged, press the Attack button to launch the Dream Snare forwards:
+When a Dream Snare collides with a Survivor, it inflicts either of the following effects, depending on their state:
+Dream Snares have a cool-down of 7 seconds . SPECIAL TRAP: DREAM PALLETS The Nightmare can create up to 8 Dream Pallets at a time.
+Press the Power button to enter Pallet Focus Mode . While in this mode, press the Attack button to spawn a Dream Pallet at any valid location within 24 metres Press the Attack button while targetting any Dream Pallet within that same range to Rupture it:
+When a Dream Pallet ruptures while a Survivor is inside its Area of Effect , it inflicts either of the following effects, depending on their state:
+Dream Pallets have a cool-down of 1.5 seconds .
+Survivors can drop a Dream Pallet and attempt to stun The Nightmare , if it is not in the process of rupturing. Dropping a Dream Pallet instantly destroys it, causing it to explode in blood. SPECIAL LOCOMOTION: DREAM PROJECTION The Nightmare can teleport to any Generator in the environment at any time, regardless of its state, as well as to within 8 to 12 metres of any Asleep Survivors involved in a Healing action.
+Once the Power Gauge is full, press and hold the Secondary Power button for at least 0.5 seconds to perform a Dream Projection . Release it prematurely to cancel the interaction, which incurs the full cool-down:
+Upon completion, it inflicts either of the following effects on all Survivors within 8 metres :
+Dream Projection has a cool-down of 30 seconds , which is reduced by a stack-able -15 % for each Asleep Survivor , up to a maximum of -60 % .
+"You have nothing to worry about. This won't hurt one... little... bit." — Freddy Krueger
+Glimpses: Awake Survivors only see glimpses of The Nightmare within a certain range:
+There are 2 Achievements related to The Nightmare :
+For each completed Generator , Fire Up gains +1 Token , up to a maximum of 5 Tokens :
+Remember Me does not apply its penalty to the Obsession , allowing them to open both Exit Gates in the default time of 20 seconds .
+You can only be obsessed with one Survivor at a time.
+"You don't remember? You must. You're my number one, and you'll never wake up again." — Freddy Krueger
+Once per Trial, hooking a Survivor while Blood Warden is active calls upon The Entity to trigger the following effect:
+Players can choose from a variety of Cosmetic options to customise The Nightmare :
+The Nightmare is part of 1 DLC:
+For more go to the Nightmare's Gallery

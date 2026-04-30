@@ -1,0 +1,46 @@
+--- https://deadbydaylight.wiki.gg/wiki/Demogorgon ---
+
+The Demogorgon is one of 42 Killers featured in Dead by Daylight .
+It was introduced as the Killer of CHAPTER 13: Stranger Things , a Chapter DLC released on 17 September 2019.
+It originates from the 2016 Sci-Fi-Horror Web Television series Stranger Things .
+The Chapter was temporarily retracted from Dead by Daylight between 17 November 2021 and 6 November 2023, but it remained a playable Character for anyone who already owned it.
+The Demogorgon is an unidentified Killer, able to open multiple Portals and traverse between them to cover large distances. Using its Power, Of the Abyss , it can detect any Survivors within a close proximity to the Portals then unleash a leaping attack to inflict damage from a distance.
+Its personal Perks, Surge , Mindbreaker , and Cruel Limits , impact the environment close to Generators and affect nearby Survivors in unexpected ways.
+During the Chapter's temporary departure from Dead by Daylight , these Perks were replaced with a generic variant each: Jolt , Fearmonger , and Claustrophobia . These generic perks have been replaced with The Demogorgon's original Teachable Perks with the Chapter's return to Dead by Daylight .
+A blooming mouth full of needle-like teeth for a face, large, curved, razor-sharp claws, and powerful legs to pounce on victims, make The Demogorgon a frightening monster to face in any dimension. It is a nightmare of unrestrained, feral rage as it hunts down its prey and rips it to pieces, devouring every last morsel of flesh and gore, leaving nothing for scavengers. The creature is untouched by any sense of compassion or restraint. Looming over its victim, it shows no doubt or mercy, just the pure instinct of its insatiable blood lust as it delivers the deathblow. A perfect hunter, The Demogorgon is a macabre testament to the horrors lurking in the Upside Down and why it was choice pickings for The Entity.
+The Demogorgon comes with 3 Perks that are unique to it:
+Whenever a Generator is completed, Cruel Limits triggers its effect for 20 / 25 / 30 seconds :
+While repairing a Generator , Survivors suffer from the following effects:
+"The specimen's apparent telepathic ability can evoke feelings of dread and fatigue in nearby individuals." — Hawkins National Laboratory
+Whenever you put a Survivor into the Dying State with your Basic Attack , Surge triggers its effect:
+Prestiging The Demogorgon will automatically add Tier I of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Demogorgon twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Barbarous Claw is the Primary Weapon of The Demogorgon . A gargantuan hand of immense strength. Its long fingers can brutalise prey.
+"An unknown and otherworldly power surged through its body. Suddenly the ground ripped open, swallowing The Demogorgon whole." SPECIAL ABILITY: OF THE ABYSS Press and hold the Power button to channel Of the Abyss :
+SPECIAL ATTACK: SHRED Press the Attack button after charging Of the Abyss to at least 65 % to dash forwards and unleash a vicious slash:
+SPECIAL OBJECTS: PORTALS The Demogorgon starts the Trial with 6 Portals .
+Press and hold the Secondary Power button to bend down and create an Inactive Portal in the ground:
+When The Demogorgon interacts with Inactive Portals to traverse the Upside Down , both the Portal he travels from and the one he travels to are transformed into Active Portals :
+SPECIAL INTERACTION: SEALING PORTALS Survivors can interact with Active Portals to seal them, either alone or together with other Survivors, though at increasingly reduced efficiency:
+Sealing a Portal will recycle it into the inventory of The Demogorgon . SPECIAL LOCOMOTION: TRAVERSING THE UPSIDE DOWN Press and hold the Secondary Power button while standing atop any Portal and aiming at any Highlighted Portal to enter the first Portal and traverse the Upside Down , appearing at the second Portal :
+"Emits a strong electromagnetic field: it must have come into contact with the Upside Down." — Hawkins National Laboratory
+After traversing the Upside Down , the following effect applies:
+You benefit from the following effect:
+"A large egg was sighted in the Upside Down, but no sample survived the trip to the lab for proper examination." — Hawkins National Laboratory
+"A sample taken from the bark of the tree once used as a gate. So far our conclusion as to its effect are inconclusive." — Hawkins National Laboratory
+After traversing the Upside Down , the following effect applies:
+"One small dose can cause severe hallucinations." — Hawkins National Laboratory
+After traversing the Upside Down , the following effects apply:
+When CHAPTER 13: Stranger Things was retracted from Dead by Daylight , all Achievements related to it were replaced by generic ones.
+Before that, there were 2 unlockable Achievements related to The Demogorgon :
+Whenever you put a Survivor into the Dying State with your Basic Attack , Surge triggers its effect:
+While repairing a Generator , Survivors suffer from the following effects:
+"The specimen's apparent telepathic ability can evoke feelings of dread and fatigue in nearby individuals." — Hawkins National Laboratory
+Whenever a Generator is completed, Cruel Limits triggers its effect for 20 / 25 / 30 seconds :
+Playing as The Demogorgon , down Survivors with a Shred Attack a total of 30 times .
+Players can choose from a variety of Cosmetic options to customise The Demogorgon :
+A live subject was necessary to continue the research… except something went very wrong.
+The creature was altered by the dark Fog as it hunted and fed, becoming part Demogorgon, part something else...
+An unusual mutation formed in The Entity’s realm, causing rock-like chitin to grow from the creature’s flesh.
+The Demogorgon is part of 1 DLC:
+For more go to The Demogorgon's Gallery

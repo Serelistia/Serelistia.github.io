@@ -1,0 +1,53 @@
+--- https://deadbydaylight.wiki.gg/wiki/Ghoul ---
+
+Ken Kaneki or "The Ghoul" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 35: Tokyo Ghoul , a Chapter DLC released on 2 April 2025.
+He originates from the 2011 Manga and its 2014 Anime adaptation of the same name, Tokyo Ghoul .
+The Ghoul has been pushed to his limits and he's hungry for more.
+His personal Perks, Hex: Nothing but Misery , Forever Entwined , and None Are Free , help him to Hinder Survivors, hook them more quickly, and block Windows and Pallets when all Generators are completed.
+Ken Kaneki was a gentle and kind-hearted boy who lived a simple life, studying literature at Kamii University, before a chance encounter turned his life upside down.
+He and his friend Hide frequented the café Anteiku, where one of the regulars caught his eye: Rize Kamishiro. She shared his passion for reading, and he spotted her even reading the same novel as him. He worked up the courage to ask her on a date. While walking her home, Rize showed her true colors: those of a ghoul known as The Binge Eater. She feasted on his flesh, nearly killing him, until a freak construction accident caused her demise, and nearly caused his as well.
+To save his life, doctors transplanted Rize's organs into Kaneki. He survived the surgery, but something was wrong... food lost its flavor, and strange cravings dogged him. The life-saving surgery had made him part-ghoul.
+Confused and afraid, he followed his instincts into an alleyway where he ran into Touka Kirishima, one of the staff members at Anteiku. Shocked at his transformation, she brought him back to the café. He was surprised to learn that the staff at Anteiku were ghouls. They took him under his wing, helping him adapt to his new reality. He learned how to fight with his newfound powers, how to deal with his urges to kill and eat human flesh, and how to stay one step ahead of the CCG. His adaptation to his new life was cruelly interrupted when he was kidnapped and subjected to unprecedented physical and mental torture at the hands of a particularly cruel ghoul named Jason. His captor's exercises of control and profound violence were so diabolical that they broke Kaneki's mind, stripped him of what once made him human. His sense of self was shattered, and Rize stepped into the empty space, encouraging him to take control in his own life.
+And control is what he took, paying back Jason's violence in kind. He broke free and battled his captor. The torture made him numb to pain, and his shattered psyche left him no space for hesitation. He defeated Jason after a short battle, and he devoured him.
+He had been dragged into a nightmare a tormented boy, but he walked out a powerful ghoul. He considered what this would mean as he pushed his way through the heavy doors, and barely noticed as a black fog pooled around his feet. He walked out, confident that the torture was over. But as he observed his surroundings, he realized that perhaps it had only begun.
+The Ghoul comes with 3 Perks that are unique to him:
+Whenever a Survivors takes damage, Forever Entwined gains +1 Token , up to a maximum of 6 / 7 / 8 Tokens :
+After damaging Survivors a total of 8 times with Basic Attacks , a random Dull Totem becomes a Hex Totem , cursing all Survivors:
+"All of the liabilities of this world are due to the inadequacies of the person involved." — Ken Kaneki
+Whenever you hook a Survivor for the first time, None Are Free gains +1 Token , up to a maximum of 4 Tokens . Once all Generators are completed, None Are Free calls upon The Entity to trigger the following effect:
+Prestiging The Ghoul will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Ghoul twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+SPECIAL ABILITY: ONE-EYED TERROR The Ghoul starts the Trial with 2 Tokens . SPECIAL ABILITY: KAGUNE LEAP Press and hold the Power button to charge a Kagune Leap , while aiming the reticule at any vertical surface or Survivor within 14 metres . Press the Attack button to initiate a Kagune Leap , consuming -1 Token , or release the Power button to cancel it:
+After performing a Kagune Leap , if there is still a Power Token available, a window of opportunity opens for 5 seconds :
+Kagune Leap automatically enters its cool-down after any of the following:
+During the cool-down, Kagune Leap recharges all consumed Power Tokens at a speed of 4 seconds per Token. The Power only becomes available again after fully recharging all Tokens.
+If Kagune Leap is not already on cool-down, breaking a Pallet causes it to enter a forced cool-down equivalent to 1 Power Token. SPECIAL INTERACTION: TARGETING SURVIVORS & SURVIVOR COLLISION Targeting a Survivor directly or colliding with them at any point during a Kagune Leap has multiple possible effects and interactions:
+SPECIAL ATTACK: GRAB-ATTACK While the Grab-Attack occurs automatically when the conditions are met, it features an optional button prompt QTE:
+The Grab-Attack applies the following effects to the targeted Survivor:
+After performing a Grab-Attack , The Ghoul enters Enraged Mode . SPECIAL AFFLICTION: KAGUNE MARK Fully Mending or entering the Dying State removes the Kagune Mark for that Survivor.
+Marked Survivors cannot be injured by Grab-Attacks , but still suffer its other effects. SPECIAL MODE: ENRAGED MODE While in this mode, The Ghoul is granted these following effects:
+Enraged Mode remains active for as long as there is at least one Survivor with the Kagune Mark or if the Countdown is active. SPECIAL INTERACTION: COUNTDOWN Once the last marked Survivor removes their Kagune Mark , the Countdown triggers and is indicated on their HUD Portrait.
+The Countdown lasts for 40 seconds , after which Enraged Mode ends. Performing a perfectly timed Grab-Attack increases its duration to 50 seconds .
+Collision Detection: Each given value works in tandem with one another to achieve one goal: calculating the duration of a Leap in real-time.
+Hinder Effect: This Hinder Status Effect has a unique property which prevents Survivors from performing Actions.
+Survivors affected by the Kagune Mark experience the following effect while carrying it:
+While aiming Mid-Leap , you benefit from the following effect:
+Whenever a Generator is completed while in Enraged Mode , you benefit from the following effect:
+Survivors affected by the Kagune Mark experience the following effect after it is removed:
+Survivors hit with a Basic Attack while in Enraged Mode inflicts the following effect:
+Upon entering Enraged Mode , you benefit from the following effect:
+Performing a Kagune Leap Vault action triggers the following effect:
+Performing a Vault action while in Enraged Mode triggers the following effect:
+Whenever Enraged Mode ends, you benefit from the following effect:
+Unlocks potential in the third consecutive Kagune Leap while in Enraged Mode :
+Hooking a Survivor while in Enraged Mode triggers the following effect:
+There are 2 Achievements related to The Ghoul :
+After damaging Survivors a total of 8 times with Basic Attacks , a random Dull Totem becomes a Hex Totem , cursing all Survivors:
+"All of the liabilities of this world are due to the inadequacies of the person involved." — Ken Kaneki
+Whenever a Survivors takes damage, Forever Entwined gains +1 Token , up to a maximum of 6 / 7 / 8 Tokens :
+Whenever you hook a Survivor for the first time, None Are Free gains +1 Token , up to a maximum of 4 Tokens . Once all Generators are completed, None Are Free calls upon The Entity to trigger the following effect:
+Players can choose from a variety of Cosmetic options to customise The Ghoul :
+The tattered rags Kaneki wore while suffering Yamori’s torture.
+The ghoul that changed Kaneki’s life forever.
+The Ghoul has 1 alternate Character model available in the in-game Store:

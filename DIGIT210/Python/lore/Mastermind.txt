@@ -1,0 +1,37 @@
+--- https://deadbydaylight.wiki.gg/wiki/Mastermind ---
+
+Albert Wesker or "The Mastermind" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 25: Resident Evil™: PROJECT W , a Chapter DLC released on 30 August 2022.
+He originates from the video game franchise Resident Evil , specifically Resident Evil 5 (2009).
+Albert Wesker is a brilliant and ruthless mastermind infused with the Power of Uroboros.
+His personal Perks, Superior Anatomy , Awakened Awareness , and Terminus , allow him to vault faster, see other Survivors' Auras while carrying one, and cause Survivors to be permanently Broken when the Exit Gates are powered.
+Albert Wesker was a high-ranking official in the Umbrella Corporation. While he made great strides with Umbrella, his ambition drove him to betray the corporation. Believing himself the best test subject, he exposed himself to the Prototype virus. Now with superhuman strength, Wesker faked his death and went underground with a new plan: expose the world to Uroboros, a biological weapon that would eliminate the weak and leave only the strong.
+Wesker began to put his plan to action in Africa but was confronted by members of the Bioterrorism Security Assessment Alliance at a hangar stocked with missiles carrying Uroboros. Determined to be at the vanguard of evolution, he once again made himself a test subject. Exposing himself to Uroboros, he began to evolve in ways he could have never imagined. But as he felt his cells change, a strange black fog seeped into the hangar and filled his vision. When the fog finally dissipated, he found himself in another world surrounded by lesser beings that deserved to be put out of their misery.
+The Mastermind comes with 3 Perks that are unique to him:
+While carrying a Survivor, you benefit from the following effect:
+Whenever a Survivor performs a Rush Vault action within 12 metres of your location, Superior Anatomy activates:
+Once the Exit Gates are powered, Terminus activates:
+Prestiging The Mastermind will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Mastermind twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Combat Knife is the Primary Weapon of The Mastermind . A vicious blade with a serrated edge to aid in tearing up his opponents.
+"The Mastermind can barrel forwards, infecting Survivors with the Uroboros Virus or leaping over obstacles." SPECIAL ABILITY: VIRULENT BOUND The Mastermind starts the Trial with 2 Tokens . SPECIAL ATTACK: BOUND ATTACK Press and hold the Power button to charge Virulent Bound , reducing his Movement speed to 3.68 m/s while he prepares to strike. Press the Attack button to initiate a Bound Attack , consuming -1 Token , or release the Power button to cancel it. Press the Attack button again during the Chain Bound Window of 2 seconds to initiate a second, longer Bound Attack , if there is still a Token available:
+SPECIAL INTERACTION: SURVIVOR COLLISION Colliding with a Survivor at any point during a Bound Attack has multiple possible effects and interactions, which depend on the Survivor's current state regarding their health, infection, and interaction:
+SPECIAL INTERACTION: VIRULENT VAULT Colliding with a dropped Pallet or a Window during a Bound Attack causes The Mastermind to automatically vault over it.
+SPECIAL AFFLICTION: UROBOROS INFECTION Uroboros grows in strength over time, which is indicated with an Infection Meter on the Survivor Portraits in the HUD:
+Being hooked resets the Infection Meter to 1 Charge .
+Once the Infection Meter is full at 100 Charges , Infected Survivors become Critically Infected :
+SPECIAL ITEM: FIRST AID SPRAY Survivors can cure themselves or other Survivors from Uroboros by locating a Supply Case and searching it for a First Aid Spray :
+Bound Ranges: The Mastermind's Bounds do not have a fixed range, only their individual durations and their shared Movement speeds are defined in code. Due to this and the Bounds having acceleration curves, an exact calculation of their range is not possible without in-depth developer-knowledge, only approximations.
+"The balance of the world is changing… and you're completely oblivious to it." — Ricardo Irving
+"The entire world will be infected. A new Genesis is at hand and I will be the creator!" — Albert Wesker
+"Only a handful of humans truly matter. Everyone else is just so much chaff. So now I have to separate this chaff from the wheat." — Albert Wesker
+Used exclusively in 2v8 Trials, the Innate Skill modifies Virulent Bound with the following effects:
+There are 2 Achievements related to The Mastermind :
+Whenever a Survivor performs a Rush Vault action within 12 metres of your location, Superior Anatomy activates:
+While carrying a Survivor, you benefit from the following effect:
+Once the Exit Gates are powered, Terminus activates:
+Players can choose from a variety of Cosmetic options to customise The Mastermind :
+His time leading a S.T.A.R.S. team was really a cover for more underhanded motivations.
+He maintained constant communication with his agents while they were in the field.
+Nobody could predict the complex interactions that would occur between the serum and Uroboros, but that didn’t stop him from testing it on himself.
+The Mastermind is part of ' 1 DLC:

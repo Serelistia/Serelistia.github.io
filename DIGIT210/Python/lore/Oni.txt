@@ -1,0 +1,77 @@
+--- https://deadbydaylight.wiki.gg/wiki/Oni ---
+
+Kazan Yamaoka (Japanese: 山岡 崋山) or "The Oni" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 14: Cursed Legacy , a Chapter DLC released on 3 December 2019 and retired on 8 January 2024.
+He is still available in the In-Game Store and as part of the Old Wounds Pack Chapter Pack DLC.
+The Oni is a monstrous Killer, able to absorb the blood energy of his injured foes, and then use that energy to transform into a brutal demon. Using his power, Yamaoka's Wrath , he can rush down Survivors at great speed and deal deadly strikes with his Kanabō.
+His personal Perks, Zanshin Tactics , Blood Echo , and Nemesis , provide navigational information, punish injured Survivors, and gain advantages over those that interfere.
+Honouring his family name was never enough for Kazan Yamaoka. He wanted to surpass his father's reputation and end what he saw as the thinning of samurai culture with farmers often posing as samurai.  His father tried to turn Kazan's attention to more noble pursuits, but Kazan refused to heed his advice, and borrowing his father's Katana, he embarked on a dark pilgrimage to prove his worth and rid Japan of impostors. Ignoring the code that had been taught to him, Kazan killed impostors in the hills and the valleys, on the beaches and in the woodland. The killings were brutal, cruel and morbid. He humiliated farmers and warriors alike, yanking off their topknots and stripping them of their armour. His rage, bloodlust and perverse sense of honour knew no bounds. Monks believed he was possessed by something dark and otherworldly and cursed him while a noble lord began to call him 'Oni-Yamaoka,' the rageful Samurai, an insult both to Kazan and his family.
+Determined to redeem his family's name, Kazan now butchered anyone who dared call him Oni-Yamaoka. The insult confused him. He had defeated the best and he had purified the samurai class by ridding the land of impostors. How could anyone refer to him as an ogre? Had it been because he had marched onto a battlefield to cut down the fiercest warriors. Had it been because he had taken a Kanabo and dashed hundreds of skulls with it?  Or had it been because of his need to secure a 'trophy' from his victims. It didn't matter. Being called an ogre was more than he could bear and an ominous voice in his head urged him to strike down the lord who had desecrated his name.
+As Kazan made for the lord's town, he suddenly found himself face to face with a samurai standing on a dirt road, blocking his way. Kazan readied his Kanabo. Without a word, the samurai attacked and quickly secured the upper hand. But he hesitated. With a devastating blow, Kazan crushed the samurai's head and cracked his helmet. As Kazan approached the fallen samurai, he saw his father's face and staggered back to his haunches. His father stared at Kazan with mingled shame and regret as he issued his last breath. Kazan closed his eyes and screamed in agony until he could scream no more. When he opened his eyes again... his father was gone. Not only had he killed his father, but he had allowed thieves to steal his body for armour.
+Bitter, lost and disillusioned, Kazan roamed the land aimlessly with his father's voice rattling in his head, taunting him, reminding him of his failures, sending him into fits of uncontrollable black rage. One day, walking in the woods, Kazan happened upon an Oni statue. He stopped and stood motionless for a long moment. The weathered and overgrown statue seemed to be ridiculing him, accusing him of being the impostor samurai he had so desperately sought to destroy. Kazan shook the laughing voice out of his head and half remembered the lord who had ridiculed him as 'Oni-Yamaoka.'
+With renewed anger, Kazan journeyed to a town high up in the snowy mountains where the lord resided. A dozen samurai met Kazan at the gates of the town. A dozen samurai fell to his Kanabo. His speed and strength were unmatched. His rage was incomprehensible. Covered in blood and gore, Kazan battled through the town and soon found the lord hiding in a villa. He dragged him out of a cabinet, sliced his tendons to immobilise him and watched him beg and squirm like a dog. Without hesitation, he thrust his fist into the lord’s mouth and yanked out the wicked tongue that had desecrated his name.
+Satisfied, Kazan exited the villa to find himself surrounded by dozens of farmers wielding rusted scythes, sharp pitchforks, and heavy clubs. He survived the first few assaults, but there were too many attackers coming from every direction. Within moments Kazan was on the ground staring at a cold, indifferent, darkening sky as farmers took turns stabbing and torturing the 'Oni' who had butchered their beloved lord. The frenzied mob dragged Kazan into a small stone mill to continue the torture and finally left him to die a slow, agonising death. When they returned, the mill was filled with a strange black fog and Kazan’s body and the Kanabo were nowhere to be found. It was the beginning of a dark legend about a rageful Oni haunting the town.
+The table below lists additional Lore about The Oni from The Archives , either from Tomes that featured him or from individual Lore entries that mentioned him:
+The Oni comes with 3 Perks that are unique to him:
+Whenever you hook a Survivor, Blood Echo triggers its effect:
+Whenever a Survivor other than your Obsession blinds you by any means or stuns you with a Pallet or a Locker , Nemesis triggers its primary effect:
+"Only a fool would spit in a demon's face and declare victory." — Renjiro's Doctrine 4:9
+Unlocks potential in your Aura-reading ability:
+Prestiging The Oni will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Oni twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Yamaoka Blade is the Primary Weapon of The Oni . A long blade that was passed down from one generation to the next.
+"The desire to destroy weaker bloodlines shaped into a literal force." SPECIAL ABILITY: YAMAOKA'S WRATH Yamaoka's Wrath passively fills the Power Gauge by +0.2 c/s , up to a maximum of 98 Charges .
+Successful Basic Attacks on healthy Survivors fill the Power Gauge by +40 Charges . SPECIAL STATE: ABSORPTION MODE Press and hold the Power button to absorb nearby Blood Orbs left in the environment by injured Survivors, further filling the Power Gauge:
+SPECIAL STATE: BLOOD FURY Once the Power Gauge is full at 100 Charges , press the Secondary Power button to transition into Blood Fury :
+SPECIAL LOCOMOTION: DEMON DASH Press and hold the Power button during Blood Fury to perform a Demon Dash :
+SPECIAL ATTACK: DEMON STRIKE Press and hold the Attack button during Blood Fury to perform a Demon Strike with extended reach:
+Hitting Survivors with the Kanabo instead by just pressing the Attack button only inflicts single damage.
+Absorption Mode: This is whenever The Oni is not in Blood Fury .
+"If a father sacrifices not for his children, then who does he father?" — Renjiro's Doctrine 11:12
+"Though Death is focused, he has been known to blink." — Renjiro's Doctrine 14:5
+"It is no coincidence that man is so familiar with demons." — Renjiro's Doctrine 3:8
+"To plan subterfuge, begin with a counsel of none." — Renjiro's Doctrine 7:9
+"Know who you are so you may shield your heart." — Renjiro's Doctrine 11:2
+Renjiro's Bloody Glove grants Survivors the ability to see Blood Orbs at the same distance as you.
+"When all else spills out, cling only to your honour." — Renjiro's Doctrine 14:12
+Used exclusively in 2v8 Trials, the Innate Skill modifies Yamaoka's Wrath with the following effects:
+There are 2 Achievements related to The Oni :
+Unlocks potential in your Aura-reading ability:
+Whenever you hook a Survivor, Blood Echo triggers its effect:
+Whenever a Survivor other than your Obsession blinds you by any means or stuns you with a Pallet or a Locker , Nemesis triggers its primary effect:
+"Only a fool would spit in a demon's face and declare victory." — Renjiro's Doctrine 4:9
+Players can choose from a variety of Cosmetic options to customise The Oni :
+"Have a Wonderful Winter 2019-2020!" - The Dead by Daylight Team
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+It was a violent, horrible end for Kazan. Overwhelmed by dozens of peasants after killing dozens of others, he was slashed, stabbed, beaten and left to die.
+He entered the battle dressed as a lord and humiliated imposter samurai before exiling into a forest where he would later cut them down.
+He discovered the clothing near a sculpted Daruma figurine that looked like him.
+He discovered the clothing near a sculpted Daruma figurine that reminded him of himself.
+Kazan was sitting under the shadow of a tree. Flies flew around him, attracted by sweat and blood.
+On a red-sky night, he emerged from the burning forest, ready to kill.
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+He set off to bring honor back to the samurai. He disappeared from home with his kanabo and his father's katana.
+He was captured by a small group of farmers posing as samurai to be presented to the region's lord, but he escaped and killed all his captors.
+He was captured by a small group of farmers posing as samurai to be presented to the region's lord, but he escaped and killed all his captors.
+He was captured by a small group of farmers posing as samurai to be presented to the region's lord, but he escaped and killed his captors.
+It was a violent, horrible end for Kazan. Overwhelmed by dozens of peasants after killing dozens of others, he was slashed, stabbed, beaten and left to die.
+He entered the battle dressed as a lord and humiliated imposter samurai before exiling into a forest where he would later cut them down.
+He entered the battle dressed as a lord and humiliated imposter soldiers before exiling them into a forest where he would later cut them down.
+After a small town was ravaged by bandits, he eagerly tracked them down in the mountains.
+He cleansed his blades in a sacred pond touched by the rays of the full Fire Moon.
+He discovered the clothing near a sculpted Daruma figurine that looked like him.
+As stories circulated, many peasants believed him to be a literal oni. They feared that an otherworldly creature—something beyond human—was coming for them in the night.
+A new, unnatural fury took hold of him. Instinct took over, and his thirst for violence grew.
+He grew arrogant following his recent conquests and believed that his success was destined.
+He moved through the forest, trying to keep up as his target darted around him.
+His overwhelming strength made him a priority candidate for testing. The searing pain of the experiment, more than anything, made his rage even more potent.
+He practiced in heavy gear to build his strength.
+The day of Namahage was the perfect opportunity for him. Dressing as an Oni, he was welcomed into homes to admonish naughty children... but it wasn't the children he was after.
+As memories and myths of The Entity’s victims merged in The Fog, a wretched minotaur materialized, unbound from any prison maze.
+The field was littered with thousands of fallen undead samurai and he sought the one responsible.
+A violent and deadly creature from a lost realm.
+The bear roared in bloody fury when it was swept away by a chilling black fog.
+The Oni has 4 alternate Character models available in the in-game Store:
+For more go to The Oni's Gallery

@@ -1,0 +1,50 @@
+--- https://deadbydaylight.wiki.gg/wiki/Xenomorph ---
+
+Xenomorph XX121 or "The Xenomorph" also known as "Internecivus raptus" is one of 42 Killers currently featured in Dead by Daylight .
+It was introduced as the Killer of CHAPTER 29: Alien , a Chapter DLC released on 29 August 2023.
+It originates from the 1979 Sci-Fi Horror Movie Alien .
+A relentless specimen from a distant planet, The Xenomorph is vicious, agile, and cunning.
+Its personal Perks, Rapid Brutality , Alien Instinct , and Ultimate Weapon , allow it to cause nearby Survivors to scream, gain Haste after basic attacks, and see Auras of faraway Survivors.
+A perfect organism, born of violence, designed to kill.
+The Xenomorph emerged from the chest cavity of a host named Kane and sought cover in the shadows of the Nostromo. As it shed its skin, the Xenomorph came to understand its environment. Using the ship’s air ducts, it killed its prey one by one, until only the human Ripley remained.
+Desperate for survival, Ripley destroyed the Nostromo and sought refuge in an escape vessel. But the Xenomorph’s instincts gave it the edge. As the escape vessel floated through space, the Xenomorph lay in wait, watching its prey.
+Just as it was went in for the kill, the vessel’s airlock opened and the Xenomorph was ejected into the cold vacuum of space. All was lost. The Xenomorph was close to death. And then, in an instant, it disappeared in a cloud of black fog.
+The Xenomorph comes with 3 Perks that are unique to it:
+Whenever you hook a Survivor, Alien Instinct activates:
+"Catch it, put it in the airlock, get rid of it." — Dallas
+Whenever you search a Locker , Ultimate Weapon triggers its effects on all Survivors within 40 metres of its location:
+"I can't lie to you about your chances, but... you have my sympathies." — Ash
+Prestiging The Xenomorph will automatically add Tier I of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Xenomorph twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+Lithe Arm is the Primary Weapon of The Xenomorph . Lean, but muscular, capable of striking the quickest prey.
+"Supposedly responding to a distress signal, the Nostromo's crew landed on LV-426. What they found there became one of humanity's greatest horrors." SPECIAL ABILITY: HIDDEN PURSUIT The Xenomorph has a set of intertwining Tunnels available to it beneath the environment that it can access from any of the 7 Control Stations spawning in the environment. SPECIAL OBJECT: CONTROL STATIONS The Auras of Control Stations are revealed to The Xenomorph in white at all times and within 12 metres to nearby Survivors. SPECIAL INTERACTION: HIGHLIGHTING CONTROL STATIONS Press the Secondary Power button while aiming at any Control Station to highlight it in yellow :
+When near an Exit Gate , the nearest Control Station is automatically highlighted. SPECIAL LOCOMOTION: TUNNELS Press the Interaction button at a Control Station to enter the Tunnels :
+Press it again while underneath the same or another Control Station to exit the Tunnels , which triggers the following effects within 16 metres of the Control Station :
+SPECIAL ABILITY: TRACKING FOOTSTEPS While inside the Tunnels , The Xenomorph can detect the movement of Survivors walking or running above it within 16 metres of its location, indicated by reddish footsteps spawning on the ceiling. Survivors can avoid being detected by crouching or standing still. SPECIAL STATE: CRAWLER MODE The Xenomorph passively charges Crawler Mode at a rate of 1 c/s when outside of the Tunnels . Once the Power Gauge is full at 35 Charges , it automatically enters it:
+There are only two ways for The Xenomorph to exit this mode:
+SPECIAL ATTACK: TAIL STRIKE While in Crawler Mode , press the Power button to perform a Tail Strike , which has an increased reach of 4.8 metres . SPECIAL ITEM: REMOTE FLAME TURRET Survivors can interact with a Control Station to retrieve up to 4 Remote Flame Turrets in total and deploy them in the environment to counteract The Xenomorph Turrets can also be undeployed, carried to a new location, and be redeployed.
+While carrying a Turret , Survivors experience the following effects:
+Whenever The Xenomorph comes within 10 metres of a Turret while in Crawler Mode and has Line of Sight with it, the Turret attacks, staggering The Xenomorph and inflicting fire damage, indicated by the Power gauge filling in red . Once the Power gauge is full at 125 Charges , The Xenomorph is stunned and knocked out of Crawler Mode .
+The Xenomorph can destroy deployed Turrets by attacking them, causing them to return to Control Stations after 60 seconds .
+Control Stations have a cool-down of 30 seconds , before another Turret can be retrieved from the same one. "Its structural perfection is matched only by its hostility." — Ash, Science Officer
+While inside the Tunnels, you benefit from the following effect:
+Whenever a Remote Flame Turret is destroyed by any means, it triggers the following effect:
+Whenever a Remote Flame Turret knocks you out of Crawler Mode , you benefit from the following effect:
+Hitting a Survivor within 30 seconds of exiting the Tunnels triggers the following effect:
+Causes Generators within 16 metres of a Remote Flame Turret to experience the following effect:
+While in Crawler Mode , whenever a Survivor stuns you by any means within 20 seconds of you exiting the Tunnels, either of the following effects applies:
+Whenever a Generator is completed, the following effect applies for 15 seconds :
+There are 2 Achievements related to The Xenomorph :
+Whenever you hook a Survivor, Alien Instinct activates:
+Whenever you search a Locker , Ultimate Weapon triggers its effects on all Survivors within 40 metres of its location:
+"I can't lie to you about your chances, but... you have my sympathies." — Ash
+Players can choose from a variety of Cosmetic options to customise The Xenomorph :
+A fierce opponent, scarred from combat.
+In the murky depths of the moon's ocean, an aquatic beast was torn open by the offspring growing inside it.
+A deadly creature fused with parts of an ancient ship.
+As the creature approached maturity, its dead, hardened skin began to split.
+The wretched result of multiple genetic experiments.
+Mother. Hive Leader. The highest of lifeforms.
+The serum slowly circulated bit by bit, eating away at the perfect organism.
+The Xenomorph has 4 alternate Character models available in the in-game Store:
+The Xenomorph is part of 1 DLC:

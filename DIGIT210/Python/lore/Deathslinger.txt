@@ -1,0 +1,86 @@
+--- https://deadbydaylight.wiki.gg/wiki/Deathslinger ---
+
+Caleb Quinn or "The Deathslinger" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 15: Chains of Hate , a Chapter DLC released on 10 March 2020 and retired on 8 January 2024.
+He is still available in the In-Game Store and as part of the Old Wounds Pack Chapter Pack DLC.
+The Deathslinger is a vengeful Killer, able to spear Survivors from a distance and reel them in using his Power, The Redeemer .
+His personal Perks, Gearhead , Dead Man's Switch , and Hex: Retribution allow him to locate and impede Survivor objectives, and punish Survivors for destroying Totems.
+Born in the dust-ridden Badlands of the American Midwest, Caleb Quinn was son to struggling Irish immigrants. On the edge of the frontier, sickness, famine, and death were common sights, and pioneers contended for whatever scraps they could claim while tycoons feasted. Caleb's father, once an engineer, had few options to ply his trade as businesses posted a common sign: No Irish Need Apply. His antiquated tools laid untouched for years until Caleb uncovered them. Noticing his son's interest in the trade, he gifted him his old wrench.
+The devices Caleb made under his father's guidance had quaint applications, but when his father was away, they took a grim turn. He hid plans for a mask that would gouge barbed needles into a human's eyes and rip them from their sockets, complete with sketches of it fitted on boys who bullied him.
+With age, Caleb's engineering abilities became marketable and employers put their discrimination aside. Henry Bayshore , the owner of United West Rail, hired him.
+Caleb first invented a gun that shot railroad spikes into the ground. Next, he made a steam-powered tunnelling drill. But as Bayshore feigned indifference, the devices began turning up at other companies, the patents stolen from Caleb and sold.
+A familiar sensation coursed through Caleb's blood, feeding the sharp pain in his heart. Rage overwhelming him, he burst into Bayshore's office and smashed his face into a bloody stew. As he was pulled away, he pushed his specialised gun to his boss' gut and squeezed the trigger. A railroad spike ploughed through skin and viscera, nailing Bayshore to his desk.
+The only thing that saved Caleb from hanging was Bayshore's unlikely survival. For fifteen years, Caleb was confined to Hellshire Penitentiary, the nation's first private prison. In a fortress of illiterate convicts, he found an unlikely friend in the educated prison warden . He designed torture devices for him and in return received extra meals. After a time, the warden offered to commute his sentence. He spoke of something greater than monetary wealth — political capital — and that his connections could have Bayshore framed and rotting behind bars for life. He had only one request: make him rich. Fill the prison. Use ingenuity to bring outlaws in alive.
+Caleb returned to his workshop, and with a few modifications emerged with something new — the speargun. The first trial occurred when a thief robbed a Chinese laundry. Seizing on the opportunity, Caleb unleashed his prototype. Metal joints screeched as the spike shot forward, gouging into the target's abdomen. But as the spear tugged, it caught the thief's intestines, and, with an ungodly sound, yanked them onto the dusty road. After several iterations, the disembowelments dwindled, but Caleb had already earned his new nickname: The Deathslinger.
+Looking to protect his asset, the prison warden pulled strings and released Irish inmates to form Caleb's posse. The Hellshire Gang was born. For six years, they roamed the country collecting wanted outlaws for the prison, fulfilling their end of the bargain. After a bloody battle at Glenvale, Caleb caught notice of a newspaper headline: Henry Bayshore Purchases Hellshire Penitentiary. In the picture, a disfigured Bayshore proudly shook the warden's hand. Caleb's heart pounded with rage, blood swelling as if it would burst from his veins. He'd been sold out, a pawn in a rich man's game.
+The Hellshire Gang pledged their loyalty to Caleb and called for the warden's head. In a thundering gallop, they smashed through the prison entrance, shrieking like bloodthirsty marauders. A guard raised his pistol, but hesitated. A spear punctured his chest. Caleb grabbed the man's head and slammed it against a prison cell until it spilled through the bars.
+Reaching the warden's office, Caleb kicked the door and was met with a fortunate sight — it wasn't only the prison warden who cowered in a corner, but Henry Bayshore. Overpowered with rage, Caleb rushed to Bayshore, beating, bludgeoning, tearing at his flesh. The man's blood dripped from his face, crimson pooling at his feet. The Hellshire Gang swarmed the warden, snapping bones with each kick.
+With the two men broken and begging for death, the posse dragged them to the commons, where they were left to the growing crowd of prisoners.
+Soaked in blood and sweat, Caleb hobbled to his old cell, hardly paying notice to Bayshore's screams. He sat on the bed's edge as drops of blood ran from his fingertips. A thick, unnatural fog streamed through the barred window. He pulled out his old wrench, cracked and rusted, and ran a thumb along the metal, regarding it with faded eyes. He couldn't remember when it came into his possession. He didn't care to remember. At his feet, he saw a dusty path, and, at its end, silhouettes of all who had done him wrong: the boys who bullied him, the executives who took advantage of him, and, again... Henry Bayshore. Emerging from a fog were the tools to dispose of them — unforgiving steel hooks, brilliant and beautiful in their simplicity. Pain tore through his leg as he stood, but he endured, pushing onwards, walking the dusty path, leaving a trail of blood flowing behind him.
+The table below lists additional Lore about The Deathslinger from The Archives , either from Tomes that featured him or from individual Lore entries that mentioned him:
+The Redeemer comes with 3 Perks that are unique to him:
+Dead Man's Switch cannot activate if its effect is still active from a previous activation.
+"I've seen the look on a man's face when he realises he's going to die." — Caleb Quinn
+After a Survivor loses a Health State , Gearhead activates for 30 seconds :
+"Sometimes a man's best work is what puts him in the grave." — The Prison Warden
+Whenever a Survivor blesses or cleanses a Totem , Hex: Retribution triggers its primary effect:
+"Bloody fool, you pulled the trigger on yourself." — Caleb Quinn
+Prestiging The Deathslinger will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Deathslinger twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Death to Bayshore is the Primary Weapon of The Redeemer . A sharp weapon with a strong bite.
+"The Deathslinger's ingenuity affords him the ability to reel in bounties with a unique invention — a heavily modified hybrid rifle that replaces conventional ammunition with a razor-sharp spear affixed to a chain." SPECIAL ABILITY: THE REDEEMER Press and hold the Power button to Aim Down Sights . SPECIAL WEAPON: SPEARGUN Press the Attack button during ADS to shoot The Redeemer , launching a high-speed chained projectile that can spear Survivors within 18 metres , allowing The Deathslinger to reel them in. SPECIAL INTERACTION: REELING IN Press and hold the Power button while a Survivor is speared by The Redeemer to reel them in towards you:
+Once a Survivor is close enough to you, press the Attack button to break the chain and strike the Survivor with a Basic Attack :
+The Deathslinger can break the chain manually by attacking at any point during the Reeling-in process. SPECIAL INTERACTION: BREAKING THE CHAIN Whenever the chain of The Redeemer experiences tension or collides with the environment, it experiences stress that will eventually cause it to break. The more stress, the faster it will break:
+SPECIAL INTERACTION: RELOADING Press and hold the Secondary Power button to reload The Redeemer after every shot:
+Linked Movement Speeds: This refers to any situation in which The Deathslinger is literally linked to the Impaled Survivor through the chain of The Redeemer . As with the speeds listed above, these are achieved by applying a multiplier to the default Movement speed, rather than a fixed value:
+"You called death to your door the instant you done me wrong." — Caleb Quinn
+"Get your prayers in, you'll be swinging by noon." — Caleb Quinn
+"Know your place, boy. Know you damn place." — Henry Bayshore
+"You'll be met with a fierce reckoning, swear it on my mum's grave." — Caleb Quinn
+"There won't be nothing to fear soon. Till then, fear me." — Caleb Quinn
+"Do not point that thing at me, you slack-jawed imbecile." — Henry Bayshore
+"A smooth taste for the rugged frontier." — Gold Creek Advertisement, 1876
+"Inmates working beyond the prison yard must be affixed with a steel ball of no less than 18 pounds." — Hellshire Penitentiary Guard Book
+"Hellshire Gang: Justice Seekers or Outlaws?" — Glenvale Gazette headline
+"Deals made in desperation are paid for in madness."
+Used exclusively in 2v8 Trials, the Innate Skill modifies The Redeemer with the following effects:
+There are 2 Achievements related to The Deathslinger :
+After a Survivor loses a Health State , Gearhead activates for 30 seconds :
+"Sometimes a man's best work is what puts him in the grave." — The Prison Warden
+Dead Man's Switch cannot activate if its effect is still active from a previous activation.
+"I've seen the look on a man's face when he realises he's going to die." — Caleb Quinn
+Whenever a Survivor blesses or cleanses a Totem , Hex: Retribution triggers its primary effect:
+"Bloody fool, you pulled the trigger on yourself." — Caleb Quinn
+Players can choose from a variety of Cosmetic options to customise The Deathslinger :
+"Have a fantastic holiday season and a bloody good new year!" — The Dead by Daylight Team
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+Caleb's life has been rife with misfortune. It's time for him to make his own luck.
+He doggedly tracked his bounty through the Rocky Mountains of Colorado, cornering him in the town of Silverton.
+Caleb took the blows and hit the ground. The men circled him, telling him they didn't want prisoners in their town.
+He tossed and turned in his cell, dreaming of his devices being used against him.
+He was powerless to resist as beings from another realm turned his torture devices against him.
+He had never experienced Valentine's Day. Love was never in the cards for him.
+A creative inventor who squandered his talent and skill pursing vengeance.
+A creative inventor who squandered his talent and skill pursing vengeance.
+A creative inventor who squandered his talent and skill pursing vengeance.
+A creative inventor who squandered his talent and skill pursing vengeance.
+After being detained for fifteen years, the prison warden paid him a visit, offering to expedite his release. There was a catch: he would have to fill the prison.
+After being detained for fifteen years, the prison warden paid him a visit, offering to expedite his release. There was a catch: he would have to fill the prison.
+After being detained for fifteen years, the prison warden paid him a visit, offering to expedite his release. There was a catch: he would have to fill the prison.
+He doggedly tracked his bounty through the Rocky Mountains of Colorado, cornering him in the town of Silverton.
+Caleb's life has been rife with misfortune. It's time for him to make his own luck.
+He doggedly tracked his bounty through the Rocky Mountains of Colorado, cornering him in the town of Silverton.
+Little Caleb sat in front of the general store, trying to build a fake gun with trimmed branches while waiting for his mother.
+He'd need protection to last. ​The prison warden pulled strings, had him deputized, and released two dozen Irish inmates to form his posse. The Hellshire Riders were born and they were thirsty for blood.
+He had no qualms about spilling blood, even if it meant losing some of his own in the process.
+The man Caleb claimed a bounty on had an unusual outfit, like nothing he’d seen before. Wherever it was from, it was his now.
+He tossed and turned in his cell, dreaming of his devices being used against him.
+After being left for dead, he suffered a grueling surgery that left him with a limp. He swore vengeance.
+The subject's boiling blood made the serum flow like lightning.
+He loved to ride trains with his father.
+He had never experienced Valentine's Day. Love was never in the cards for him.
+His target was a bank robber who had escaped justice by boarding a whaling ship leaving the harbor. Five years later, the bank robber was spotted at the harbor up north.
+One cannot skulk in the shadows without attracting the creatures of the night.
+His endless pursuit brought him to a watering hole populated by beings from other worlds.
+The Deathslinger has 1 alternate Character model available in the in-game Store:
+The Deathslinger is part of 3 DLCs:

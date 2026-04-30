@@ -1,0 +1,78 @@
+--- https://deadbydaylight.wiki.gg/wiki/Dredge ---
+
+The Dredge is one of 42 Killers currently featured in Dead by Daylight .
+It was introduced as the Killer of CHAPTER 24: Roots of Dread , a Chapter DLC released on 7 June 2022 and retired on 14 May 2024.
+It is still available in the In-Game Store and as part of the Endless Hunt Pack Chapter Pack DLC.
+The Dredge is a manifestation of the dark thoughts of a once-vibrant community, able to teleport between Lockers and summon an overwhelming darkness.
+Its personal Perks, Dissolution , Darkness Revealed , and Septic Touch , allow it to destroy Pallets, spot Survivors near Lockers, and afflict healing Survivors with Blindness and Exhausted .
+The Fold was founded on a private American island in the 1960s by a group of anonymous philanthropists. Their goal was to establish a peaceful society free of dark thoughts and emotions, attracting the dismayed, disenchanted, and disillusioned from all over the country.
+This peace-loving community thrived over the years, and members freely followed the dictates of its charismatic leader Otto Stamper who taught his followers the secret of maintaining happiness through joy-talk, meditation, and the endless reciting of 'good-thinking' mantras.
+But not all was bliss within The Fold, and Otto swiftly banished anyone who confessed to having dark thoughts or speaking dark words. Those he appointed as guardians of The Fold were quick to root out malcontents, banishing anyone who thought or spoke against the almost perfect community he had established.
+Life was more or less a Utopian dream on the island. Until, that is, the darkness began to slowly leak through the cracks of their spiritual dam and members began to mysteriously disappear.
+It wasn't long before fear closed its septic jaws on the island and refused to let go.
+The once happy community now gathered in a few homes chanting all the 'good-thinking' mantras in a desperate attempt to rid their lives of this formless creature that seemed to stalk them in the shadows and consume them in their sleep.
+Otto tried to quell his followers, telling them that there were malcontents among their ranks and that they alone had summoned the Druanee to their Garden of Joy.
+As The Fold bleated fear, Otto evoked desperate measures. Ottomarians were restricted to their homes to prevent the spread of rumours and dark-talk while sleep was forbidden to prevent anyone from releasing dark dreams into the world. Freedom and sleep would return just as soon as the Druanee was no longer upon them.
+But when Ottomarians continued to disappear, Otto assembled his followers near the beach where he placed a screaming woman on a wooden stage. There, in the rain, Otto explained to his drenched, alienated, and sleep-deprived congregation that the woman was a journalist here to destroy everything they had created.
+As the guardians held the trembling woman, she screamed that Otto wasn't the saviour he claimed to be. He belonged to an ancient cult, an exclusive club of billionaires that took pleasure in corrupting and sacrificing people, towns and even countries to an Elder God. The journalist told them Otto hadn't banished anyone! He had tortured and sacrificed them and that they would all be next.
+Without hesitation, Otto slit her throat before she could continue to spread lies. As she collapsed to her knees with her hands clasped around her neck, he told his confused and terrified herd that she was working with others within their ranks and that they needed to find the impostors before the Druanee came for them all.
+Otto's words shot over the congregation and reached into the murky recesses of their hearts and dredged up dark and fearful things.
+Years of suppressed emotions began to bubble up as a thick fog pushed through restless legs and feet. Whispers began, and the whispers became panicked mantras, and the mantras became screams and curses as each member accused the next of malthinking and malspeaking.
+Over the howling wind and pounding rain, the screams and curses grew louder and louder as everyone desperately tried to contain the darkness within. But the harder they tried, the quicker they ailed, and within moments the dam burst to release a torrent of hell.
+Otto watched his once blissful and joyful herd suddenly erupt into violence unlike anything he had ever seen before. The Fold bleated accusations and tore each other to bits and pieces with hands and teeth and never once did they look up to see their kind and charismatic shepherd smiling down upon them with eyes that were cold, bleak and without pity.
+When it was all over, Otto felt the creaking, wooden stage shake as a murder of crows circled above. Suddenly, the ground rose and then sank into a thick, oozing black mud like molasses. Moments later, a formless mass squelched out of the muck and rose like a rearing horse to feed upon the writhing mass of butchered humanity.
+It was everywhere and nowhere at once as it slowly picked its way through the carnage, absorbing the darkness, savouring the misery, trailing terrible noises. Shrieks. Cries. Whimpers. Pops. Cracks.
+Otto watched the creature as it slowly began to manifest into the very thing he had imagined—the very thing he had made them all imagine.
+It turned slowly to look at Otto for a long silent moment, then the Druanee trudged away through the thick black sludge, disappearing into the shadows from which it had come.
+The Dredge comes with 3 Perks that are unique to it:
+Searching a Locker has the following effect:
+"Stay in the light, my children. In darkness, your fear will expose you." — Otto Stamper
+After 3 seconds of injuring a Survivor by any means, Dissolution activates for 12 / 16 / 20 seconds :
+Whenever a Survivor performs a Healing action while inside the Terror Radius , they suffer from the following effects:
+Prestiging The Dredge will automatically add Tier I of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Dredge twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Knotted Appendage is the Primary Weapon of The Dredge . Some of the body parts formed into a crude and horrifying weapon.
+"Like a dark thought, The Dredge is difficult to shake. And when night falls, it is nearly impossible." SPECIAL ABILITY: REIGN OF DARKNESS The Dredge starts the Trial with 3 Tokens .
+Press and hold the Power button to activate The Gloaming while leaving a Remnant behind:
+SPECIAL LOCOMOTION: THE GLOAMING While roaming the environment in this state, the Auras of all Lockers are revealed to The Dredge
+Press the Secondary Power button to consume -1 Token and teleport into any Locker at a speed of 19 m/s . Press it again while inside a Locker to teleport into another Locker until all Tokens are consumed.
+Press the Attack button to cancel The Gloaming and instantly return to the Remnant , if it is still available. The Remnant is removed after the first teleport or when a Survivor collides with it.
+The Gloaming has a cool-down of 10 seconds during Daytime and 4 seconds during Nightfall . SPECIAL INTERACTION: HIDING INSIDE LOCKERS After teleporting to a Locker The Dredge sits inside it and can observe the environment outside. While there is no time limit to this, nearby Survivors will hear a warning sound after 8 seconds have elapsed.
+Press the Interaction button to exit the Locker .
+If The Dredge teleports into a Locker already occupied by a Survivor, it will trap the Survivor and emerge from the Locker carrying them. This also happens when a Survivor interacts with a Locker in any way that is already occupied by The Dredge . SPECIAL INTERACTION: LOCKING LOCKERS All Lockers spawn with an open latch on their door that Survivors can interact with to close it and lock the door. Locked Lockers cannot be entered by Survivors and take priority when The Dredge teleports to them.
+The Dredge takes 2.25 seconds to open a Locked Locker from the inside, making a lot of noise in the process. Once The Dredge emerges from a Locked Locker , its lock is broken permanently. The Dredge can also break the lock from the outside by hitting it with a Basic Attack . SPECIAL AFFLICTION: NIGHTFALL The Nightfall Meter fills passively at a rate of +0.25 c/s during Daytime . The fill rate is accelerated whenever The Dredge uses its Power and when Survivors are injured or hooked:
+Once the Nightfall Meter is full at 300 Charges , Nightfall begins and lasts for 60 seconds , forcing Survivors to navigate the environment in near-total darkness while The Dredge benefits from clearer vision and several effects:
+Nightfall VFX: During Nightfall , to counteract the darkness, the Survivors show special visual effects on their model, akin to an Aura, which cannot be read through objects, however. This effect has the following requirements for it to be seen:
+"Like a predatory beast, it can smell and track blood."
+"She came here to poison your minds with fear! Do not let the fear in!" — Otto Stamper
+"There are imposters amongst you! They intend to destroy our perfect home with dark thoughts. Find them and bring them to me!" — Otto Stamper
+There are 2 Achievements related to The Dredge :
+After 3 seconds of injuring a Survivor by any means, Dissolution activates for 12 / 16 / 20 seconds :
+Searching a Locker has the following effect:
+"Stay in the light, my children. In darkness, your fear will expose you." — Otto Stamper
+Whenever a Survivor performs a Healing action while inside the Terror Radius , they suffer from the following effects:
+Players can choose from a variety of Cosmetic options to customise The Dredge :
+"Have an amazing Winter season 2022!" - The Dead by Daylight Team
+She was just a child, but she would never forget the day she and her family moved into their new home. Design inspired by Ivana Krovinova
+Amidst the screams and violence, he saw a figure draped in a white sheet. It was a familiar sight that chilled him to the bone. Design inspired by urouroutsuro .
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+He was a man of faith until the end, clinging to positivity even as he was trampled into the sand by the fleeing crowd.
+A blend of terrifying toys made from the lost memories of children.
+An unsettled creature made from the lost memories of children.
+The bodies of those sacrificed were torn mercilessly, forming hideous scars and scabs.
+Torn asunder and left to the elements, the flesh became sickly and grim.
+Unaging and unfeeling, its muscle grew over with local vegetation between victims.
+There was no sign of Maurice, but the memory of him was reflected in The Dredge’s darkness.
+It arrived at some kind of party, its body adorned in gold and bright colors.
+She froze at the sight of dark antlers looming over her. This thing was reaching into the dark recesses of her memory.
+From the subconscious of the cold and scared emerged a horrifying creature of ice and malice.
+With its flesh decayed, only a sickening collection of bones remains.
+As it decayed, it replaced parts of itself with anything even resembling a human, particularly those that struck fear.
+Amidst the chaos and violence on that beach, the loyal follower attacked his neighbor as their leader looked on.
+They crossed a field of warriors’ remains and bones, nourishing themselves with the flavor of death.
+Many terrible forms of Eddie merged into one, a nightmarish chimera of haunting shapes.
+Everything had gone terribly wrong. He tried to run, but the sand gave way beneath his feet and he fell.
+A blend of terrifying toys made from the lost memories of children.
+The Dredge has 2 alternate Character models available in the in-game Store:

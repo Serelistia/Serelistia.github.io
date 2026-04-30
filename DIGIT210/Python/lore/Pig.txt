@@ -1,0 +1,60 @@
+--- https://deadbydaylight.wiki.gg/wiki/Pig ---
+
+Amanda Young or "The Pig" is one of 42 Killers currently featured in Dead by Daylight .
+She was introduced as the Killer of CHAPTER 7: The SAW™ Chapter , a Chapter DLC released on 23 January 2018.
+She originates from the 2004 Horror Movie franchise of the same name, SAW .
+The Pig is a tormenting Killer, able to crouch into stealth mode, then ambush Survivors from a short distance. She can also apply Reverse Bear Traps to downed Survivors, forcing them to remove it before the timer runs out, triggering an instant death.
+Her personal Perks, Scourge Hook: Hangman's Trick , Surveillance , and Make Your Choice , give her more Map control and expose altruistic Survivors.
+When John Kramer, better known as Jigsaw, planned for his son to be born during the Chinese Zodiac's Year of the Pig, he wanted it to represent fertility and rebirth; a new beginning for him and his wife, and the start of a charmed life for his son. But that plan was shattered on the night that a junkie broke into his wife's clinic, hoping to score.
+After this event resulted in the death of his unborn son, John finally caught up with the junkie, making him his first test subject, and The Pig was changed forever too. It became a representation of the disease that was rotting John from the inside, a reminder that we are just meat unless we elevate ourselves by our actions, by grasping life from the jaws of death. The Pig became a vessel, an agent of Jigsaw, conveying the subjects to their test. For some of those who emerged victorious, The Pig could still be a rebirth, into their new lives as apprentices, even disciples, of Jigsaw.
+That was the case for Amanda Young, a troubled soul, whose life had been a catalogue of harm, both to herself and those around her. That changed when she faced, and bested, Jigsaw's test. Deciding her life was worth something, she became devoted to Jigsaw's cause, ready to take over when cancer consumed him.
+But she became more dependent on John, her anguish at his impending death combining with a belief that their test subjects weren't capable of saving themselves, of being reborn in the crucible of the games.
+Seeing this, John presented her with another game, another chance to save herself, but Amanda let her rage and jealousy rule her actions. She failed the test and took a bullet as a consequence.
+Bleeding out on the tiled floor, darkness engulfed Amanda's vision, accompanied by a sound like creaking wood. Then she was in a forest, once more viewing the world through the eyes of a Pig. Trees surrounded her, their branches clawing at her from all sides. Waves of panic washed over her and she could hear her breath reverberating inside the mask.
+Had she been damned, cursed to spend her days here, in this guise? Or maybe this was another test? Maybe she hadn't failed at all? John always thought one step ahead of everyone else, planned for every eventuality, and he would never give up on her, surely?
+Jigsaw may have gone but he had passed her onto another. A being for whom she would be The Pig again.
+Ultimately, she saw now that she had been right in the choices she had made. The time for games was over. There was no chance of redemption for any of them. They were meat, and meat was destined for slaughter.
+The table below lists additional Lore about The Pig from The Archives , either from Tomes that featured her or from individual Lore entries that mentioned her:
+The Pig comes with 3 Perks that are unique to her:
+Make Your Choice has a cooldown of 40 / 50 / 60 seconds .
+"You'd be surprised what tools can save a life." — Amanda Young
+At the start of the Trial, 4 Hooks in the environment are changed into Scourge Hooks :
+While carrying a Survivor, Scourge Hook: Hangman's Trick triggers its primary effect:
+The Auras of damaged Generators are highlighted based on their current state:
+Prestiging The Pig will automatically add Tier I of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Pig twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Hidden Blade is the Primary Weapon of The Pig . A razor-sharp blade, attached to a mechanical contraption that can conceal or extend it.
+"Forever devoted to her master's cause, she punished the ungrateful and the guilty with slyness and murderous puzzles. The Pig can move stealthily, dash in Ambush attacks and put deadly Reverse Bear Traps on Survivors' heads." SPECIAL ABILITY: JIGSAW'S BAPTISM The Pig starts the Trial with 4 Reverse Bear Traps equipped, which cannot be replenished once used. Additionally, 5 Jigsaw Boxes spawn in random locations in the environment. SPECIAL LOCOMOTION: CROUCHING Press the Secondary Power button to transition into the Crouched State :
+Press the Secondary Power button again to transition out of the Crouched State . SPECIAL ABILITY: AMBUSH DASH Press and hold the Attack button while in the Crouched State to charge and perform an Ambush Dash Attack .:
+SPECIAL TRAP: REVERSE BEAR TRAPS Press the Power button while standing above a downed Survivor to attach an unarmed Inactive Reverse Bear Trap to their head.
+Whenever a Generator is completed, all currently Inactive Reverse Bear Traps are activated.
+Active Reverse Bear Traps are armed and on a Death Timer of 150 seconds , which is displayed on the Survivor's Status icon.
+Once the Death Timer elapses, the trap snaps open and kills the Trapped Survivor . The Death Timer is paused whenever that Survivor is downed, hooked, or actively being chased by The Pig .
+Trapped Survivors may only leave the Trial normally if their trap is inactive . Attempting to leave through the Exit Gates with an active trap will trigger the kill mechanism and execute the Survivor halfway into the exit area. They may still leave through the Hatch . SPECIAL INTERACTION: JIGSAW BOXES Survivors can remove a Reverse Bear Trap by interacting with a Jigsaw Box and finding a key. The Auras of all unsearched Jigsaw Boxes are revealed to Trapped Survivors at all times.
+Trapped Survivors must randomly search between 1 to 4 Jigsaw Boxes :
+Jigsaw Boxes have a shared pool of 12 searches per Trial.
+"You will give everything to me, every cell in your body. The marks on your arms, they're from another life. We'll leave that life behind. When you walk down that corridor there is no turning back. Do you understand that?" — Jigsaw's Baptism
+You benefit from the following effect:
+Modifies the Ambush Dash attack with the following effects:
+Modifies the Ambush Dash attack with the following effects:
+While attaching a Reverse Bear Trap to a downed Survivor, Bag of Gears applies its primary effect:
+"Listen, there are rules." — Jigsaw
+Survivors caught in a Reverse Bear Trap suffer from the following effect:
+Survivors caught in a Reverse Bear Trap suffer from the following effect:
+While attaching a Reverse Bear Trap to a downed Survivor, Crate of Gears applies its primary effect:
+"Amanda, you were with Cecil the night Jill lost Gideon. You killed their child. You know it and I know it." — Detective Hoffman
+There are 2 Achievements related to The Pig :
+At the start of the Trial, 4 Hooks in the environment are changed into Scourge Hooks :
+While carrying a Survivor, Scourge Hook: Hangman's Trick triggers its primary effect:
+The Auras of damaged Generators are highlighted based on their current state:
+Make Your Choice has a cooldown of 40 / 50 / 60 seconds .
+"You'd be surprised what tools can save a life." — Amanda Young
+Players can choose from a variety of Cosmetic options to customise The Pig :
+To appreciate life, Amanda would have to suffer.
+Pigskin is tough and hardwearing, as long as you tan it before it rots.
+She realized this party was her chance to prove her worth. The thought gave her chills.
+Slaughter is an art requiring razor-sharp wit and deception.
+To appreciate life, Amanda would have to suffer.
+She comes as a friend, dressed to blend in. Then the games begin.
+She triumphed over many gruesome tests in her life before. She accepted that she must endure one more.
+For more go to the Pig's Gallery

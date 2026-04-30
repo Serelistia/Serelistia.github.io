@@ -1,0 +1,114 @@
+--- https://deadbydaylight.wiki.gg/wiki/Doctor ---
+
+Herman Carter or "The Doctor" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 4: Spark of Madness , a Chapter DLC released on 11 May 2017 and retired on 8 January 2024.
+He is still available in the In-Game Store and as part of the Maddening Darkness Pack Chapter Pack DLC.
+The Doctor is a madness-inducing Killer, able to use his Power - Carter's Spark , incapacitating Survivors and causing them to hallucinate and scream in terror, revealing their position.
+His personal Perks, Overwhelming Presence , Monitor & Abuse , and Overcharge , encourage chases, impact Survivors' ability to repair effectively and make him harder to detect when not in a Chase.
+His Perks are about hindering and creating problems for the Survivors. The sheer stature of The Doctor infuses fear and terror in those around him.
+From an early age, Herman Carter understood the human psyche. To analyse and de-construct something as powerful as the brain intrigued him. He was an apt pupil and gained the attention of his teachers. He excelled in high-school and was published in "Partisan" — a psychology gazette. Within a year, Carter was fast-tracked into Yale's advanced neuroscience programme, really a front for the CIA. Brainpower is a must if you're about to conquer the world and demolish foes across the pond. The CIA understood this, so interrogation and intelligence became their number one priority. All they needed were brilliant people — like Carter.
+Carter and other top-tier recruits were transferred off-campus and into a secret black site facility in Illinois known as Léry's Memorial Institute . A protégé craves a mentor, and that's where Dr Otto Stamper stepped in, who taught Carter that information is everything and knowledge is power. He was given all instruments needed, a guiding hand, and more or less everything he asked for. He never realised that sunlight had started to become so scarce, that he too was kept in the dark. Because knowledge doesn't only give you power, it also transforms you into a threat.
+To extract information was his mission. Dr Stamper encouraged Carter to go further and not to consider this a normal medical facility — no eyes were watching them, there were no rules to abide. The agency just pointed Carter in the right direction, then he started to take a few steps back as he saw how Carter could walk on his own. Docile test subjects were exchanged for real, live spies. People that played a role in the troubles outside the facility. Carter shouldered this new role — Project Awakening took form, and on paper Carter described it as "experimental interrogation". It was approved and over a few months, nobody knocked on his door. Screams and moans filled the corridor outside his lab, but wars skew people and what they accept — as long as the enemy is kept at bay. The fluorescent lights flickered more and more often. Electro-convulsive Treatment became a standard dish on the menu. Prisoners held at the facility begged the guards to take them to any other lab but Carter's. Rumours were disregarded in the beginning.
+Over the years, Carter became known as The Doctor and no one ever questioned if he had even held a medical certificate or even what happened to the prisoners after they had given up their information. It was only after the Léry's Memorial Institute went silent for a week that they finally uncovered the true horror of what had happened there.
+Carter's experimental information extraction had turned to horrific and bizarre torture. Patients and prisoners were found dead or in vegetative states with all types of head trauma. In his office, they found the most terrible discovery of all. Dr Stamper himself, his head peeled open and an array of electrodes and sensors inserted into his still working, but annihilated brain. There was no sign of Herman "The Doctor" Carter, but his research papers suggested that he had been using the prisoners as part of awful ECT experiments as he searched for the panacea of mind control.
+The government didn't want to know. The black site was condemned and all knowledge of the Léry's Memorial Institute redacted forever.
+Showing exceptional aptitude in psychology, Herman was handpicked for special training in an advanced neuroscience program located in a secret black site facility in Illinois known as Léry's Memorial Institute, really a front for the CIA.
+This is where Herman met Dr Otto Stamper, where, under his guidance, Herman began to use strange and ever increasingly vicious methods to extract information from prisoners sent to the institute, which was also a covert prison and re-education centre for whoever was the USA's current nemesis. His liberal use of violent electroshock therapy revealed dramatic results and several threats to national security were uncovered.
+Over the years, Herman became known as The Doctor and no one ever questioned if he had even held a medical certificate or even what happened to the prisoners after they had given up their information. It was only after Léry's Memorial Institute went silent for a week that the true horror was finally discovered. The personnel, patients, and prisoners were all found dead with all types of head trauma. All personnel and prisoners' bodies were accounted for, including Dr Stamper, but no sign of Herman “The Doctor” Carter.
+The table below lists additional Lore about The Doctor from The Archives , either from Tomes that featured him or from individual Lore entries that mentioned him:
+The Doctor comes with 3 Perks that are unique to him:
+While actively chasing a Survivor, Monitor & Abuse applies its primary effect:
+"It's time for your treatment!" — Herman Carter, The Doctor
+Performing the Damage Generator action on a Generator applies Overcharge :
+Whenever a Survivor starts using an Item within 32 metres of your location, Overwhelming Presence triggers its primary effect:
+Prestiging The Doctor will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Doctor twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Stick is the Primary Weapon of The Doctor . An instrument of punishment when all other treatments failed.
+"Is it a gift, or a curse? The Entity has ignited a corrupted and inexhaustible spark in The Doctor's heart which allows him to generate electroconvulsive power at will. His insidious treatment corrupts the minds of those it touches. Victims shocked by the corrupt spark begin to lose their grip on reality and, with repeated exposure, inevitably succumb to madness." SPECIAL ABILITY: CARTER'S SPARK Striking Survivors with his electro-convulsive abilities, The Doctor causes them to suffer from the tiered Madness Status Effect . SPECIAL AFFLICTION: MADNESS Madness causes increasingly potent afflictions in the affected Survivors, depending on its current tier.
+Once Madness is obtained, Survivors are unable to lose it and may only reset it to Tier I by performing the Snap Out of It interaction. Madness I has the following permanent effects until a tier-up:
+Madness II has the following permanent effects until a tier-up:
+Madness III has the following permanent effects until Survivors Snap Out of It :
+SPECIAL INTERACTION: SNAP OUT OF IT Survivors having reached Madness III can perform the Snap Out of It interaction for 12 seconds :
+SPECIAL ABILITY: SHOCK THERAPY Press and hold the Power button to perform a Shock Therapy Attack , unleashing a cone-shaped ranged shock attack on the ground in front of The Doctor :
+Survivors struck with a Shock Therapy Attack suffer from the following effects:
+Survivors suffering from the Oblivious Status Effect when struck by Shock Therapy have it removed immediately. SPECIAL ABILITY: STATIC BLAST Press and hold the Secondary Power button , once the Power Gauge is full, to perform a Static Blast Attack , unleashing a ranged shock attack that propagates outwards from The Doctor :
+Survivors struck with a Static Blast Attack suffer from the following effects:
+Survivors can prevent being struck by Static Blast by hiding inside a Locker . Survivors suffering from the Oblivious Status Effect when struck by Static Blast have it removed immediately.
+Static Blast has a variable cool-down:
+Survivors affected by Madness suffer from the Affliction of Calm :
+Survivors affected by Madness suffer from the Affliction of Order :
+You share into your patients' Madness and can see the Illusionary Pallets .
+Survivors affected by Madness suffer from the Affliction of Calm :
+Survivors affected by Madness suffer from the Affliction of Discipline :
+You share into your patients' Madness and can see the Illusionary Red Stain .
+"We re-educate our patients with the greatest care." — Léry's Memorial Institute
+Survivors affected by Madness suffer from the Affliction of Order :
+You share into your patients' Madness and can see the Illusionary Pallets .
+"Side effects are very rare." — Léry's Memorial Institute
+Survivors affected by Madness suffer from the Affliction of Restraint :
+You share into your patients' Madness and can see the Illusionary Doctors .
+Survivors affected by Madness suffer from the Affliction of Discipline :
+You share into your patients' Madness and can see the Illusionary Red Stain .
+"Respect of our patients is at the core of our principles." — Léry's Memorial Institute
+Survivors affected by Madness suffer from the Affliction of Restraint :
+You share into your patients' Madness and can see the Illusionary Doctors .
+Survivors affected by Madness suffer from the Affliction of Calm :
+"Higher quality seizures trigger catatonia. At least it gives me peace for the time it lasts." — Herman Carter
+Survivors affected by Madness suffer from the Affliction of Discipline :
+You share into your patients' Madness and can see the Illusionary Red Stain .
+"To avoid relapse from our most tenacious subjects, use maximum levels when proceeding with disciplinary actions." — Herman Carter
+Survivors affected by Madness suffer from the Affliction of Order :
+You share into your patients' Madness and can see the Illusionary Pallets .
+"The stimulus must be kept active at a convulsive level." — Herman Carter
+Survivors affected by Madness suffer from the Affliction of Restraint :
+You share into your patients' Madness and can see the Illusionary Doctors .
+"I CAN SEE THEIR DISGUSTING ILLNESSES ." — unsighned Notes, likely Herman Carter
+Survivors affected by Madness suffer simultaneously from the Afflictions of Calm, Discipline, Order, and Restraint :
+"Gazing into the iridescent glass is plunging one's self into madness." — Herman Carter
+Survivors struck by either the Shock Therapy Attack or a Static Blast acquire a lingering Static Charge , unless they are within 4 metres of another Survivor:
+There are 3 Achievements related to The Doctor :
+Whenever a Survivor starts using an Item within 32 metres of your location, Overwhelming Presence triggers its primary effect:
+While actively chasing a Survivor, Monitor & Abuse applies its primary effect:
+"It's time for your treatment!" — Herman Carter, The Doctor
+Performing the Damage Generator action on a Generator applies Overcharge :
+Players can choose from a variety of Cosmetic options to customise The Doctor :
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+The thought of having a hundred potential victims confined to a tin can in the ocean was only a dream. But The Entity has a way of providing...
+His techniques were brutal, yet thoughtful and deliberate. This was a man who was going places.
+He was all alone in the classroom, admiring his finished device, when the teacher came over.
+A sadistic villain from a nightmarish realm.
+A cruel tormentor from a nightmarish realm.
+An outfit for the man who wants your heart. Literally.
+The apparatus was complete. He could now administer pain like never before.
+The apparatus was perfect. He took pleasure in watching his victims endure unfathomable pain.
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+The brain is the new frontier to conquer. In your able hands, this uncharted territory becomes a force to be reckoned with.
+Inspire front line trauma in your patients.
+Inspire front line trauma in your patients.
+His techniques were brutal, yet thoughtful and deliberate. This was a man who was going places.
+It's not personal. It's strictly business.
+Why don't you take a seat over there and explain exactly what the problem is? Oh, don't mind that… it is simply a therapy tool to help reach a desirable resolution.
+Why don't you take a seat over there and explain exactly what the problem is? Oh, don't mind that… it is simply a therapy tool to help reach a desirable resolution.
+Sometimes, one must experience the treatment in order to be able to administer it effectively. Now that is over, it's time to start the session…
+Infections can be figurative as well as literal. Free will is an infection and The Doctor has just the cure.
+He conducted the first wave of experiments. His aim was to transmit information from his brain to his test subject despite the pain it would inflict.
+Prey on the flooded slums reeking of sewage and rot to conduct your experiments.
+There's so much to learn from live human bodies, including your own.
+He dressed up for his torture session during the Fire Moon Festival.
+A horrifying combination of body parts stitched together, electrified, and brought to life.
+His experiments in pain extended even to himself at times, with one particularly grim foray into insect breeding.
+A relentless specimen with acute aggressive responses to experimentation. Physical restraints were used on both ankles.
+A sadistic villain from a nightmarish realm.
+His early experiments with blood electrification gave him the false belief he was more spry, alert, and prone to outburst.
+He delighted at the instrument on his workbench. He always sought to improve his methods for extracting information.
+An outfit for the man who wants your heart. Literally.
+The apparatus was complete. He could now administer pain like never before.
+A merciless ruler, who wielded ultimate power over his victims.
+He tore apart those haunted by grief and remorse.
+The Doctor has 2 alternate Character models available in the in-game Store:
+For more, go to Doctor's Gallery
