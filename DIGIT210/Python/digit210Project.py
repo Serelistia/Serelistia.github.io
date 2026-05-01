@@ -1,8 +1,9 @@
-import requests
 from bs4 import BeautifulSoup
-import time
-import random
 import cloudscraper
+import os
+import random
+import requests
+import time
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36",
@@ -10,7 +11,6 @@ HEADERS = {
 }
 
 def extractURL(scraper, url):
-    results = []
     try:
         time.sleep(random.uniform(1, 2))
         response = scraper.get(url, timeout=10)
@@ -18,25 +18,33 @@ def extractURL(scraper, url):
         
         soup = BeautifulSoup(response.text, "html.parser")
         
-        content = soup.select_one("div.mw-parser-output")
-
-        if not content:
-            print("No content block found")
-            return []
+        loreHeading = soup.find("span", {"id": "Lore"})
+        if not loreHeading:
+            print("No Lore section found")
+            return[]
             
-        paragraphs = []
-
-        for p in content.find_all("p"):
-            text = p.get_text(" ", strip=True)
-            
-            if text and len(text) >30:
-                paragraphs.append(text)
+        h2 = loreHeading.find_parent("h2")
         
-        return paragraphs
+        results = []
+        
+        for sibling in h2.find_next_siblings():
+            if sibling.name == "h2":
+                break
+                
+            if sibling.name == "p":
+                text = sibling.get_text(" ", strip = True)
+                if text:
+                    results.append(text)
+                
+        return results
         
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         return []
+    
+def urlToFileName(url):
+    name = url.split("/wiki/")[-1]
+    return f"{name}.txt"
     
 def saveResults(url, data, outputFile):
     with open(outputFile, "a", encoding="utf-8") as f:
@@ -97,6 +105,8 @@ def main():
     
     for i, url in enumerate(urls):
         print(f"Fetching ({i+1}/{len(urls)}): {url}")
+        
+        outputFile = urlToFileName(url)
         
         extracted = extractURL(scraper, url)
         print("EXTRACTED:", len(extracted))
