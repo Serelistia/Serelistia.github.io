@@ -1,0 +1,64 @@
+--- https://deadbydaylight.wiki.gg/wiki/Dark_Lord ---
+
+Vlad Tepes Dracula or "The Dark Lord" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 33: Castlevania , a Chapter DLC released on 27 August 2024.
+He originates from the Video Game Franchise Castlevania by Konami, specifically Castlevania: Symphony of the Night (1997).
+The Dark Lord, Dracula , is the embodiment of darkness and tragedy.
+His personal Perks, Hex: Wretched Fate , Human Greed , and Dominance , allow him to slow the Repair speed of the Obsession , reveal the Auras of unopened Chests and nearby Survivors, and temporarily block Chests and Totems .
+Inconsolable grief metamorphosed into madness after the death of Dracula's beloved. He sought out the fabled Crimson Stone as a way to cheat death, but death trapped his soul inside the stone, granting him eternal life as a vampire. Vlad Tepes Dracula was now the Dark Lord. He slept by day and hunted in the eventide, seeking out the living and stealing their lifeblood. He built a castle in Romania shielded with sinister magic and turned many of the local villagers into the living dead. Dracula's Castle became a symbol of terror and despair. His power seemed unassailable and many perished trying to defeat him as he sowed endless chaos, suffering, and death.
+In 1476 Trevor Belmont of the Belmont Clan ended Dracula's reign with the Vampire Killer. But the undead never stay dead for long and Dracula was resurrected more than once over the centuries to continue his quest for revenge.
+Last resurrected in 1999, Dracula raised an army of the undead. It took another descendant of the Belmont Clan to defeat him: Julius Belmont. In the savage clash - known as the Battle of 1999, Julius Belmont took the fight to Dracula's Castle and battled the Dark Lord with the same enchanted whip his distant ancestors wielded. Most believe Dracula suffered a true death. A final death. But Dracula didn't die that night. As the Vampire Killer tore the flesh from his bones, a strange fog rolled across the ancient stone floor. Dracula felt the icy fingers of something or someone beckoning him. The Fog engulfed him and transported him to a place where he could continue his dark vengeance against humanity.
+The table below lists additional Lore about The Dark Lord from The Archives , either from Tomes that featured him or from individual Lore entries that mentioned him:
+The Dark Lord comes with 3 Perks that are unique to him:
+The first time each Chest and each Totem are interacted with by a Survivor, Dominance triggers its effect:
+After a Generator is completed, Hex: Wretched Fate activates and lights a random Dull Totem , cursing the Obsession :
+Grants the ability to kick opened Chests and close them.
+"Come running, one and all, and see what fortune awaits you." — Dracula
+Prestiging The Dark Lord will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Dark Lord twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+Pale Claws are the Primary Weapon of The Dark Lord . All he needed to make quick work of his prey were his bare hands.
+"His dark power allows him to exact revenge on humans, taking many forms to terrorise and slaughter them." SPECIAL ABILITY: SHAPESHIFT The Dark Lord has access to 3 Forms and can freely change between them. Each Form has unique abilities and strengths.
+Press and hold the Secondary Action button in any Form to initialise a Shapeshift :
+Regardless of his current Form , The Dark Lord is always able to interact with Props, temporarily shifting into a ghostly husk of his Vampire Form during the interaction, if necessary. SPECIAL SHAPE: VAMPIRE FORM The default Form of The Dark Lord .
+SPECIAL SHAPE: WOLF FORM This Form provides The Dark Lord with access to several abilities that allow for more effective tracking:
+SPECIAL SHAPE: BAT FORM This Form provides The Dark Lord with access to several abilities that allow for greater stealth and mobility:
+SPECIAL ATTACK: HELLFIRE SPELL While in Vampire Form , press and hold the Power button for 0.9 seconds to charge the Hellfire Spell . Releasing the Power button will cancel it. Press the Attack button when fully charged to release 8 Pillars of Flame that travel in a straight line from the The Dark Lord with a range of 10 metres . The Pillars of Flame can pass over low obstacles.
+The Hellfire Spell has a cool-down of 9.5 seconds . SPECIAL ATTACK: POUNCE While in Wolf Form , press and hold the Power button for 0.9 seconds to charge a Pounce attack that is automatically executed once fully charged:
+The Pounce attack has a cool-down of 20 seconds . SPECIAL LOCOMOTION: TELEPORT While in Bat Form , press and hold the Power button to ready a Teleport . Press the Attack button while aiming at any dropped Pallet or any Window within 2 to 32 metres to teleport to it, travelling at 12 m/s .
+The Teleport ability has a cool-down of 15 seconds .
+Bat Form: While Survivors are invisible in this Form , Static Illusions created by Perks such as Mirrored Illusion remain visible, immediately betraying their trickery nature.
+Modifies the Scent Orbs with the following effect:
+Modifies the Shapeshift ability with the following effect:
+Modifies the Hellfire attack with the following effect:
+Modifies the Shapeshift ability with the following effect:
+Modifies the Scent Orbs with the following effect:
+Modifies the Teleport ability with the following effect:
+Modifies the Vampire Form and the Wolf Form with the following effect:
+Modifies Wolf Form with the following effect:
+Modifies the Teleport ability with the following effect:
+Modifies the Scent Orbs with the following effect:
+Modifies the Pounce attack with the following effect:
+Modifies the Teleport ability with the following effect:
+Modifies the Hellfire attack with the following effects:
+Whenever you break a Pallet , Sylph Feather gains +1 Token , up to a maximum of 5 Tokens :
+Whenever a Generator is completed, Cube of Zoe triggers its effect for 10 seconds :
+After teleporting to a Window , Lapis Lazuli triggers its effect:
+Causes all Survivors within 8 metres of your Teleport destination to suffer from the following effect:
+While in Wolf Form , whenever the Pounce attack becomes available, you benefit from the following effect:
+Whenever an Exit Gate is opened, Alucard's Shield triggers its effect:
+Modifies the Hellfire attack with the following effect:
+Used exclusively in 2v8 Trials, the Innate Skill modifies the Vampiric Shift with the following effects:
+There are 2 Achievements related to The Dark Lord :
+After a Generator is completed, Hex: Wretched Fate activates and lights a random Dull Totem , cursing the Obsession :
+Grants the ability to kick opened Chests and close them.
+"Come running, one and all, and see what fortune awaits you." — Dracula
+The first time each Chest and each Totem are interacted with by a Survivor, Dominance triggers its effect:
+Players can choose from a variety of Cosmetic options to customise The Dark Lord :
+The fight was in his favor. He summoned lightning overhead to deliver the fatal blow as black fog surrounded him.
+The fight was all but over. He sought to prolong his victim's suffering when the black fog swarmed around him.
+He knew he would never feel the sun's warmth again, lest he burn from its wrath.
+His resurrection shattered the peace that had returned to Transylvania in his absence.
+Revived by a devoted servant, he thirsted for blood like never before. He would need many victims to satisfy his craving.
+The fight was in his favor. He summoned lightning overhead to deliver the fatal blow as black fog surrounded him.
+The Dark Lord has 1 alternate Character model available in the in-game Store:
+The Dark Lord is part of 1 DLC:

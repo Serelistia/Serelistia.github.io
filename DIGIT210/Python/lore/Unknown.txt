@@ -1,0 +1,84 @@
+--- https://deadbydaylight.wiki.gg/wiki/Unknown ---
+
+The Unknown is one of 42 Killers currently featured in Dead by Daylight .
+It was introduced as the Killer of CHAPTER 31: All Things Wicked , a Chapter DLC released on 12 March 2024.
+The Unknown is a being beyond understanding, though many have tried.
+Its personal Perks, Unbound , Unforeseen , and Undone , allow it to move quicker, put its Terror Radius on a Generator , and deplete Repair progress.
+Olivia’s master’s thesis was on urban legends and their origins. She believed they shared similarities with traditional folklore and picked one to illustrate her point. The Unknown was believed to be a mysterious evil so heinous that investigating it almost immediately invited death. At least that was how the story went. And there were many stories. One story was of a woman in Greenville who disappeared without a trace on stage in front of a room full of witnesses. Her friend disappeared weeks later while trying to investigate what happened. The police were stumped. They had no clues or leads, and that mystery created the perfect storm for amplifying and spreading an urban legend.
+Instead of going back home for spring break, Olivia headed to Greenville to investigate. She drove to the second-cheapest motel in town and began to set up in a small room that smelled of cigarette smoke, mould, and booze. She turned one wall into a kind of evidence board. She taped up articles and various theories on similar disappearances attributed to The Unknown throughout the country. She made connections with red string and yellow thumbtacks. Anyone walking into the motel room would think she had lost her mind.
+There were many theories as to The Unknown’s origin. Some said it was a malevolent entity conjured long ago by an ancient cult. Others believed it to be an alien that escaped from Area 51. Legend was it thrived in darkness and stole the voices of those it consumed so as to lure others to their doom.
+The first newspaper articles Olivia found referenced a disappearance at a séance held in the 1800s. In the late 1950s, several college students mysteriously disappeared from a movie theatre. Witnesses saw them go inside. Some remembered seeing them in their seats. But when the lights came up, they were gone. No one saw them leave. No trace of them was ever found. A projectionist claimed to have heard voices in the empty darkness of the theatre later that night. But when he turned on the lights, no one was there. Then in the 1960s a group of teens disappeared while exploring an abandoned hospital believed to be haunted.
+Stories and speculation arose to explain these mystifying disappearances. Some talked about a top-secret government research program run by the Office of Strategic Services in the 1950s. Project Apple-Pie. Mind control experiments using hallucinogenic drugs. Most of the records were destroyed in the '70s, but witnesses claim that experiments were performed on unsuspecting civilians in various settings and locations throughout the country, including movie theatres, hospitals and universities. Many believed these unethical experiments opened doorways to other dimensions which allowed evil things to enter the world.
+Olivia wrote observations to pin to her evidence board. The Unknown dwells in darkness and can mimic its victims. Was it an evil entity? An extra-terrestrial? A failed government experiment? Or just a garden variety serial killer allergic to publicity? She wanted to prove The Unknown was nothing more than modern-day folklore. And that investigation led here to this night, to this place, to this shabby motel room.
+Yet she couldn’t help but notice that the disappearances in Greenville included one detail the other stories didn’t. The fog. And she half-remembered another urban legend with a thick, unnatural fog that somehow made people disappear. Maybe, she mused, the Greenville disappearances didn’t relate to The Unknown but some other darkness.
+For a moment Olivia wondered what would happen if one urban legend encountered another. She laughed at the idea and tempted fate by sketching a picture of what she thought The Unknown might look like. Then she pinned the sketch right in the middle of her evidence board, laughed nervously and waited to be consumed by The Unknown for having tried to define it. Anxiously, she stared at the windows and front door for seconds that turned to minutes and minutes that turned to hours.
+Now it was after 2AM and Olivia was exhausted as she examined the articles and sipped cold coffee. So, when she first heard the whisper, she wondered if she imagined it.
+It seemed to come from the bathroom.
+The lights in the room flickered.
+Olivia stared with wide eyes at the closed door of the bathroom. Her mind was playing tricks on her. Or —
+Her friends had shown up to prank her.
+“Ariella? Sean? Stop messing around...”
+The lights continued to flicker as she edged closer to the bathroom. Fear spread in long waves through her, and a terrible realisation bloomed within her that The Unknown was behind the bathroom door, was preparing to make her pay for her hubris. Something began to whisper her name again. But then the voice rose, cracked, and distorted in sudden panic as if the brooding creature behind the door were under attack.
+An unknown horror filled Olivia’s heart and left room for nothing else. She breathed deeply as cold sweat beaded on her forehead. She placed her hand on the doorknob. The lights turned off, but she could still hear the strangely inhuman cries. Then the lights turned back on, and she could see a strange black fog seeping through the bottom of the door.
+Hesitantly, Olivia creaked the door open to see a bulky shape with frenzied tentacles being pulled into a thick mass of fog, vanishing slowly into the darkness like a dying shadow. The shrieking stopped suddenly, neighbours banged on the wall to turn down the TV, and Olivia stared intently at the black abyss that yawned before her. She wasn’t sure what to do. Part of her wanted to run. But the other part wanted to know more.  And as she considered what to do next, dozens of voices began to call out to her with promises of the unknown and the impossible and of unearthly things beyond human experience.
+The Unknown comes with 3 Perks that are unique to it:
+When a Survivor becomes injured by any means, Unbound activates for 24 / 27 / 30 seconds :
+For every Repair or Healing Skill Check failed by a Survivor, Undone gains +3 Tokens , up to a maximum of 18 / 24 / 30 Tokens . Performing the Damage Generator action on a Generator consumes all accumulated Tokens and applies the following effects:
+"Erratic behavior in machinery could be related to [REDACTED], further testing required." — OSS Report, 12/02/1943
+After performing the Damage Generator action on a Generator , you benefit from the following effects for 22 / 26 / 30 seconds :
+"Mom, if you find this, I'm sorry..." — Final Journal Entry, 07/12/1991
+Prestiging The Unknown will automatically add Tier I of its Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Unknown twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Gently-Used Axe is the Primary Weapon of The Unknown . Even its victims' belongings would disappear, with no sign of where they could have gone.
+"Some believed a specimen was recovered by the military for their experiments. The codename: Unknown Venom X." SPECIAL ABILITY: UVX PROJECTILE Press and hold the Power button to charge UVX Once it is fully charged, press the Attack button to launch a bouncing projectile, which creates a Blast Area of 2.25 metres upon impact:
+UVX has a cool-down of 7 seconds . SPECIAL AFFLICTION: WEAKENED Weakened Survivors receive damage when touching a Blast Area and have up to 8 seconds added back to their Weakened Meter indicated on the HUD. SPECIAL INTERACTION: STARING DOWN THE UNKNOWN Survivors can remove their Weakened State by looking directly at The Unknown within a distance of 25 metres for a cumulative total of 10 seconds . Doing so will highlight their outline in pink to The Unknown . SPECIAL ABILITY: HALLUCINATIONS The Unknown intermittently leaves behind a Hallucination , which charges over the course of 45 seconds .
+Up to 4 Hallucinations can exist simultaneously in the environment, with the oldest one being recycled when creating another one. New Hallucinations cannot be created when too close to other existings ones or several props.
+The Auras are revealed to The Unknown at all times and to Survivors when within 8 metres .
+Survivors becoming Weakened or touching a Blast Area reduces the Charge time of the next Hallucination by -10 seconds . SPECIAL INTERACTION: DISPELLING HALLUCINATIONS Survivors can remove Hallucinations by approaching them and performing the Dispel interaction for 4 seconds :
+SPECIAL LOCOMOTION: TELEPORT Press the Secondary Power button to teleport to any available Hallucination that is at least 3 metres away from your location, leaving behind a temporary Decoy for 5 seconds .
+Teleportation has a cool-down of 25 seconds . "... Request for analysis [REDACTED] incident [REDACTED] awaiting approval." — Excerpt from leaked OSS report
+Hallucinations (Spawn Restrictions): Hallucinations cannot be spawned while The Unknown is within a certain range of any of the following:
+Modifies the Teleport ability with the following effect:
+Survivors performing the Dispelling action successfully while both injured and in the Weakened State suffer from the following effect:
+While charging UVX , you benefit from the following primary effect:
+Survivors in the Blast Area of the UVX Projectile suffer from the following effect:
+While within range of seeing the Aura of a Hallucination , Survivors suffer from the following effect:
+Modifies Hallucinations with the following effect:
+Survivors hit by an airborne UVX Projectile suffer from the following effect:
+Hitting a Hallucination with the UVX Projectile triggers the following effects:
+Survivors performing the Stare Down The Unknown action successfully suffer from the following effect:
+Survivors damaged by UVX suffer from the following effect:
+Whenever a Survivor enters the Weakened State , Footprint Cast triggers its effect:
+Whenever you break a Breakable Wall or a dropped Pallet , Front-Page Article triggers its effect:
+Survivors hit by an airborne UVX Projectile suffer from the following effect:
+Modifies UVX with the following primary effect:
+Modifies UVX with the following effects:
+Survivors performing the Dispelling action successfully suffer from the following effect:
+After teleporting to a Hallucination , Obscure Game Cartridge triggers its effect for 20 seconds :
+Upon entering the range of seeing the Aura of a Hallucination , Survivors suffer from the following effect:
+Modifies UVX with the following effects:
+Modifies UVX with the following effects:
+There are 2 Achievements related to The Unknown :
+When a Survivor becomes injured by any means, Unbound activates for 24 / 27 / 30 seconds :
+After performing the Damage Generator action on a Generator , you benefit from the following effects for 22 / 26 / 30 seconds :
+"Mom, if you find this, I'm sorry..." — Final Journal Entry, 07/12/1991
+For every Repair or Healing Skill Check failed by a Survivor, Undone gains +3 Tokens , up to a maximum of 18 / 24 / 30 Tokens . Performing the Damage Generator action on a Generator consumes all accumulated Tokens and applies the following effects:
+"Erratic behavior in machinery could be related to [REDACTED], further testing required." — OSS Report, 12/02/1943
+Players can choose from a variety of Cosmetic options to customise The Unknown :
+The people celebrated a fateful anniversary with music, dancing, and a great pyre in the town square.
+The entire police department was on high alert after a detective went missing during a murder investigation. Design inspired by Shyboi .
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+Most folks were focused on the event. They didn’t notice someone had wandered off until it was too late.
+All we know is there are things in this world beyond our understanding.
+All we know is there are things in this world beyond our understanding.
+All we know is there are things in this world beyond our understanding.
+A high school cheerleader had gone missing a decade ago, but someone thought they saw her at the playoff game.
+A high school cheerleader had gone missing a decade ago, but someone thought they saw her at the playoff game.
+There was nothing to suggest he had been mauled or eaten by the animals. The victim had simply disappeared without a trace.
+The people celebrated a fateful anniversary with music, dancing, and a great pyre in the town square.
+Stories spread across the Midwest about a woman who disappeared in the middle of a parking lot.
+The biggest kid in the schoolyard had everyone's attention – he told them The Unknown was so scary, it even killed the Big Bad Wolf. Design inspired by DuckieGrumpy .
+So blight-poisoned was his mind that the legends surrounding this creature seemed not to apply to him.
+The party made a certain guest anxious. As she grabbed her coat, she couldn’t shake the feeling of eyes boring into her back.

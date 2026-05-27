@@ -1,0 +1,51 @@
+--- https://deadbydaylight.wiki.gg/wiki/The_Nemesis ---
+
+(Tentacle Strikes / Zombie Attacks)
+Nemesis T-Type or "The Nemesis" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 20: Resident Evil™ , a Chapter DLC released on 15 June 2021.
+He originates from the video game franchise Resident Evil , specifically the 2020 remake of Resident Evil 3 .
+The Nemesis is an unrelenting Killer, capable of attacking at mid-range with his tentacle, while receiving support from Zombies roaming the area.
+His personal Perks, Lethal Pursuer , Hysteria , and Eruption , allow him to quickly ambush Survivors, while sowing confusion and fear when injuring and hooking them.
+The Nemesis is a Model T-103 Tyrant, a superhuman bio-organic weapon mass-produced by Umbrella Corporation. Unlike previous prototypes, it possessed near-human intelligence and could follow orders. It was flown into Raccoon City alongside other Tyrants and ordered to eliminate any remaining members of S.T.A.R.S., including Jill Valentine .
+The Nemesis , like all T-103 Tyrants, was infected with the T-Virus during its creation. However, due the T-Virus degrading the host's brain and causing a decline in intelligence to the degree of making it impossible for the host to follow complex orders, T-103s were additionally infected with the NE-α parasite which would take control of the host's body, bypassing the degrading brain and providing The Nemesis with near-human intelligence.
+When The Nemesis uses his tentacle, it is not actually a tentacle, but the parasite within him, as the NE-α Parasite is a worm-like creature.
+Designed by Umbrella Corporation, The Nemesis is a nearly unstoppable bio-organic weapon fixated on pursuing and eliminating its targets. Part of the Tyrant T-103 series, this specimen has increased intelligence and awareness due to the NE-α Parasite implanted within it. Its first mission unleashed it upon Racoon City, where it had a singular objective: exterminate S.T.A.R.S. members. Rampaging through the city, The Nemesis faced off against Jill Valentine multiple times, and though she managed to escape, he was never far behind. He nearly had his target, when a strange fog descended upon them, mixing with the smoke of a city in chaos. The phenomenon meant nothing to him—the frigid cold and decreased oxygen never posing a threat. All that mattered was soldiering on into The Fog, continuing the mission: find S.T.A.R.S., exterminate S.T.A.R.S., and kill anyone who gets in the way.
+The Nemesis comes with 3 Perks that are unique to him:
+Performing the Damage Generator action on Generators highlights their Auras in yellow . Whenever a Survivor enters the Dying State by any means, Eruption triggers the following effects on all highlighted Generators :
+"It can use weapons?" — Jill Valentine
+Whenever you injure a healthy Survivor, Hysteria triggers its effect:
+"Sorry I got a little jumpy there. Didn't know quite what to expect." — Robert Kendo
+At the start of the Trial, the Auras of all Survivors are revealed to you for 7 / 8 / 9 seconds .
+"...it knows what it wants and won't stop till it gets it." — Carlos Oliveira
+Prestiging The Nemesis will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Nemesis twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Raw Fists are the Primary Weapon of The Nemesis . Powerful arms to overpower targets swiftly.
+"A virus that causes extreme mutations and can be transferred to others. Its effects heighten aggression and strength within The Nemesis." SPECIAL ABILITY: T-VIRUS The power of The Nemesis expands as his Mutation Rate grows. Mutation Rate 1 is the default state of The Nemesis :
+Mutation Rate 2 is reached after accumulating a total of 5 Contamination Points :
+Mutation Rate 3 is reached after accumulating a total of 15 Contamination Points :
+SPECIAL ATTACK: TENTACLE STRIKE Press and hold the Power button to charge a Tentacle Strike , then press the Attack button to unleash it.
+Survivors hit with a Tentacle Strike grant The Nemesis Contamination Points towards his Mutation Rate and become afflicted by Contamination :
+The Tentacle Strike has a Cool-down time of 2.25 seconds . SPECIAL AFFLICTION: CONTAMINATION Survivors suffering from Contamination are susceptible to damage from being either by a Tentacle Strike or by a Zombie . Contaminated Survivors occasionally cough, potentially betraying their location. SPECIAL ENEMY: ZOMBIES During the Trial, 2 Zombies spawn and roam randomly through the environment. Both of their Auras are revealed to The Nemesis at all times.
+Zombies can track nearby Survivors and are attracted to Loud Noise Notifications . They can attack Survivors coming too close to them and abide by the same rules as a Tentacle Strike doing so.
+Destroying Zombies will cause them to respawn after 12 seconds from below a random Hook . Doing so with a Tentacle Strike as The Nemesis will also grant +1 Point towards Mutation Rate .
+Survivors have limited means to counter Zombies :
+SPECIAL ITEM: VACCINE Survivors can cure themselves or other Survivors from Contamination by locating a Supply Case and searching it for a Vaccine :
+Pitch: This refers to the maximum vertical viewing angle The Nemesis is allowed from the horizon ( 0 ° ) while charging and holding Tentacle Strike :
+"All you need to know is that this place will eat you alive if you're not careful." — Marvin Branagh
+"Words won't work on this thing." — Leon Scott Kennedy
+Survivors becoming Contaminated suffer from the following effect:
+"This is not how I imagined my first day." — Leon Scott Kennedy
+"Look, just so you know... this is the last fucking time." — Jill Valentine
+"Commitment, honesty, integrity. These are the core values that create the foundation of Umbrella Corp." — Doctor Matt Gorkis
+Used exclusively in 2v8 Trials, the Innate Skill modifies T-Virus with the following effects:
+Modifies the Zombies with the following effects:
+There are 2 Achievements related to The Nemesis :
+At the start of the Trial, the Auras of all Survivors are revealed to you for 7 / 8 / 9 seconds .
+"...it knows what it wants and won't stop till it gets it." — Carlos Oliveira
+Whenever you injure a healthy Survivor, Hysteria triggers its effect:
+"Sorry I got a little jumpy there. Didn't know quite what to expect." — Robert Kendo
+Performing the Damage Generator action on Generators highlights their Auras in yellow . Whenever a Survivor enters the Dying State by any means, Eruption triggers the following effects on all highlighted Generators :
+"It can use weapons?" — Jill Valentine
+Players can choose from a variety of Cosmetic options to customise The Nemesis :
+Showing no mercy, the mutated experiment chased its targets relentlessly.
+The putrid serum mixed with the Ne-a Type parasite to create a chimerical horror that not even The Blight could have anticipated.

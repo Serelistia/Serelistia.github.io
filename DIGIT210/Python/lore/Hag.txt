@@ -1,0 +1,81 @@
+--- https://deadbydaylight.wiki.gg/wiki/Hag ---
+
+Lisa Sherwood or "The Hag" is one of 42 Killers currently featured in Dead by Daylight .
+She was introduced as the Killer of CHAPTER 3: Of Flesh and Mud , a Chapter DLC released on 8 December 2016 and retired on 8 January 2024.
+She is still available in the In-Game Store and as part of the Maddening Darkness Pack Chapter Pack DLC.
+The Hag is a cursed Killer, able to place Phantasm Traps and then teleport to them upon activation, using her Power.
+Her personal Perks, Hex: The Third Seal , Hex: Ruin , and Hex: Devour Hope , apply crippling penalties to Survivors as long as the associated Totem remains uncleansed.
+Her Perks revolve around Hex Totems . They are focused on cursing the Survivors and sapping their abilities. The curse lasts until the Survivors manage to track the Hex Totem down and cleanse it.
+Lisa Sherwood grew up in a quiet village, mainly isolated from the rest of civilisation. The people of the hamlet were kind and the elders kept old traditions alive, often keeping the peace by personally settling the ever-rare disputes. Lisa was particularly fond of the charms they taught her to draw for safety and good fortune. One night, as she was walking home through the woods, a terrible storm struck without warning. Howling winds whipped at her hair as she stumbled through the swamp, her rain-drenched dress plastered to her skin. In the slick, wet mud she lost her footing, careening backwards and striking her head against rock. Slipping in and out of consciousness, she strained to identify the dark shapes approaching her from between the trees. That's the last thing she could remember.
+Her kidnappers kept her chained to the wall in a flooded cellar. Though dimly lit, she could see others whose large open wounds swarmed with flies. It took merely a day before they returned, carving chunks from the prisoners' bodies with rusted blades, consuming their very flesh down to the bone. Most she saw did not survive long once the cannibals targeted them but somehow, deep within, Lisa persisted. Starved, infected, and mutilated after several weeks of torture, her gaunt arms became loose in their shackles. She pulled hard, the metal tearing through skin and muscle until she was free. Her flesh oozed viscous yellow pus and bones were visible beneath gangrenous wounds. She could go no further. Delirious, she thought of home; she thought of the elders. With her dying breath, she etched the symbols they had taught her into the floor using what remained of her fingers. Almost in response, a dark hunger stirred inside her. It yearned for blood. In oath, she chose vengeance.
+The village's search party eventually brought them to an old shack in a swamp. Inside, its previous inhabitants had been viciously dismembered and devoured by an unidentifiable animal. In the cellar, amid rotting corpses and disconnected flesh, the elders’ charms were scrawled in blood on the floor. Lisa’s body was not among the bodies and was never found. The village was never the same again.
+The table below lists additional Lore about The Hag from The Archives , either from Tomes that featured her or from individual Lore entries that mentioned her:
+The Hag comes with 3 Perks that are unique to her:
+Hex: Devour Hope lights a Hex Totem at the start of the Trial, cursing Survivors with its Hex Effects . Whenever a Survivor is unhooked at least 24 metres from your location, Hex: Devour Hope gains +1 Token , up to a maximum of 5 Tokens :
+"If you do nothing, you have their blood on your hands. If you save them, her hunger grows."
+All Generators not currently being repaired experience the following effect:
+"A curse is upon you. It will cause your ruin."
+The last 2 / 3 / 4 Survivors you hit with a Basic or Special Attack suffer permanently from the Blindness Status Effect . The Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+"She touched your skin, you bear the witch's mark!"
+Prestiging The Hag will automatically add Tier I of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Hag twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Claw is the Primary Weapon of The Hag . A horridly overgrown deformity, clawing its way through flesh and bone.
+"The source of The Hag's power: a blackened finger used as a catalyst for her terrible power. She bends and shapes mud to her will. With simple ritualistic drawings, she creates deceitful duplicates of herself, made from mud and decay, which she can use for various effects." SPECIAL ABILITY: BLACKENED CATALYST The Hag starts the Trial with 10 Phantasm Traps in her inventory. Placing additional Phantasm Traps will recycle the oldest one. SPECIAL TRAP: PHANTASM TRAP Press the Power button to bend down and draw a muddy sign into the ground, placing and arming a Phantasm Trap .
+Survivors entering the Area of Effect , which is only visible to The Hag , will trip the trap, causing a Mud Phantasm to spawn that has the following effects:
+Survivors can prevent tripping the trap by doing either of the following:
+Survivors can safely remove a trap by wiping it away for 4 seconds when crouching above it. SPECIAL LOCOMOTION: TELEPORT Press the Secondary Power button to teleport to any currently tripped Phantasm Trap within 48 metres , taking the place of the Mud Phantasm . In case of multiple tripped traps, a specific Mud Phantasm can be chosen by aiming at it before teleporting.
+Mud Phantasm: After spawning, Mud Phantasms keep their sight trained on whichever Survivor tripped their Phantasm Trap , continuously rotating their Character model to adjust, causing The Hag to always face that Survivor, should she teleport to a tripped Phantasm Trap .
+Light Vulnerability (obsolete):
+The bloody layers empower the mud.
+Triggering a Phantasm Trap inflicts the following effect on Survivors:
+Whenever Survivors trigger Phantasm Traps , you benefit from the following effects for their tripped duration:
+Scarred Hand trumps all other Add-ons.
+Mint Rag has a cool-down of 10 seconds .
+There are 3 Achievements related to The Hag :
+The last 2 / 3 / 4 Survivors you hit with a Basic or Special Attack suffer permanently from the Blindness Status Effect . The Hex Effects persist until the Hex Totem is either blessed or cleansed by a Survivor, disabling it for the remainder of the Trial.
+"She touched your skin, you bear the witch's mark!"
+All Generators not currently being repaired experience the following effect:
+"A curse is upon you. It will cause your ruin."
+Hex: Devour Hope lights a Hex Totem at the start of the Trial, cursing Survivors with its Hex Effects . Whenever a Survivor is unhooked at least 24 metres from your location, Hex: Devour Hope gains +1 Token , up to a maximum of 5 Tokens :
+"If you do nothing, you have their blood on your hands. If you save them, her hunger grows."
+Players can choose from a variety of Cosmetic options to customise The Hag :
+"Have a Wonderful Winter 2017-2018!" - The Dead by Daylight Team
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+The rituals brought her closer to nature until, one day, she became one with it.
+Her grandmother warned her not to trifle with such power...
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+The transformation into full plant creature is almost complete. Just a few more souls to produce the light and energy required…
+Baubles and finery were hard to come by in her quaint little village.
+As a young girl, she thought she saw something lying in wait as she passed by the swamp.
+She relished in the darkness of the swamp, growing stronger as days turned into an endless night.
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+A misshapen, discolored swamp creature, with a deadly claw for a hand.
+The rituals brought her closer to nature until, one day, she became one with it.
+As days go by, she becomes the wilderness.
+As days go by, she becomes the wilderness.
+As old as the forest itself. A fossil. A preserved shell. The petrification process has begun. Only the blood of the living can reverse it.
+Her grandmother warned her not to trifle with such power...
+She emerged from the foul dark marshes, stinking of algae and rot… something from a lost realm had changed her.
+She was still a child when she was awakened that night by angry voices and the sound of a door slamming.
+The veined Medusa has relished in the darkness of the swamp, growing stronger and stronger, day by day.
+She escaped when a charm of strength buried within her was ignited by the serum.
+The transformation into full plant creature is almost complete. Just a few more souls to produce the light and energy required…
+The transformation into full plant creature is almost complete. Just a few more souls to produce the light and energy required…
+Reeking of blood and rotting serpent meat, there’s the husk of a woman somewhere beneath it.
+Her little cellar was home to many dangerous creatures. She imagined joining them, learning their ways.
+One of the many possible lives denied to Lisa Sherwood by her captors.
+The wind blew and whispered, a warm breath that stirred an ancient power within her.
+Her body lay in a foul swamp for what felt like ages, straddling the blurry line between dream and reality.
+Her body was exposed to foreign organisms in a deadly realm.
+She relished in the darkness of the swamp, growing stronger as days turned into an endless night.
+Her grandmother used to teach her survival lessons during long walks in the woods.
+The Hag has 1 alternate Character model available in the in-game Store:
+Up to Patch 6.7.0 , The Hag's Phantasm Traps were vulnerable to bright lights:
+For more go to the Hag's Gallery

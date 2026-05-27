@@ -1,0 +1,59 @@
+--- https://deadbydaylight.wiki.gg/wiki/Shape ---
+
+(Pursuer Mode & Evil Incarnate)
+Michael Myers or "The Shape" is one of 42 Killers featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 2: The HALLOWEEN® Chapter , a Chapter DLC originally released on 25th of October 2016 which was retired on 19th of January 2026.
+He remains a fully playable and supported Character in Dead by Daylight for all Players who purchased him before his Chapter left the Game.
+He originates from the 1978 Horror Movie franchise with the same name, Halloween .
+The Shape is a haunting Killer who stalks Survivors to feed his power.
+His personal Perks, Save the Best for Last , Play with Your Food , and Dying Light , select one Survivor to become his Obsession and will trigger deadly effects based on their status.
+Some humans are simply bad seeds. Seeds infused with a distilled and pure form of evil.
+Michael Myers is one of those seeds. He had no issues with causing the pain of others. Instead, it was exactly what he sought. But even life can be tough on those with minds filled with terror. The difference is just how one goes about to solve those problems. For Michael, he had to kill to find some inner peace. As he took his sister’s life, the police found a silent boy dressed as a clown at the scene.
+When one stumbles upon a growing fire, one does not pour gasoline on it. But this was an action taken by officials that had no idea how it would shape this demon in the boy's body. Sending Michael to a mental institution was a feeble attempt to save the child. Unsuccessful therapy and nightly screams just made him even more introverted and deranged.
+People hoped that Michael Myers would end up a parenthesis, soon to be forgotten and buried, a failure that soon were to rot away. But then...he escaped.
+The Shape originally came with 3 Perks that were unique to him:
+"This isn't a man..." — Dr Sam Loomis
+"You've fooled them, haven't you Michael? But not me." — Dr Sam Loomis
+"Death has come to your little town, Sheriff." — Dr Sam Loomis
+For Players owning The Shape prior to his Chapter's retraction from Dead by Daylight and Patch 9.4.0 , the above Perks remain Unique Perks , including the Prestige requirement to unlock them for other Killers. They also retain their original names, icons, and flavour texts.
+Prestiging The Shape will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Shape twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+For all other Players, the above Perks are considered General Perks as of Patch 9.4.0 , all featuring a different name and sometimes a different icon.
+They are automatically available to all Killers and can be found randomly in their Bloodweb .
+The Kitchen Knife is the Primary Weapon of The Shape . An oversized blade with devastatingly sharp edges.
+"The darkness inside feeds his determination to take the life of his prey." SPECIAL ABILITY: EVIL WITHIN The Shape can switch between 3 Modes of Evil Within . Each Mode has unique abilities and strengths.
+SPECIAL MODE: STALKER MODE The default Mode of Evil Within .
+If the Stalk Meter is not full, press the Secondary Power button to switch to Pursuer Mode . Stalker Mode is unavailable while the Stalk Meter is full. SPECIAL MODE: PURSUER MODE This Mode provides The Shape with the following effects:
+If the Stalk Meter is not full, press the Secondary Power button to switch to Stalker Mode . If the Stalk Meter is full, press it to enter Evil Incarnate Mode instead. SPECIAL MODE: EVIL INCARNATE Once activated, this Mode is active for 60 seconds :
+SPECIAL ABILITY: STALKING While in Stalker Mode , press and hold the Power button to access the Stalking ability:
+If the Power Gauge is not full, it will automatically begin depleting after 20 seconds of not Stalking , down to a limit of 50 % . SPECIAL ABILITY: SLAUGHTERING STRIKE While in Evil Incarnate Mode , press and hold the Power button to charge the Slaughtering Strike attack. While charging, press the Attack button at any point to initiate the attack:
+Slaughtering Strike lasts for up to 1.5 seconds , depending on how long it was charged for, and has a cool-down of 4 seconds . SPECIAL INTERACTION: KILL While in Evil Incarnate Mode , tap the Attack button in close proximity to standing or downed Survivors that have accrued 2 Hook Stages to execute them, performing a Memento Mori .
+While in Stalker Mode , you benefit from the following effect:
+Modifies the Stalk ability with the following effect:
+Modifies Stalker Mode with the following effect:
+Modifies Evil Within with the following effect:
+Adjusts the Terror Radius , depending on the current Mode of Evil Within :
+During Evil Incarnate , the following effects apply:
+Modifies Slaughtering Strike with the following effects:
+When Evil Incarnate activates, Hair Brush triggers its effect:
+When Stalking stationary Survivors, you benefit from the following effect:
+Modifies Evil Incarnate with the following effects:
+While in Evil Incarnate , the following effect applies:
+Modifies the Stalk ability with the following effect:
+While Stalking the Obsession , you benefit from the following effect:
+Modifies Slaughtering Strike with the following effects:
+Unlocks the following ability while in Evil Incarnate :
+Modifies Slaughtering Strike with the following effects:
+Activating Evil Incarnate triggers the following effect:
+Modifies Evil Incarnate with the following effect:
+Modifies Evil Incarnate with the following effects:
+Unlocks potential in your Aura-reading ability while Stalking :
+There were 3 Achievements related to The Shape :
+"Death has come to your little town, Sheriff." — Dr Sam Loomis
+"You've fooled them, haven't you Michael? But not me." — Dr Sam Loomis
+"This isn't a man..." — Dr Sam Loomis
+Playing as The Shape , kill all Survivors by your own hands with Evil Within III in a single Trial.
+Playing as The Shape , tier up Evil Within a total of 300 times / 100 times ( For consoles ) by stalking Survivors.
+Players could choose from a variety of Cosmetic options to customise The Shape :
+Death has come to your little town.
+For more go to the Shape's Gallery

@@ -1,0 +1,56 @@
+--- https://deadbydaylight.wiki.gg/wiki/Executioner ---
+
+Pyramid Head or "The Executioner" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 16: Silent Hill , a Chapter DLC released on 16 June of 2020.
+He originates from the video game franchise Silent Hill , specifically Silent Hill 2 (2001) .
+The Executioner is a map-manipulation Killer, able to torment Survivors with the hazards he creates. Affected Survivors will be vulnerable to his special Hook , the Cage of Atonement and his special Mori, Final Judgement .
+His personal Perks, Forced Penance , Trail of Torment , and Deathbound , allow him to aggressively defend his prey while deceiving and tracking Survivors.
+A sadistic and merciless executioner, Pyramid Head is fixated on dispensing punishment through pain.
+Encumbered by the steel frame upon his head and with a hulking great blade in tow, he stalked the hellish corridors of Silent Hill, committed to a duty that no one truly understood. Where he trod, even monsters fled for the shadows, and those who crossed his path fell victim to unrestrained acts of aggression.
+When his duty was complete and his presence no longer needed, he prepared for the long rest — and yet, his skills were required elsewhere. The Fog that streamed over him was somehow different than that he was accustomed to in Silent Hill, as if each wisp contained the nerves of a creature, writhing, seeking him out.
+There was an unspoken agreement in that moment. The billowing cloud was an invitation to duty and sadism, and Pyramid Head, taking a step into The Fog, accepted his obligation once more.
+The Executioner comes with 3 Perks that are unique to him:
+Whenever a Survivor finishes healing another Survivor for the equivalent of 1 Health State , Deathbound activates:
+Whenever a Survivor triggers a Protection Hit , they suffer from the following effect:
+Performing the Damage Generator action on a Generator activates Trail of Torment :
+Prestiging The Executioner will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Executioner twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Great Knife is the Primary Weapon of The Executioner . A massive chef's knife to reap affliction and misery from his victims.
+"Open the Gates of Suffering and be judged! The Great Knife splits the ground, giving rise to an infernal construct and spreading agony to all who approach." SPECIAL ABILITY: RITES OF JUDGEMENT Press and hold the Power button to carve a Torment Trail into the ground beneath you while moving:
+Segments of the Torment Trail have a Life time of 90 seconds . Their Auras are revealed to The Executioner in white within 32 metres . SPECIAL ATTACK: PUNISHMENT OF THE DAMNED While performing Rites of Judgement , press the Attack button to trigger Punishment of the Damned , unleashing a propagating Attack Trail in front of The Executioner :
+SPECIAL AFFLICTION: TORMENT If a Survivor touches the Torment Trail while not crouched, it applies the following effects:
+Torment is only removed after rescuing or being rescued from a Cage of Atonement . SPECIAL INTERACTION: SEND TO CAGE Press the Secondary Power button while standing over a downed Tormented Survivor to send them to a Cage of Atonement . SPECIAL INTERACTION: FINAL JUDGEMENT Press the Secondary Power button while standing over a downed Tormented Survivor that has reached the second Hook Stage to execute them on the spot, performing a Mini-Mori .
+Rites of Judgement / Torment Mode :
+Restricted Trail : Various props have a restricted zone around them that, while allowing them to spawn, cause Torment Trail segments within them to despawn after just a few seconds.
+Modifies Punishement of the Damned with the following effects:
+Modifies Rites of Judgement with the following effect:
+Modifies Rites of Judgement with the following effect:
+Modifies Punishment of the Damned with the following effects:
+Modifies Punishment of the Damned with the following effect:
+Modifies Punishment of the Damned with the following effect:
+While using Rites of Judgement , you benefit from the following effect:
+Survivors rescuing others from a Cage of Atonement suffer from the following effect:
+Modifies Punishment of the Damned with the following effect:
+Missed Punishment of the Damned attacks trigger the following effect:
+Modifies Torment Trails with the following effect:
+Successful Punishment of the Damned attacks trigger the following effect:
+While using Rites of Judgement , the following effect applies:
+For each Survivor afflicted by Torment , you benefit from the following effect:
+Successful Punishment of the Damned attacks trigger the following effect:
+Successful Punishment of the Damned attacks trigger the following effect:
+Successful Punishment of the Damned attacks trigger the following effect:
+Modifies Rites of Judgement with the following effects:
+Modifies Punishment of the Damned with the following effects:
+Modifies Punishment of the Damned with the following effects:
+Used exclusively in 2v8 Trials, the Innate Skill modifies the Rites of Judgement with the following effects:
+There are 2 Achievements related to The Executioner :
+Whenever a Survivor triggers a Protection Hit , they suffer from the following effect:
+Performing the Damage Generator action on a Generator activates Trail of Torment :
+Whenever a Survivor finishes healing another Survivor for the equivalent of 1 Health State , Deathbound activates:
+Players can choose from a variety of Cosmetic options to customise The Executioner :
+The body hanged upside down, affixed to the rotting wall, skin dangling to the filthy floor.
+Straight from the fiery forge, an inferno of cruelty and malice rages.
+The putrid serum took hold of the creature born from a dark wish, rotting with putrid ways to punish the guilty.
+The insects chittered and buzzed as they crept along the hallway. The man tried to swat them away, unaware that someone was approaching.
+Born from a dark wish, his purpose was to find and punish the guilty.
+The Executioner is part of 1 DLC:

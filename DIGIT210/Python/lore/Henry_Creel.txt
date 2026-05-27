@@ -1,0 +1,63 @@
+--- https://deadbydaylight.wiki.gg/wiki/Henry_Creel ---
+
+(Vine Attack & Undergate Attack)
+Henry Creel or "The First" , also known as  " Vecna/One ", is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 38: Stranger Things Chapter 2 , a Chapter DLC released on 27 January 2026.
+He originates from the 2016 Sci-Fi-Horror Web Television series Stranger Things , specifically from Season 4 and 5.
+The First is a cunning and cruel former test subject, whose powers were sharpened in an alternate dimension.
+His personal Perks, Turn Back the Clock , Secret Project , and Hex: Hive Mind , allow him to damage distant Generators , block them from repair, and set them back when another is completed.
+From a young age, Henry Creel was disgusted by humanity and their endless cycles of eating, reproducing and dying. Their mindless play. As this hatred bubbled and fermented, he found that he had strange powers: first, an ability to control the house's grandfather clock, and later, the ability to manipulate minds. His powers reached a terrifying new level as he contorted and destroyed the bodies of his mother and sister. Henry's father, blamed for their deaths, was sent to Pennhurst Mental Hospital.
+A shadowy organization faked Henry's death and moved him to a facility where his powers were limited by the Soteria chip, and studied along with several other children with psionic powers. He played along and was eventually made an orderly. But his compliance was a ruse. Once he was able to convince Eleven to remove his chip, he massacred the students and staff of the facility, only stopping when Eleven was able to banish him to another dimension.
+Henry thought he was going to die. Instead, he became more powerful than ever before. From this new dimension, he committed a series of grisly murders as part of his plan to open gates to the real world and destroy all of humanity. But as he passed through a gate, a black fog appeared and he crossed over into a new realm - one unfamiliar, but full of potential.
+The First comes with 3 Perks that are unique to him:
+The first time you hook any Survivor , a random Dull Totem becomes a Hex Totem , provided that a Dull Totem remains in the Trial Grounds.
+Generators are highlighted; the intensity of the generator's Auras reveals their repair progress.
+As soon as a total of 4 generators have been completed in the Trial:
+"You... let us in. And now, you are going to have to let us stay" — Henry Creel
+Whenever a Totem is blessed or cleansed, a random unblocked generator becomes blocked for 20 / 25 / 30 seconds .
+Whenever any number of Generators become blocked, you gain Undetectable Status Effect for 30 seconds .
+"You are a prisoner here, just like me" — Henry Creel
+After hooking a Survivor, for 40 / 50 / 60 seconds , press the Active Ability button to make a target generator within 20 meters explode, lose -10 % progress, and start regressing.
+"Nothing will happen to you... Nothing that you don't deserve!" — Henry Creel
+Prestiging The First will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The First twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+Foul Intent is the Primary Weapon of The First . He decided to bring that malevolent realm to the human world and extinguish them once and for all.
+SPECIAL ABILITY: VINE ATTACK Press and hold Power button to start charging Vine Attack . Release the Power button button to cancel the Power. Press the Attack button while fully charged to create an area of effect on the ground, Survivors caught inside it will be inflicted 1 Worldbreaker Token . SPECIAL ABILITY: THE UPSIDE DOWN The First can enter The Upside Down by pressing the Secondary Power button . While in The Upside Down , The First :
+This ability has a 35 second cool-down. At the start of the trial, the ability starts at 50% of the base cool-down. SPECIAL ABILITY: UNDERGATE ATTACK While in The Upside Down , The First can perform the Undergate Attack by pressing the Attack button . Peforming the attack causes an area of effect to grow around The First 's position.  Once it reaches the full radius, The First leaps out of the ground, exitting The Upside Down and inflicting any Survivor caught inside the radius of the attack with 2 Worldbreaker Tokens . SPECIAL AFFLICTION: WORLDBREAKER & WORLDBREAKER TOKENS Survivors start with 0 Worldbreaker Tokens , and may be inflicted up to 4 . Worldbreaker is activated when:
+While Worldbreaker is active, Vine Attack and Undergate Attack will inflict damage to Survivors instead of inflicting Worldbreaker Tokens . Worldbreaker has two durations phases: Phase One and Phase Two. Phase One's duration is determined by the amount of Survivors present in the Trial: 60 seconds for each Survivor present in the Trial. Phase Two lasts for 50 seconds . Worldbreaker 's base count down is paused while carrying a Survivor. SPECIAL OBJECT: GRANDFATHER CLOCK 4 Grandfather Clocks spawn in the Trial. They become available to Survivors during Worldbreaker 's Phase One duration phase. Survivors are able to interact with Grandfather Clocks to speed up the count down of Phase One. SPECIAL INTERACTION: MIND BREAK Survivors who reached the second Hook Stage and have 4 Worldbreaker Tokens become exposed to Mind Break During Worldbreaker , if the Survivor exposed to Mind Break is inflicted damage that would send them to the Dying State by Vine Attack or Undergate Attack attacks, the Survivor will instead be sent floating into the air. The First will be granted the interaction to perform a Mind Break Mini-Mori while standing next to the floating Survivor by pressing the Secondary Power button .
+Upside Down - Undergate Attack:
+Worldbreaker - Mind Break Mini Mori:
+Modifies Worldbreaker with the following effect:
+Unlocks potential in your Aura-reading ability while using Worldbreaker :
+Modifies Vine Attack with the following effect:
+Modifies The Upside Down with the following effect:
+Modifies the Undergate Attack with the following effect:
+Modifies the Grandfather Clocks with the following effect:
+Unlocks potential in your Aura-reading ability while using Vine Attack :
+Modifies Undergate Attack with the following effect:
+Modifies Worldbreaker with the following effect:
+Modifies Worldbreaker with the following effect:
+Modifies Vine Attack with the following effect:
+Modifies Vine Attack with the following effect:
+Modifies The Upside Down with the following effect:
+Modifies Worldbreaker with the following effect:
+Unlocks potential in your Aura-reading ability while using The Upside Down :
+Modifies Worldbreaker with the following effect: When Worldbreaker activates the following effects trigger for 65 seconds
+Modifies The Upside Down with the following effect:
+Modifies Undergate Attack with the following effect:
+Modifies the Vine Attack with the following effect:
+Modifies Worldbreaker with the following effect:
+There are 2 Achievements related to The First :
+After hooking a Survivor, for 40 / 50 / 60 seconds , press the Active Ability button to make a target generator within 20 meters explode, lose -10 progress, and start regressing.
+"Nothing will happen to you... Nothing that you don't deserve!" — Henry Creel
+Whenever a Totem is blessed or cleansed, a random unblocked generator becomes blocked for 20 / 25 / 30 seconds .
+Whenever any number of Generators become blocked, you gain Undetectable Status Effect for 30 seconds .
+"You are a prisoner here, just like me" — Henry Creel
+The first time you hook any Survivor , a random Dull Totem becomes a Hex Totem , provided that a Dull Totem remains in the Trial Grounds.
+Generators are highlighted; the intensity of the generator's Auras reveals their repair progress.
+As soon as a total of 4 generators have been completed in the Trial:
+"You... let us in. And now, you are going to have to let us stay" — Henry Creel
+Players can choose from a variety of Cosmetic options to customize The First :
+Before his monstrous transformation, he lived as a prisoner and test subject in a secret government facility.
+The alternate dimension would have destroyed anyone but the most powerful and driven monster.
+The First has 1 alternate Character model available in the in-game Store:

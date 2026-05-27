@@ -1,0 +1,58 @@
+--- https://deadbydaylight.wiki.gg/wiki/Lich ---
+
+Vecna or "The Lich" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 32: Dungeons & Dragons , a Chapter DLC released on 3 June 2024.
+He originates from the 1974 Board game Dungeons & Dragons , specifically its fifth edition from 2014.
+Few dare speak The Lich's true name, for fear that he may hear — or worse.
+His personal Perks, Weave Attunement , Languid Touch , and Dark Arrogance , allow him to exploit used Items, exhaust those who disturb the Crows, and increase his Vaulting speed.
+The Whispered One. Lord of the Rotted Tower. The Master of Secrets. Few dare speak his true name, for fear that he may hear — or worse.
+Even as a young wizard, Vecna’s command of magic was matched by none. While others spent decades committing to and perfecting one school of magic, he effortlessly mastered each one of them. After his mother’s execution for witchcraft, his focus became obsession as he pored the most of his study into the darkest school of magic—necromancy, the magic of life and death.
+As his power grew, so did his ambition. Over the centuries, he shed his mortal shell and ascended to lichdom. His power gave rise to a great empire, ruled over from his Rotted Tower.
+His thirst for dark knowledge to fill his Book of Vile Darkness led him to many realms and planes. But it was in his own realm one of his servants found something — a spell, perhaps, torn from an ancient tome — written in a language he had never seen. From it he could sense an incredible dark energy. Without any document of the language, he had to spend months painstakingly analysing its syntax, its phonetics, its form. He documented every stroke of every letter, scrutinising and theorising on their meanings, in a massive book hidden in his chambers. When his lieutenants came to him with problems in their domain, Vecna told them to deal with it themselves. He had more important matters to attend to.
+Countless nights were spent memorizing the strange script, attempting to make it make sense. Only occasionally would he leave his keep to investigate rumours of people who had disappeared without a trace in the night. At these scenes, he could sense the same foreign magic that emanated from the torn page. He was convinced that whatever was killing these people had also written this strange script.
+He was confounded, which made him furious. The scenes, few and far between, had no pattern, no common motive. No sign of struggle, no body, and only a lingering hum of dark energy. To what end did they need these bodies?
+One dark night, he had a breakthrough: a word he had been interpreting as “dying” made more sense as “disappearing.” Perhaps these people were not being killed at all: perhaps they were being taken alive. He applied this substitution through his notes and everything seemed to fall into place.
+He copied what he had learned to a fresh piece of parchment, written phonetically. He began to speak the words aloud and the room darkened. It filled with a creeping black fog. He felt himself displacing, going somewhere else. Vecna resisted, incanting memorised spells, holding the fog at bay. But as he gazed into the darkness, he felt that alluring energy from it; a despair, an evil he could scarcely imagine. A sick curiosity overcoming him, he dropped his concentration, and let the fog take him. Whatever it was, wherever it was, he understood that the only way to harness it was to submit to it. He knew, in his cold, unbeating heart, that its dark secrets would one day be his.
+The Lich comes with 3 Perks that are unique to him:
+Whenever you are vaulting a Window , you benefit from the following effect:
+When a Survivor scares off a Crow within 36 metres of your location, Languid Touch activates:
+"Submit to me. It is inevitable." — Vecna
+Whenever an Item is depleted for the first time, it is automatically dropped:
+Prestiging The Lich will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Lich twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Afterthought Dagger is the Primary Weapon of The Lich . Blade in hand, he fought with ferocity — even when he lost his eye and hand to the one who betrayed him.
+"Bound with the skin and flesh of men, the Book is packed with spells both forbidden and wicked." SPECIAL ABILITY: VILE DARKNESS Press and hold the Secondary Power button to open the Spell Selection . Move the cursor towards one of four available Spells in order to select it:
+After casting, each Spell has its own, independent cool-down:
+SPECIAL TREASURE CHESTS: MAGIC ITEMS 6 Treasure Chests containing special Magic Items for Survivors to equip spawn in the environment. These include Boots or Gauntlets of:
+Beware of Mimics though, they may bite.
+Survivors can have both a Boot and a Gauntlet equipped at the same time. Unlucky Survivors may only find a regular Item inside a Treasure Chest that is either depleted or half-depleted. SPECIAL ITEMS: HAND & EYE OF VECNA Rarely, Treasure Chests contain either the Hand of Vecna or the Eye of Vecna .
+Healthy Survivors can use these Vecna Items to gain a special ability at the cost of a Health State and triggering Killer Instinct after use. SPECIAL INTERACTION: RECOVER ARTEFACT Survivors attuned to the Eye of Vecna or the Hand of Vecna with an accumulated 2 Hook Stages are vulnerable to The Lich recovering his Artefact from them. Press the Attack button while standing over the downed Survivor to execute them on the spot, performing a Mini-Mori .
+Whenever the Dispelling Sphere Spell detects a Survivor, you benefit from the following effect:
+Modifies the Fly Spell with the following effect:
+Modifies the Flight of the Damned Spell with the following effect:
+While casting the Mage Hand Spell to block an upright Pallet , you benefit from the following effect:
+Modifies the Dispelling Sphere Spell with the following effects:
+Survivors narrowly missed by the Flying Entities summoned by the Flight of the Damned Spell suffer from the following effect:
+While casting the Fly Spell , you benefit from the following effect:
+You benefit from the following effect:
+While casting the Mage Hand Spell to block an upright Pallet , you benefit from the following effect:
+After casting the Mage Hand Spell , you benefit from the following effect:
+While casting the Fly Spell , you benefit from the following effect:
+Modifies the Flight of the Damned Spell with the following effect:
+Successfully hitting a Survivor with a Basic Attack triggers the following effect:
+Whenever a Survivor enters radius of the Dispelling Sphere , they suffer from the following effect:
+Survivors opening a Treasure Chest suffer from the following effects:
+Whenever all four Spells are on cool-down at the same time, you benefit from the following effect:
+Successfully hitting a Survivor equipped with a Magic Item with a Basic Attack triggers the following effect:
+Whenever you cast any Spell , all Survivors within 6 metres of a Treasure Chest suffer from the following effect:
+Whenever you use the Fly Spell to pass through a Window , the following effects apply:
+Whenever an injured Survivor enters radius of the Dispelling Sphere , they suffer from the following effect:
+There are 3 Achievements related to The Lich :
+Whenever an Item is depleted for the first time, it is automatically dropped:
+When a Survivor scares off a Crow within 36 metres of your location, Languid Touch activates:
+"Submit to me. It is inevitable." — Vecna
+Whenever you are vaulting a Window , you benefit from the following effect:
+Players can choose from a variety of Cosmetic options to customise The Lich :
+Only one deity was powerful enough to successfully invade the floating city of Sigil.
+A great cult emerged in Vecna's wake, loyal followers who built temples in his honor.
+The crowd fell silent as he entered the hall. One zealous guest fell to his knees and begged for his blessing.

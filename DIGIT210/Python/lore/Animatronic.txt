@@ -1,0 +1,62 @@
+--- https://deadbydaylight.wiki.gg/wiki/Animatronic ---
+
+William Afton or "The Animatronic" , also known as " Springtrap ", is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 36: Five Nights at Freddy's , a Chapter DLC released on 17 June 2025.
+He originates from the Video Game Franchise Five Nights at Freddy's , specifically Five Nights at Freddy's 3 (2015) .
+The Animatronic always comes back.
+His personal Perks, Help Wanted , Phantom Fear , and Haywire , help him compromise Generators , make Survivors scream, and regress Exit Gate Switches .
+Deep within the abandoned Freddy Fazbear's Pizza, William Afton ran from the ghosts of his victims. He frantically put on his beloved Spring Bonnie costume, the disguise he wore while committing his heinous crimes, to hide from the pursuing spirits.
+But fate had different plans for Afton. Something activated the springlocks within the Spring Bonnie costume. Metal clamped against metal, piercing the murderer and trapping him in his costume. As he screamed, the checkerboard floor rose up to meet him, and everything went black.
+Thus was Springtrap born: from the death of a murderer.
+He awoke to a familiar sound, his body a pillar of agony. The ghosts that had tormented him were gone. The walls surrounding him were decomposing, the floor beneath him failing away in mouldy patches. How much time had transpired since the springlocks tore through his body and fixed him within his costume? The urge to kill lingered within him still, the thirst long left unquenched.
+The sound filled his ears again, Children`s laughter. Were children playing in the kitchen? Springtrap rose to his feet, adjusting to his new body, and marched towards the sounds.
+He picked up speed as he moved. Walking turned to running. He rushed into the kitchen and found,
+No children, no games, no laughter. Just a swirling mass of black fog enveloping the far wall.
+Springtrap examined the fog. Curiosity tightened his grip on him as he stared into the darkness, his distended eyes could see shapes emerge within the fog.
+Who were they? It didn`t matter. They were his victims now. Somehow, he knew the hunt could go on forever.
+All he had to do was step into the fog.
+The Animatronic comes with 3 Perks that are unique to him:
+Whenever a Survivor stops opening an Exit Gate after accumulating at least 80 % Progression towards being opened, Haywire causes it to regress:
+After performing the Damage Generator action, Help Wanted activates:
+Whenever a Survivor within your Terror Radius looks at you, they suffer from the following effects:
+"Excellent. Your screams please me." — Springtrap
+Prestiging The Animatronic will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Animatronic twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Pizza Knife is the Primary Weapon of The Animatronic . Death was not the end. He was born anew, driven to continue his killing spree.
+"The Animatronic lived to kill, even when his mechanical costume became his tomb." SPECIAL ABILITY: FAZBEAR'S FRIGHT The Animatronic is armed with a Fire Axe , that he can throw, and causes 7 Security Doors to spawn in the environment. SPECIAL ABILITY: FIRE AXE Press and hold the Power button to initiate Ready Aim . Press the Attack button to throw the Fire Axe or release the Power button to cancel the Power. If the Fire Axe hits a Survivor, the Survivor is damaged for one health state, and, if Healthy, has the Fire Axe embedded into them. Survivors with an embedded Fire Axe are inflicted with the Broken and Oblivious Status Effects . If the Fire Axe hits the environment, the Fire Axe becomes embedded and creates an Area of Effect of 2 metres around it. Any Survivors caught inside the area are revealed by Killer Instinct . If the Fire Axe hits a Security Door , the door becomes disabled for all Survivors until the Fire Axe is removed. SPECIAL INTERACTION: RECLAIM AXE While the Fire Axe is off cool-down, press the Secondary Power button to retrieve the Fire Axe . SPECIAL INTERACTION: GRAB AXE Press the Power button while infront of a Survivor with an embedded Fire Axe to perform a special sequence that instantly carries the Survivor and returns the Fire Axe to The Animatronic . SPECIAL MAP FEATURE: SECURITY SYSTEM The Security Doors found in the enviroment can be accessed by both Survivors and The Animatronic . Upon entering a Security Door , The Animatronic benefits from the following effect:
+SPECIAL INTERACTION: CAMERA VIEW Each Security Door has a Camera attached to it. Interacting with the door gives a Survivor access to the Camera View , allowing them to cycle through every Camera :
+SPECIAL MECHANIC: BATTERY POWER Using the Cameras and Security Doors will drain the battery power. Fully depleting the battery power shuts down the Security System for 45 seconds , forcing Survivors to wait until the system reboots. The Animatronic may travel between doors with or without battery power. SPECIAL LOCATION: SECURITY ROOM If The Animatronic enters a Security Door , they may choose to exit from any other door in the environment. Moving to a door already in use by a Survivor will cause The Animatronic to grab that Survivor.
+While removing the Fire Axe embedded in them, the Survivor suffers from the following effect:
+While winding up an axe throw, you benefit from the following effect:
+While retrieving the Fire Axe whenever it is embedded in the environment, you benefit from the following effect:
+You benefit from the following effect:
+While within 24 metres of the Survivor embedded with the Fire Axe , the following primary effects are applied to other Survivors:
+Additionally, if they are in the Injured State , they also suffer from the secondary effect:
+While the Fire Axe is embedded in the environment, the following effects apply:
+Survivors hit with the Fire Axe suffer from the following effects:
+Upon exiting a Security Door after teleporting to it, the following effect applies:
+While travelling through the Security Doors , you benefit from the following effect:
+Unlocks potential in your Aura-reading ability while moving between Security Doors :
+While inside the Area of Effect of the Fire Axe , Survivors suffer from the following effect:
+While inside the Area of Effect of the Fire Axe , Players benefit from the following effect:
+Modifies the trajectory of the Fire Axe :
+While a Survivor has the Fire Axe embedded in them, whenever they perform a Rushed action of any kind, Purple Guy Drawing triggers its primary effect:
+Unlocks a special ability for the Fire Axe :
+After embedding the Fire Axe in a Survivor, all Players benefit from the following effects while within 32 metres of that Survivor:
+While inside the Area of Effect of the embedded Fire Axe , you benefit from the following effect:
+While a Survivor has the Fire Axe embedded in them, they suffer from the following effect:
+Upon throwing the Fire Axe , the following effects are applied:
+Upon travelling to a Security Door , the following effect is applied to it:
+There are 2 Achievements related to The Animatronic :
+After performing the Damage Generator action, Help Wanted activates:
+Whenever a Survivor within your Terror Radius looks at you, they suffer from the following effects:
+"Excellent. Your screams please me." — Springtrap
+Whenever a Survivor stops opening an Exit Gate after accumulating at least 80 Progression towards being opened, Haywire causes it to regress:
+Players can choose from a variety of Cosmetic options to customise The Animatronic :
+He emerged from the depths of corrosive despair, radiating a newfound evil.
+As the fog settled, he felt himself take on a form he did not recognize.
+A mascot from the machine. A virtual manifestation of evil made flesh in the Entity's Realm.
+As he was dragged away by his own creations, a black fog took hold and dragged him somewhere else entirely.
+The serum coursed through man and machine, coming to life as it touched the rotting tissue.
+The Animatronic has 2 alternate Character models available in the in-game Store:
+The Animatronic is part of 1 DLC:

@@ -1,0 +1,73 @@
+--- https://deadbydaylight.wiki.gg/wiki/Ghost_Face ---
+
+Danny Johnson or "The Ghost Face" , also known as Jed Olsen , is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 12: Ghost Face® , a Chapter DLC released on 18 June 2019.
+He is a BHVR-original interpretation of the Ghost Face character donning the iconic mask licensed by Fun World .
+The Ghost Face is a creepy Killer, able to stalk his victims and sneak up silently using his Power, Night Shroud . Affected Survivors will find themselves vulnerable and oblivious to his presence and must use all of their perception and awareness to protect themselves from his approach.
+His personal Perks, I'm All Ears , Thrilling Tremors , and Furtive Chase , give him the ability to locate Survivors, defend Generators, and make his Chases unpredictable.
+Danny Johnson, known as Jed Olsen by some, grabbed the newspaper from the kitchen counter: it was a week old, but his face was on the front page, grainy and sunken. It was one of those muggy afternoons in Florida when heat and humidity permeated everything in the kitchen, making him sweat while standing still. He slouched in a damp chair to read. This article had better be good—his work in Roseville had been outstanding. GHOST FACE DISAPPEARS June 18, 1993
+At first glance, Jed Olsen was a modest and enthusiastic freelancer with experience in a variety of small newspapers. The staff at the Roseville Gazette appreciated how easy-going and honest he seemed, and so he was treated as a stranger for no more than five minutes into his interview:
+"Jed quickly spotted the editor-in-chief in the room, gave him a wide smile and a firm handshake, and talked about good old American values. And that was it, he was in." —Ex-Contributor at the Roseville Gazette
+Olsen never justified his erratic career path, which zigzagged between several small towns from Utah to Pennsylvania. There was no verification of his previous jobs. He had a decent portfolio plus a good attitude, and they needed a contributor right away.
+Olsen had been working at the newspaper for five months when the Roseville Murders began: victims from young to old, stabbed to death in their homes. From the reports, the victims seemed chosen at random, yet the killer knew his way around in the houses. The multiple stab wounds indicated a personal motive. No traces of DNA were found. The local police were confounded: the murders were carried with fury akin to a crime of passion yet coldly premeditated.
+The murderer also liked to stalk his targets. Two victims had reported being followed on their way home by a dark figure, a few days prior their death. The killer would follow them from Walleyes, a small bar in Northern Roseville, and snap pictures of them at home, while looking for a way in. He could watch the same victim for weeks, meticulously registering their habits and routines. When he felt the urge to kill, he'd visit the most vulnerable victim on his list, and break inside the house quietly.
+The whole staff worked on the Roseville Murders story. Olsen was often sent to interview the family of victims and relay official statements from the police. Unknown to everyone at the time, his involvement added to the final body count.
+Panic swelled in Roseville when Olsen produced footage of a hooded figure breaking into a house at night. The masked face, a white blur in the dark, stared at the camera for a second, before disappearing inside. “The Ghost Face Caught on Tape” was the resulting article, written by Olsen. He seemed proud of his work at the time, enjoying how the whole town feared his ghost stories.
+Weeks later, Olsen left a note on his work desk and disappeared:
+"I hope you liked my stories--I enjoyed bringing them to life. Don't worry, I'm not done." –Jed Olsen
+The Roseville law enforcement still refuses to comment as Jed Olsen remains at large.
+Danny smiled, ripping out the article from the newspaper. When the investigation had been pointing to him, he’d packed his bags and left Roseville swiftly.
+He got up, the clammy seat pulling his skin. An oppressive humidity engulfed him as he entered the bedroom. Condensation dribbled on a small misted-up window as bits of cracked wallpaper hung limply. Its floral pattern was covered with gruesome photos and newspaper headlines. Danny pinned the week-old article on top of a picture of lacerated scalps. A faint pang of hunger hit him, and he wondered when he had eaten last. Was it this morning, while washing his knife and clothes? Or was it last night, after following that girl down the street? He couldn't remember clearly.
+Taking a step back, he admired his work on the wall. His mind drifted, remembering all the articles he’d written, the stories he’d planned, and the scenes he’d brought to life.
+A shiver ran through him. A chilling breeze transformed the bedroom's humidity into an opaque, freezing Fog. A woman shrieked. Dead leaves crunched under his feet. He smiled in anticipation.
+The table below lists additional Lore about The Ghost Face from The Archives , either from Tomes that featured him or from individual Lore entries that mentioned him:
+The Ghost Face comes with 3 Perks that are unique to him:
+After hooking the Obsession , you benefit from the following effects for 14 / 16 / 18 seconds :
+"You have no idea what I have planned for you. It'll be in the news for weeks. I'll make sure of that." — The Ghost Face
+Whenever a Survivor performs a Rushed Vault action within 48 metres of your location, you benefit from the following effect:
+"There is no need to worry. I've been preparing my whole life for this." — The Ghost Face
+After picking up a Survivor, Thrilling Tremors triggers its effects:
+"The night assists me and it's endless here." — The Ghost Face
+Prestiging The Ghost Face will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Ghost Face twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Tactical Knife is the Primary Weapon of The Ghost Face . See how the streetlights glint on the razor-sharp edge? Anyone should feel honoured to feel it sliding through their ribcage.
+"The Ghost Face used to study his victims for weeks, meticulously registering their habits. When the urge to kill swelled, he'd know exactly how and where to strike." SPECIAL ABILITY: NIGHT SHROUD Press the Power button to enter Stealth Mode :
+Performing a Basic Attack automatically ends Stealth Mode and depletes the Power Gauge.
+Night Shroud has a cool-down of 17 seconds . SPECIAL LOCOMOTION: CROUCHING Press the Secondary Power button to Crouch :
+Press the Secondary Power button again to stand back upright. SPECIAL ABILITY: STALKING Press and hold the Power button when in Stealth Mode to start Stalking :
+While stalking one or multiple Survivors, their Stalk Meter is filling up at a default rate of +22.5 pts/s , which is indicated on the Survivor Portraits in the HUD. SPECIAL ABILITY: LEANING AND STALKING
+Standing behind cover when in Stealth Mode shows the Lean and Stalk prompt. Stalking Survivors while leaning doubles its rate to +45 pts/s . SPECIAL STATE: MARKED
+Once the Stalk Meter is full at 100 points , the affected Survivors are Marked and suffer from the following effects for 60 seconds :
+SPECIAL INTERACTION: REVEALING Survivors can attempt to reveal The Ghost Face when he is in Stealth Mode , forcing him out of it and disabling his ability to continue stalking them.
+Survivors must see at least 30 % of his model in the central part of their screen while he is within 32 metres in order to start revealing him over the course of 1.5 seconds :
+"Don't mind me. That's it, keep going. Perfect. That's the image I'll keep of you." — The Ghost Face
+"Gotta love Philly: keeps giving and giving and I do not wanna forget any of it." — The Ghost Face
+"They all want to know who Ghost Face is. But what they should ask is: who is next?" — The Ghost Face
+"Gotta get ready like a scout — without the stupid patches. What I get is much better." — The Ghost Face
+"I have been watching you for a while. I wanted this to be special; the kind of headlines that people do not forget." — The Ghost Face
+"In this footage, a dark figure is seen entering a house late at night in Northern Roseville, Florida. The police were called the next morning to report a murder in the area. Lock your doors: a Killer is in our midst, roaming freely, like a ghost in the night." — The Roseville Gazette
+"An image is worth a thousand words." — The Ghost Face
+Used exclusively in 2v8 Trials, the Innate Skill modifies Night Shroud with the following effects:
+There are 2 Achievements related to The Ghost Face :
+Whenever a Survivor performs a Rushed Vault action within 48 metres of your location, you benefit from the following effect:
+"There is no need to worry. I've been preparing my whole life for this." — The Ghost Face
+After picking up a Survivor, Thrilling Tremors triggers its effects:
+"The night assists me and it's endless here." — The Ghost Face
+After hooking the Obsession , you benefit from the following effects for 14 / 16 / 18 seconds :
+"You have no idea what I have planned for you. It'll be in the news for weeks. I'll make sure of that." — The Ghost Face
+Players can choose from a variety of Cosmetic options to customise The Ghost Face :
+Not content to merely stalk those in their homes, he sometimes took to the wilderness to track and kill his victims.
+Not content to merely stalk those in their homes, he took to the trials to track and kill his victims.
+Temperature changes are common in hauntings. Even when the ghosts are less than supernatural?
+Temperature changes are common in hauntings. Even when the ghosts are less than supernatural?
+During the Darkening, glacial winds blew from the Lost Realms, spreading an everlasting frost of penetrating ice clusters.
+He grabbed this garb impulsively, to spice things up. He had no idea how iconic this look would become for his victims.
+The knife finds its mark. With a gasp from the victim, it sinks home, is withdrawn and the blood gushes forth.
+He was surprised by the festivities but didn’t say no to the attention.
+Christmas spirit filled the frosty air and Danny had one name on his naughty list.
+Not content to merely stalk those in their homes, he sometimes took to the wilderness to track and kill his victims.
+A specimen who reacted strangely to the latest compounds, resulting in unexpected mutations that cannot yet be explained.
+A man with murder on his mind must prepare for blood on his jacket.
+He gathered the bodies, thinking of what would make the best story in tomorrow's paper, when an ominous raven flew in through the window.
+As fear spread in Roseville, university students launched a masked party to lighten the mood.
+The Ghost Face is part of 1 DLC:

@@ -1,0 +1,47 @@
+--- https://deadbydaylight.wiki.gg/wiki/Cenobite ---
+
+Elliot Spencer or "The Cenobite" , also known as " Pinhead ", is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 21: Hellraiser™ , a Chapter DLC released on 7 September 2021, which was delisted from platform stores on 4 March 2025 and 13 March 2025 for the Nintendo eShop.
+He remains a playable Character for all Players who purchased him prior to 4 April 2025.
+He originates from the 1987 Horror Movie franchise, Hellraiser .
+The Cenobite is a summoning Killer, able to possess Chain Projectiles and use the Lament Configuration to torture every Survivor at once.
+His personal Perks, Deadlock , Hex: Plaything , and Scourge Hook: Gift of Pain , allow him to slow Generator Progression and continue to torment Survivors who have experienced his sweet suffering.
+Difficulty Rating: Very Hard ( These Killers require a high amount of practice and understanding, inexperienced Players are likely to find little success when using them )
+A demon to some, an angel to others. Pinhead is an explorer in the further regions of experience, indulging in the limitless thrill of pleasure and pain. When the puzzle box known as the Lament Configuration — a key to another dimension — was found in The Entity's Realm, it was only a matter of time before it fell into curious hands. Once opened, he arrived. What came next was sweet suffering that spilled over the Realm.
+The Cenobite comes with 3 Perks that are unique to him:
+"We came. Now you must come with us. Taste our pleasure." — Pinhead
+"We will tear your soul apart." — Pinhead
+Prestiging The Cenobite will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Cenobite twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Hook & Chain are the Primary Weapon of The Cenobite . He wields them with thrill.
+"An extradimensional gateway that leads to pleasure and pain so great it will tear your soul apart." SPECIAL ABILITY: SUMMONS OF PAIN Press the Power button to conjure a Gateway up to 16 metres away in front of The Cenobite . Release the Power button to open the Gateway and possess it. SPECIAL ATTACK: POSSESSED CHAIN Press the Attack button while possessing the Gateway to summon forth a guided Possessed Chain under your control.
+Hitting a Survivor with the Possessed Chain causes the following effects:
+SPECIAL INTERACTION: BREAKING CHAINS Bound Survivors can perform the Break Free interaction to remove one Chain at a time, each taking 1 second .
+Chains are broken upon colliding with the environment, which will spawn a replacement Chain that will attempt to bind the Survivor again. Chains are also broken when colliding with other Players, but this will not spawn a replacement Chain . SPECIAL ITEM: LAMENT CONFIGURATION The Lament Configuration spawns in a random location in the environment at the start of the Trial and slowly charges a Chain Hunt
+The Aura of the Lament Configuration is revealed to Survivors in white at all times and changes to yellow during an active Chain Hunt .
+Any Survivor can pick up the Lament Configuration to prevent it from continuing charging a Chain Hunt or ending an on-going one, but not without suffering from the following effects:
+The Lament Configuration cannot be dropped, demanding to be solved to remove it from their possession. If they are downed by The Cenobite , it is dropped from their grasp and respawns after 30 seconds . SPECIAL ABILITY: CHAIN HUNT When left to its own devices, the Lament Configuration charges a Chain Hunt over the course of 90 seconds .
+During a Chain Hunt , Survivors are repeatedly targetted by Chains spawning from nearby Gateways , which attempt to bind them until 3 Chains are attached to them. This process continues indefinitely until a Survivor picks up the Lament Configuration .
+If The Cenobite picks it up from the ground himself, or downs a Survivor currently holding it, he instantly starts a Chain Hunt in addition to the following effects:
+If the condition of the Last Survivor Standing is met, Chain Hunts will still activate, but not spawn any Chains , leaving the Last Survivor Standing untouched. SPECIAL INTERACTION: SOLVING Solving the Lament Configuration takes 6 seconds to complete:
+SPECIAL LOCOMOTION: TELEPORT While a Survivor is solving the Lament Configuration , The Cenobite is granted the ability to teleport to within 10 to 12 metres of their location.
+Lament Configuration (Chain Hunt):
+Lament Configuration (Respawn Times):
+Lament Configuration (Spawn Location): The Lament Configuration has the following behaviour in regards to choosing its spawn and respawn location:
+Lament Configuration (Solving):
+Chain Projectiles (Controlled):
+Chain Projectiles (Uncontrolled):
+"We want the man who did this." — Pinhead
+"The Cenobites gave me an experience beyond limits. Pain and pleasure, indivisible." — Frank Cotton
+"This isn't for your eyes." — Pinhead
+Survivors breaking free from the Possessed Chain suffer from the following effect:
+"We have such sights to show you." — Pinhead
+"You opened it. We came." — Pinhead
+There are 2 Achievements related to The Cenobite :
+"We came. Now you must come with us. Taste our pleasure." — Pinhead
+"We will tear your soul apart." — Pinhead
+Playing as The Cenobite , bind Survivors using with your Possessed Chain a total of 50 times .
+Players can choose from a variety of Cosmetic options to customise The Cenobite :
+Explorer in the further regions of experience. Demons to some, angels to others.
+An avid servant of Pinhead, dedicated to exploring the limits of human sensations.
+The Cenobite has 1 alternate Character model available in the in-game Store:

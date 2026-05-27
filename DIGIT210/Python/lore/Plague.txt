@@ -1,0 +1,76 @@
+--- https://deadbydaylight.wiki.gg/wiki/Plague ---
+
+Adiris or "The Plague" is one of 42 Killers currently featured in Dead by Daylight .
+She was introduced as the Killer of CHAPTER 11: Demise of the Faithful , a Chapter DLC released on 19 March 2019 and retired on 8 January 2024.
+She is still available in the In-Game Store and as part of the Old Wounds Pack Chapter Pack DLC.
+The Plague is a devout Killer, able to infect Survivors from a short distance using her Power, Vile Purge . Survivors inflicted by this contamination risk becoming injured or broken, unless they find a way to cure themselves in a Pool of Devotion .
+Her personal Perks, Corrupt Intervention , Infectious Fright , and Dark Devotion , give her the ability to hinder Survivor objectives, while simultaneously confusing and frightening those within her presence.
+When she was five years old, Adiris, the youngest of a family of seven, was left on the brick-red burning steps of the Temple of Purgation at the centre of Babylon. To process her shock and sorrow, she held onto the belief that the Gods had a plan for her. Her new life was one of quiet servitude. She would tend to the gardens, prepare ceremonial meals, and polish ceremonial incense burners. At night, she would pray for a sign that would reveal her purpose.
+When she came of age, she attended the high-ranking priests during the yearly worshipping of the sea-goat, the God of Water and Creation. Swinging a censer down the great hypo-style hall, she cast thick black fumes that reached the cold towering stone pillars before dissipating. Her worries lifted, and the resulting bliss made her feel closer to the Gods than ever. She worked herself to the bone each day that followed, fulfilling her duties while taking on new ones, as she aided the priests during purification rituals.
+The priests were more and more in need of assistance. Cleansings were being performed daily to answer the demand from outside the high temple walls, where a catastrophic plague had resurfaced. Within months, the priests contracted the disease. It did not take long before they became too weak to perform any kind of ritual. Adiris, having assisted many purification rituals, was the only one able to carry on. The swelling panic had to be contained, even if by a novice.
+Anxious before her first ceremony, Adiris visited the priests' sanctuary chamber. When she lit the candles, she noticed a narrow opening at the back. Sliding through the gap, she reached a crypt hidden under the sanctuary. The chamber was bare except for the golden statue of a woman, who stood with outstretched hands, her fingers covered in jewels. It was the sign Adiris had been waiting for.
+The great hall was packed with followers who bowed down as Adiris entered. She strode to the brick altar and grabbed a ceremonial dagger forged in silver, her ruby ringed fingers wrapping around the blade like claws. The sudden display of luxury intrigued the followers, who were struck already by her youth and beauty.
+As she began reciting the Epic of Creation, a woman at the back swooned and collapsed. Adiris rushed to her and noticed the black blisters covering her feet. Without hesitation, Adiris grabbed her sacred blade and swung it at her own foot, severing a toe. Then she offered the bloody part to the Gods, asking them to protect the woman. A silence fell over the followers, who revered Adiris as their new priestess.
+Tales of her wealth, beauty, and devotion began to spread across the city as quickly as the disease. Soon, Adiris' followers called her the High Priestess of Babylon.
+But her faith was tried when she showed the first signs of infection; her cough became a mix of phlegm and blood, her neck erupted in abscesses, and her four-toed foot darkened. Ashamed of her condition, she began wearing a veiled headpiece and carried a censer that masked the rancid smell of sick that clang to her skin. Hoping to be saved, she kept performing the rituals, offering blessed water and food to her followers.
+But no ritual could save her. In a desperate attempt to appease the Gods, Adiris banished herself from the city. She traveled north with a few followers, venturing through the cold woodlands of Urashtu, until it was no longer possible to walk.
+They camped in a damp cave, where Adiris lay in a pool of vomit. Her foot, which had turned black, was so swollen she could not go any further. Her followers and she realised the truth in that cave: they were all infected with the plague.
+Kneeling among her retching followers, Adiris made one last prayer. The black fumes of incense rose into the damp air before being wiped off by a cold breeze.
+Neither the body of Adiris nor those of her followers were ever found. Many told tales of her return, but no one truly knew what fate had befallen the High Priestess of Babylon.
+The table below lists additional Lore about The Plague from The Archives , either from Tomes that featured her or from individual Lore entries that mentioned her:
+The Plague comes with 3 Perks that are unique to her:
+Corrupt Intervention deactivates prematurely once the first Survivor is put into the Dying State .
+"It shall be known across the land that the Gods curse the unfaithful." — (The Tablet of Adiris, 3.7)
+Whenever the Obsession becomes injured by any means, Dark Devotion activates for 35 / 40 / 45 seconds :
+"And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival." — (The Tablet of Adiris, 48.9)
+Whenever a Survivor is put into the Dying State by any means, all other Survivors within your Terror Radius will scream and reveal their current location to you for 4 / 5 / 6 seconds . "Horror overcomes the heart of infidels who cry at the feet of the fallen." — (Hymn of Praise, 11.4)
+Prestiging The Plague will automatically add Tier I of her Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Plague twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Profane Censer is the Primary Weapon of The Plague . It is exuding the sweet fragrances of the Gardens the Priestess used to tend to.
+"Her condition deteriorated as the black plague overtook her body: Her toes blackened, her neck mushroomed into cysts, and her throat gagged with bloody vomit." SPECIAL ABILITY: VILE PURGE Press and hold the Power button to charge Vile Purge . Release the Power button to unleash a stream of infectious bile or press the Attack button to swallow it back down:
+SPECIAL STATE: SICKNESS Sickness is indicated on the Status HUD icon of affected Survivors, which also doubles as a Sickness Meter :
+SPECIAL OBJECT: POOLS OF DEVOTION Pools of Devotion spawn randomly throughout the environment:
+SPECIAL INTERACTION: CLEANSING INFECTION Survivors can approach an Uncorrupted Pool of Devotion and interact with it to cleanse themselves. Cleansing removes all Sickness and automatically heals them back to full health, but corrupts the Pool of Devotion . SPECIAL INTERACTION: INGESTING CORRUPTION The Plague can approach a Corrupted Pool of Devotion and press and hold the Interaction button to ingest its corruption and empower her purge:
+The Plague automatically receives Corrupt Purge when Survivors corrupt all available Pools of Devotion , resetting them all. SPECIAL ATTACK: CORRUPT PURGE Press and hold the Power button to charge Corrupt Purge Release the Power button to unleash a stream of lethal bile or press the Attack button to swallow it back down:
+If The Plague is stunned by any means during Corrupt Purge , her Power is instantly reset to Vile Purge .
+There are 2 Achievements related to The Plague :
+Corrupt Intervention deactivates prematurely once the first Survivor is put into the Dying State .
+"It shall be known across the land that the Gods curse the unfaithful." — (The Tablet of Adiris, 3.7)
+Whenever a Survivor is put into the Dying State by any means, all other Survivors within your Terror Radius will scream and reveal their current location to you for 4 / 5 / 6 seconds . "Horror overcomes the heart of infidels who cry at the feet of the fallen." — (Hymn of Praise, 11.4)
+Whenever the Obsession becomes injured by any means, Dark Devotion activates for 35 / 40 / 45 seconds :
+"And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival." — (The Tablet of Adiris, 48.9)
+Players can choose from a variety of Cosmetic options to customise The Plague :
+"Have a Wonderful Winter 2019-2020!" - The Dead by Daylight Team
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+With weeping eyes to the sky, she prayed for salvation from the gods...
+Red and black vestments were her final attempt to conceal the infection ravaging her body.
+Some thought the dyes too rich and garish, but to gain a god’s attention, drastic measures sometimes had to be followed.
+There was nothing delicate about this butterfly. Her faith had evolved and so had the extremes she would go to for it. Design inspired by Dragonaer .
+The robes of the devout women who interrogated those committing dire sins.
+An elegant purple gown adorned with gold ornaments.
+Her followers feared the rise of another zealotry, but she told them to fear nothing.
+Her followers feared the rise of another zealotry, and she had to keep her own fears to herself.
+Worn during the holiest of days, or in the most desperate circumstances, and sure to draw the sea-goat's attention.
+Worn for the first rituals ever performed by the young priestess.
+Worn for the first rituals ever performed by the young priestess.
+Worn for the first rituals ever performed by the young priestess.
+Worn for the first rituals ever performed by the young priestess.
+While performing the most sacred of rituals, she was being consumed by a disease that she helped spread unknowingly.
+While performing the most sacred of rituals, she was being consumed by a disease that she helped spread unknowingly.
+While performing the most sacred of rituals, she was being consumed by a disease that she helped spread unknowingly.
+Desperate to appease the god of mayhem and pestilence, the priestess exiled herself from the fair city of Babylon, never to return.
+Desperate to appease the god of mayhem and pestilence, the priestess exiled herself from the fair city of Babylon, never to return.
+With weeping eyes to the sky, she prayed for salvation from the gods...
+Adiris traveled outside the city walls to gather her thoughts and make a critical decision — one that could be the key to appeasing the gods.
+A garment crafted from fish skin and shells.
+The High Priestess’s flesh was covered with swollen abscesses. Desperate for a cure, she followed the forbidden practices of a forgotten, dark cult.
+A lavish ceremony meant to invoke the god of water and mischief for a final cleanse from affliction.
+She emerged from confinement when the serum amplified the disease coursing through her blood.
+She gritted her teeth in front of the mirror. Her skin was covered in sores, blackened by necrosis.
+Entering this land between life and death, she felt honored to have been bestowed with otherworldly gifts.
+There was nothing delicate about this butterfly. Her faith had evolved and so had the extremes she would go to for it. Design inspired by Dragonaer .
+Adiris was praying by herself when a furless cat knocked over her censer.
+Her followers feared the rise of another zealotry, but she told them to fear nothing.
+Worn during the holiest of days, or in the most desperate circumstances, and sure to draw the sea-goat's attention.
+Worn during the holiest of days, or in the most desperate circumstances, and sure to draw the sea-goat's attention.
+For more go to The Plague's Gallery

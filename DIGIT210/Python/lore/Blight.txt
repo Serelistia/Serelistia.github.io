@@ -1,0 +1,80 @@
+--- https://deadbydaylight.wiki.gg/wiki/Blight ---
+
+Talbot Grimes or "The Blight" is one of 42 Killers currently featured in Dead by Daylight .
+He was introduced as the Killer of CHAPTER 17: Descend Beyond , a Chapter DLC released on 8 September 2020 and retired on 8 January 2024.
+He is still available in the In-Game Store and as part of the Macabre Tales Pack Chapter Pack DLC.
+The Blight is an unpredictable Killer, able to rush forward in a burst of speed and carom off obstacles to injure Survivors using his power, Blighted Corruption .
+His personal Perks, Dragon's Grip , Hex: Blood Favour , and Hex: Undying , allow him to impose powerful effects on Generators, Totems and Pallets.
+To understand the human condition, one must rise above it. This was the credo of Talbot Grimes, a Scottish chemist whose unrestrained ambition took him to towering heights. As a boy, he was a popular child—bright, charismatic, and unafraid to challenge authority—yet despite his social graces he was fiercely independent, spending much of his time exploring the sprawling fields near his town alone. What began as a child's curiosity nearly turned deadly after experimenting with a patch of poisonous foxglove. For days, he laid in bed dripping with sweat, purging any food that touched his stomach. When he recovered, it wasn't fear that gripped him, but fascination. There was something magical in how a single flower could so drastically affect him.
+Into his adult years, his ambition developed as quickly as his questionable methods. He attended the London School of Medicine and excelled despite several reprimands. His willingness to push the limits secured him a position with the British East India Company, and within seven years he was made head chemist. In time, he completed one of his greatest achievements: a chemical that could increase a worker's productivity while reducing their need for rest. He was rewarded with a secret laboratory beneath a prison camp on Dyer Island.
+There, off the coast of India, prisoners from the Opium War became his unwilling subjects, leading to a drug that allowed soldiers to withstand incredible amounts of pain. Though most side effects were minor, there were rumours that a small number of soldiers went mad. In feral states, they massacred villages, impaling the populace on bayonets, leaving them hanging from trees. There were no official reports on the subject, and Talbot refused to blame himself for what could only be exaggerated war stories.
+Though his callous brilliance seemed unflappable, he was ignorant to the enemies his questionable work had amassed. The realisation struck him quite literally—with a steel pipe to the back of his head during a trip to Mangalore. He was bound and loaded into a wagon. When his blindfold was removed, a sickly man showed him a mass grave filled with hundreds of bodies. Unbeknownst to Talbot, his productivity-increasing drug had killed nearly an entire factory's worth of workers. He knew he couldn't defend himself against the anger and accusations of his abductor—all he could do was curl up as the blows from the steel pipe rained down. His body was thrown into the grave and left for dead. Shifting between consciousness and the darkest black, he crawled for an escape, fingers sinking into rotting flesh. Black flies feasted on his uncovered skin, the sensation of a hundred pin pricks stabbing into him. As he collapsed, he came face to face with a dead woman's dazzling hazel eyes. Too weak to pull away, he could do nothing but witness his life's work.
+Then, from the edge of death, he was brought back. He found himself on a small bed as a kindly, wrinkled face looked over him. With each pained breath, he was nursed back to health in an ancient mystery school posing as a monastery. In verdant gardens behind tall, unassuming walls, monks studied forbidden texts, striving to expand the human mind in the search for other dimensions — believing one to be connected to the other.
+Talbot's knowledge proved indispensable, his mind-altering chemicals integrating seamlessly with theories of neural expansion. He realised then that his salvation was no coincidence—he was plucked from the pit specifically to advance the school's knowledge. He agreed to help until his recovery was complete, being tasked with researching what the monks called the soul chemical, a compound derived from the pineal gland that could open the mind's eye. What began as a favour to his saviours, soon became an obsession. Poring over the school's archives of lost texts, he uncovered scientific formulas that confirmed previously unthinkable ideas. He dreamt of ushering humankind into a new period of enlightenment. Perhaps then, the nightmares of hundreds of dead factory workers — and of those two hazel eyes — would fade from his mind.
+As he came closer to a breakthrough, the demeanour of the monks shifted. The gentle smiles they offered were paired with uneasy eyes that quickly darted away when spotted. The polite conversations he was once privy to turned to hushed murmurs. The last thing he would see of the school was the cracked ceiling above his bed, branching like a dendrite through plaster.
+His next memories were a shattered mosaic of images and sensations. Smearing lights, horse hoofs on cobblestone, coarse burlap scratching at his cheeks, and sharp bites into his arm. He awoke ragged and unwashed, splayed on the straw mattress of an opium den. Mind in a dense fog, his first thought was of his notes, the only record of his ground-breaking revelations. He searched frantically, scrambling through the dingy basement, pleading aloud for help. The few other denizens looked up from their hammocks, offering nothing but drug-soaked eyes and apathetic gazes that soon fell into half-slumber. Before he noticed the robed figure appear behind him, a needle plunged into his arm and the world disappeared once more.
+Awoken. Again. Each time, hazier than the last. He tongued at hollow gaps between his teeth. How long, he wondered. A faint memory returned. The soul chemical. His notes. The verge of a breakthrough. A faraway whisper entered his mind.
+He fumbled with a stone, sharpening it with shaking hands. In the dim light of the den, amongst the catatonic occupants, he carved his research from memory into the walls. He wrote for hours until his fingers bled, moving to the floor, taking in everything the voice whispered despite his inability to comprehend it. When there was nowhere left to write, he gripped the stone and carved the message into his chest. Stained with blood, he witnessed a miracle appear before him — a magnificent field of lush, orange flowers. The whispered voice beckoned to him, urging him to enter the field and discover worlds and dimensions beyond human comprehension. For a moment, Talbot felt the sense of wonder he possessed as a child.
+The denizens of the opium den awoke to silence, the dry scent of smoke still lingering in the air. Shambling out of their drug-hazed fog, they found the stone floor wet with blood, tiny rivulets coursing through the cracks. As eyes adjusted to the darkened room, the jagged lettering scrawled along its length began to appear. Written over and over without end, there was but one single line: Death is only the beginning.
+The table below lists additional Lore about The Blight from The Archives , either from Tomes that featured him or from individual Lore entries that mentioned him:
+The Blight comes with 3 Perks that are unique to him:
+Dragon's Grip has a cool-down of 60 / 45 / 30 seconds .
+"Such potential in this compound... even the slightest trace causes unnatural effects." — Journal of Talbot Grimes
+Hex: Blood Favour lights a Hex Totem at the start of the Trial, cursing Survivors with its Hex Effects . Whenever a Survivor loses a Health State by any means, Hex: Blood Favour triggers its effect for 15 seconds :
+"It would be no leap of the imagination to suggest that the Trials are a biological response of sorts." — Journal of Talbot Grimes
+Whenever a Survivor is within 2 / 3 / 4 metres of a Dull Totem , Hex: Undying triggers its primary effect:
+Prestiging The Blight will automatically add Tier I of his Unique Perks to the inventories of all other Killers and unlock the ability for their higher-tiered versions to spawn in their Bloodweb .
+Prestige The Blight twice more to automatically add Tier II and Tier III respectively into the other Killers' inventories.
+The Bonebuster is the Primary Weapon of The Blight . An elegant accessory, specially weighted to deliver a deceptively brutal blow.
+"Pustula Serum courses through his veins, corrupting his mind and body, yet granting him unnatural physical abilities." SPECIAL ABILITY: BLIGHTED CORRUPTION The Blight starts the Trial with 5 Tokens .
+Using Blighted Corruption consumes -1 Token per Rush / Lethal Rush . SPECIAL LOCOMOTION: RUSH Press the Power button to initiate a Rush that lasts for up to 3 seconds :
+SPECIAL INTERACTION: SLAM Running into obstacles or walls during a Rush causes The Blight to perform a Slam and opens the Chain Rush Window . SPECIAL LOCOMOTION: LETHAL RUSH Press the Power button during the Chain Rush Window to chain a Lethal Rush that lasts for up to 3 seconds :
+SPECIAL STATE: FATIGUE After either the Chain Rush Window closes, the final Lethal Rush elapses, or The Blight fails to perform a Slam , he enters a state of Fatigue for 2.5 seconds .
+NOTE : based on in-game observations, it appears that in addition to the comparatively low values in degrees per second mentioned above, other unknown variables must also factor into The Blight's final Turn rate during a Rush , as it appears to be greater than just the values mentioned above.
+"The student is accused of grave-robbing with the intent of unsanctioned scientific testing." — Faculty Reprimand of Talbot Grimes, 1838
+"...suspected to cause atypical alterations in neural rhythmic activity." — Unlabelled Mystery School Text
+"In a wasteland of forgotten dreams and endless routine, the man with a way out is God." — Talbot Grimes
+"Time is scarce. Let this be the one..." — Talbot Grimes
+"Progress requires drastic change." — Talbot Grimes
+Used exclusively in 2v8 Trials, the Innate Skill modifies Blighted Corruption with the following effects:
+There are 2 Achievements related to The Blight :
+Dragon's Grip has a cool-down of 60 / 45 / 30 seconds .
+"Such potential in this compound... even the slightest trace causes unnatural effects." — Journal of Talbot Grimes
+Hex: Blood Favour lights a Hex Totem at the start of the Trial, cursing Survivors with its Hex Effects . Whenever a Survivor loses a Health State by any means, Hex: Blood Favour triggers its effect for 15 seconds :
+"It would be no leap of the imagination to suggest that the Trials are a biological response of sorts." — Journal of Talbot Grimes
+Whenever a Survivor is within 2 / 3 / 4 metres of a Dull Totem , Hex: Undying triggers its primary effect:
+Players can choose from a variety of Cosmetic options to customise The Blight :
+"Have a fantastic holiday season and a bloody good new year!" — The Dead by Daylight Team
+"Thank you for supporting & inspiring us along the years!" - The Dead by Daylight Team
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+An Irish outfit to celebrate the holiday, gifted to Talbot by a friend in the East India Company.
+He thought he was alone in the depths of The Bleed when the figure emerged from the ground.
+He roamed the depths of The Bleed alone, until a figure rose from the ground.
+Each seeping pore contributed to the ecosystem that grew within and without him.
+He travelled to North Africa to investigate a strange new flora causing madness among the colonists.
+When one is plagued by visions beyond mortal comprehension, one must surrender to a greater purpose.
+When one is plagued by visions beyond mortal comprehension, one must surrender to a greater purpose.
+When one is plagued by visions beyond mortal comprehension, one must surrender to a greater purpose.
+Only shades of who he once was remained, the void left filled with an unrestrained fervor for something more.
+Only shades of who he once was remained, the void left filled with unrestrained fervor.
+Only shades of who he once was remained, the void left filled with unrestrained fervor.
+Only shades of who he once was remained, the void left filled with unrestrained fervor.
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+Some could argue that the alchemist hadn’t so much destroyed his former self, as he had enhanced it.
+A finely made outfit that identifies the wearer as a person of wealth and taste.
+A finely made outfit that identifies the wearer as a person of wealth and taste.
+An Irish outfit to celebrate the holiday, gifted to Talbot by a friend in the East India Company.
+During the Darkening, glacial winds blew from the Lost Realms, spreading an everlasting frost of penetrating ice clusters.
+He thought he was alone in the depths of The Bleed when the figure emerged from the ground.
+Little Talbot strolled through the woods with his family, gathering sprigs of holly to spruce up their home.
+He travelled to North Africa to investigate a strange new flora causing madness among the colonists.
+Organisms festered in his forgotten wounds, spreading disease from limb to limb.
+An extreme overdose of putrid serum culminated in a corruption like no other. Visceral cankers blossomed through his body, sprouting from his flesh and twisting out of nearly every orifice.
+The corpse had been pulled from the sea. He studied it with curiosity, taken by the creatures who made the body their home.
+A high-class ensemble that still holds the smell of London’s smoggy streets.
+A genius scientist with a cruel personality.
+Death was just the beginning of the journey.
+Talbot couldn't find the mice he used for his experiments.
+As Talbot injected the needle into himself, he noticed the serum was the color of the moon.
+The Blight has 3 alternate Character models available in the in-game Store:
